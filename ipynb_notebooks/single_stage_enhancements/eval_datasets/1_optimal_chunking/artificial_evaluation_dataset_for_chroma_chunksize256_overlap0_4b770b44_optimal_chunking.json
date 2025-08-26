@@ -1,0 +1,941 @@
+[
+    {
+        "query_id": 1,
+        "query": "Welche Voraussetzungen müssen Unterwasserkabel erfüllen, um als genehmigt zu gelten, wenn sie bereits verlegt und betrieben werden?",
+        "ground_truth": "Unterwasserkabel gelten als nach § 133 Abs. 4 des Bundesberggesetzes genehmigt, sofern sie den Voraussetzungen des § 133 Abs. 2 entsprechen.",
+        "ground_truth_chunk_contexts": [
+            " Vorhandene Unterwasserkabel \nSoweit Unterwasserkabel bereits verlegt worden sind und betrieben werden, gelten sie als nach § 133 Abs. 4 genehmigt, wenn sie den Voraussetzungen des § 133 Abs. 2 entsprechen. \n\n§ 169 Übergangszeit bei Unterstellung unter die Bergaufsicht, eingestellte Betriebe \n(1) Für Tätigkeiten und Einrichtungen im Sinne des § 2 und der §§ 126 bis 131 (Betriebe), die erst mit Inkrafttreten dieses Gesetzes der Bergaufsicht unterliegen, gilt folgendes: 1.Der Unternehmer hat seinen Betrieb unverzüglich der zuständigen Behörde anzuzeigen.2.Die nach § 51 oder nach den §§ 126 bis 130 in Verbindung mit § 51 für die Errichtung oder Führung des Betriebes erforderlichen Betriebspläne sind innerhalb einer Frist von vier Monaten nach Inkrafttreten dieses Gesetzes der zuständigen Behörde zur Zulassung einzureichen. Ist der Betriebsplan fristgemäß eingereicht, so bedarf es für die Errichtung oder Fortführung des Betriebes bis zur Unanfechtbarkeit der Entscheidung über die Zulassung keines zugelassenen Betriebsplanes. Bei Untergrund"
+        ],
+        "ground_truth_chunk_ids": [
+            "6a70b36c-4d42-4253-a193-b67eb2f392a8"
+        ],
+        "ground_truth_chunk_indices": [
+            1022
+        ],
+        "synthesizer": "single-hop"
+    },
+    {
+        "query_id": 2,
+        "query": "Wie ist die Gebäudenutzfläche gemäß dem Gebäudeenergiegesetz (GEG) zu ermitteln, wenn die durchschnittliche Geschosshöhe eines Wohngebäudes zwischen 2,5 und 3 Metern liegt?",
+        "ground_truth": "In diesem Fall ist die Gebäudenutzfläche nach der allgemeinen Regelung gemäß Satz 1 zu ermitteln, da die durchschnittliche Geschosshöhe nicht außerhalb des in § 9 genannten Bereichs von mehr als 3 Metern oder weniger als 2,5 Metern liegt.",
+        "ground_truth_chunk_contexts": [
+            "09 Gleichung 30 zu ermitteln. Abweichend von Satz 1 ist die Gebäudenutzfläche nach DIN V 18599-1: 2018-09 Gleichung 31 zu ermitteln, wenn die durchschnittliche Geschosshöhe eines Wohngebäudes, gemessen von der Oberfläche des Fußbodens zur Oberfläche des Fußbodens des darüber liegenden Geschosses, mehr als 3 Meter oder weniger als 2,5 Meter beträgt.(11) Abweichend von DIN V 18599-10: 2018-09 sind die Zonen nach DIN V 18599-10: 2018-09 Tabelle 5 Nutzung 32 und 33 als unbeheizt und ungekühlt anzunehmen und damit nicht Gegenstand von Berechnungen und Anforderungen nach diesem Gesetz. \n\n§ 26 Prüfung der Dichtheit eines Gebäudes \n(1) Wird die Luftdichtheit eines zu errichtenden Gebäudes vor seiner Fertigstellung nach DIN EN ISO 9972: 2018-12 Anhang NA überprüft, darf die gemessene Netto-Luftwechselrate bei der Ermittlung des Jahres-Primärenergiebedarfs nach § 20 Absatz 1 oder"
+        ],
+        "ground_truth_chunk_ids": [
+            "93f54b70-9272-4771-86a0-6369ba8fd9f2"
+        ],
+        "ground_truth_chunk_indices": [
+            3775
+        ],
+        "synthesizer": "single-hop"
+    },
+    {
+        "query_id": 3,
+        "query": "Wie wird die Höhe der Sicherheit für Biomasseanlagen gemäß § 39a des Erneuerbare-Energien-Gesetzes (EEG 2023) bestimmt?",
+        "ground_truth": "Die Höhe der Sicherheit für Biomasseanlagen bestimmt sich aus der Gebotsmenge multipliziert mit 60 Euro pro Kilowatt zu installierender Leistung.",
+        "ground_truth_chunk_contexts": [
+            " wird, eine zu installierende Leistung von 20 Megawatt nicht überschreiten. § 24 Absatz 1 ist entsprechend anzuwenden.Fußnote(+++ Teil 3 Abschnitt 3 Unterabschnitt 5 außer § 39 Abs. 3 Nr. 5, §§ 39b,  39d, 39g u. 39i Abs. 1a bis 5: Zur Anwendung vgl. § 39j +++) (+++ §§ 39 bis 39f: Zur Anwendung vgl. § 39g Abs. 5 Eingangssatz +++) (+++ § 39: Zur Nichtanwendung vgl. § 38 Abs. 2 GEEV 2017 +++) (+++ § 39: Zur Anwendung vgl. § 2 Abs. 3 GEEV 2017 +++) \n\n§ 39a Sicherheiten für Biomasseanlagen \nDie Höhe der Sicherheit nach § 31 für Biomasseanlagen bestimmt sich aus der Gebotsmenge multipliziert mit 60 Euro pro Kilowatt zu installierender Leistung.Fußnote(+++ Teil 3 Abschnitt 3 Unterabschnitt 5: Zur Anwendung außer § 39 Abs. 3  Nr. "
+        ],
+        "ground_truth_chunk_ids": [
+            "73fbcdcd-40fc-41fd-a02c-5a346c2c6a5d"
+        ],
+        "ground_truth_chunk_indices": [
+            3083
+        ],
+        "synthesizer": "single-hop"
+    },
+    {
+        "query_id": 4,
+        "query": "Welche Anforderungen müssen freistehende Wohngebäude mit einer Gebäudenutzfläche von bis zu 350 Quadratmetern gemäß dem Gebäudeenergiegesetz (GEG) hinsichtlich des Jahres-Primärenergiebedarfs und des Wärmedurchgangskoeffizienten erfüllen?",
+        "ground_truth": "Freistehende Wohngebäude mit einer Gebäudenutzfläche von bis zu 350 Quadratmetern dürfen den Jahres-Primärenergiebedarf für Heizung, Warmwasserbereitung, Lüftung, Kühlung und eingebaute Beleuchtung den auf die Nettogrundfläche bezogenen Wert eines entsprechenden Referenzgebäudes um nicht mehr als 40 Prozent überschreiten. Zudem darf der Wärmedurchgangskoeffizient der wärmeübertragenden Umfassungsfläche um nicht mehr als 40 Prozent über dem auf eine Nachkommastelle gerundeten 1,25-fachen Höchstwert von 0,40 Watt pro Quadratmeter und Kelvin liegen.",
+        "ground_truth_chunk_contexts": [
+            " insgesamt a)den Jahres-Primärenergiebedarf für Heizung, Warmwasserbereitung, Lüftung, Kühlung und eingebaute Beleuchtung den auf die Nettogrundfläche bezogenen Wert des Jahres-Primärenergiebedarfs eines Referenzgebäudes, das die gleiche Geometrie, Nettogrundfläche, Ausrichtung und Nutzung, einschließlich der Anordnung der Nutzungseinheiten, wie das geänderte Gebäude aufweist und der technischen Referenzausführung der Anlage 2 entspricht, um nicht mehr als 40 Prozent überschreitet undb)das auf eine Nachkommastelle gerundete 1,25fache der Höchstwerte der mittleren Wärmedurchgangskoeffizienten der wärmeübertragenden Umfassungsfläche gemäß der Anlage 3 um nicht mehr als 40 Prozent überschreitet.§ 18 Absatz 1 Satz 2 ist entsprechend anzuwenden.(2) Der Höchstwert nach Absatz 1 Satz 1 Nummer 1 Buchstabe b beträgt 1.bei einem freistehenden Wohngebäude mit einer Gebäudenutzfläche von bis zu 350 Quadratmetern 0,40 Watt pro Quadratmeter und Kelvin,2.bei einem freistehenden Wohngebäude"
+        ],
+        "ground_truth_chunk_ids": [
+            "0b866e91-f296-4803-87cc-6bb0343f6eab"
+        ],
+        "ground_truth_chunk_indices": [
+            3795
+        ],
+        "synthesizer": "single-hop"
+    },
+    {
+        "query_id": 5,
+        "query": "Welche Angaben müssen gemäß § 51 Absatz 1 des Windenergie-auf-See-Gesetzes in Geboten enthalten sein?",
+        "ground_truth": "Gebote müssen die folgenden Angaben enthalten: 1. die Angaben nach § 30 Absatz 1 Nummer 1 und Absatz 2a des Erneuerbare-Energien-Gesetzes, 2. die Erklärung, dass der Bieter mit der Nutzung von Unterlagen durch das Bundesamt für Seeschifffahrt und Hydrographie und die Bundesnetzagentur nach § 91 Absatz 1 einverstanden ist, 3. den Gebotswert in Euro ohne Nachkommastelle, wobei der anzugebende Gebotswert nicht negativ sein darf, und 4. die Bezeichnung der Fläche.",
+        "ground_truth_chunk_contexts": [
+            ".einen Hinweis auf die nach § 67 Absatz 6 und § 69 Absatz 3 Satz 1 Nummer 7 erforderliche Verpflichtungserklärung,7.die jeweiligen Unterlagen nach § 10 Absatz 1 für die ausgeschriebenen Flächen und8.die Angabe, ob für die ausgeschriebenen Flächen die Voraussetzungen für ein Eintrittsrecht nach § 61 Absatz 1 Nummer 1 bis 5 vorliegen. \n\n§ 51 Anforderungen an Gebote \n(1) Gebote müssen die folgenden Angaben enthalten: 1.die Angaben nach § 30 Absatz 1 Nummer 1 und Absatz 2a des Erneuerbare-Energien-Gesetzes,2.die Erklärung, dass der Bieter mit der Nutzung von Unterlagen durch das Bundesamt für Seeschifffahrt und Hydrographie und die Bundesnetzagentur nach § 91 Absatz 1 einverstanden ist,3.den Gebotswert in Euro ohne Nachkommastelle; § 30 Absatz 1 Nummer 5 des Erneuerbare-Energien-Gesetzes ist mit der Maßgabe anzuwenden, dass der anzugebende Gebotswert nicht negativ sein darf,4.die Bezeichnung der Fläche, für"
+        ],
+        "ground_truth_chunk_ids": [
+            "d831ee4c-5666-4e9e-98a5-31040fe202ee"
+        ],
+        "ground_truth_chunk_indices": [
+            6060
+        ],
+        "synthesizer": "single-hop"
+    },
+    {
+        "query_id": 6,
+        "query": "Welche Unterlagen müssen im Rahmen des Beteiligungsverfahrens nach dem UVPG der Öffentlichkeit zur Einsicht ausgelegt werden?",
+        "ground_truth": "Im Rahmen des Beteiligungsverfahrens nach dem UVPG müssen der UVP-Bericht sowie die das Vorhaben betreffenden entscheidungserheblichen Berichte und Empfehlungen, die der zuständigen Behörde zum Zeitpunkt des Beginns des Beteiligungsverfahrens vorgelegen haben, zur Einsicht für die Öffentlichkeit ausgelegt werden.",
+        "ground_truth_chunk_contexts": [
+            " sind und bei denen Äußerungen oder Fragen eingereicht werden können, sowie über die festgelegten Fristen zur Übermittlung dieser Äußerungen oder Fragen,4.über die Art einer möglichen Zulassungsentscheidung,5.darüber, dass ein UVP-Bericht vorgelegt wurde,6.über die Bezeichnung der das Vorhaben betreffenden entscheidungserheblichen Berichte und Empfehlungen, die der zuständigen Behörde zum Zeitpunkt des Beginns des Beteiligungsverfahrens vorliegen,7.darüber, wo und in welchem Zeitraum die Unterlagen nach den Nummern 5 und 6 zur Einsicht ausgelegt werden sowie8.über e Einzelheiten des Verfahrens der Beteiligung der Öffentlichkeit.(2) Im Rahmen des Beteiligungsverfahrens legt die zuständige Behörde zumindest folgende Unterlagen zur Einsicht für die Öffentlichkeit aus: 1.den UVP-Bericht,2.die das Vorhaben betreffenden entscheidungserheblichen Berichte und Empfehlungen, die der zuständigen Behörde zum Zeitpunkt des Beginns des Beteiligungsverfahrens vorgelegen haben.In Verfahren nach § 18 Absatz 2 und § 1 der Atomrechtlichen Verfahrensverordnung können die Unterlagen abweichend von § 18 Absatz 1"
+        ],
+        "ground_truth_chunk_ids": [
+            "f6461f5a-8474-4707-85ab-6a96eda9a13c"
+        ],
+        "ground_truth_chunk_indices": [
+            5525
+        ],
+        "synthesizer": "single-hop"
+    },
+    {
+        "query_id": 7,
+        "query": "Welche Anforderungen müssen Bieter erfüllen, wenn sie mehrere Gebote für unterschiedliche Steinkohleanlagen in einer Ausschreibung abgeben möchten, und welche Fristen sind dabei zu beachten?",
+        "ground_truth": "Bieter, die mehrere Gebote für unterschiedliche Steinkohleanlagen abgeben, müssen die Gebote nummerieren und eindeutig kennzeichnen, welche Nachweise zu welchem Gebot gehören. Zudem müssen die Gebote der Bundesnetzagentur spätestens am jeweiligen Gebotstermin zugehen. Nicht fristgerecht eingegangene Gebote bleiben unberücksichtigt.",
+        "ground_truth_chunk_contexts": [
+            " wird, sofern vorhanden, und13.eine aktuelle Bankverbindung.(2) Die Gebotsmenge nach Absatz 1 Nummer 5 muss stets der gesamten Nettonennleistung der Steinkohleanlage entsprechen.(3) Dem Gebot sind Nachweise über das Vorliegen der Voraussetzungen nach Absatz 1 Nummer 10 und § 12 Absatz 1 Satz 2 Nummer 4 bis 7 beizufügen. Gibt ein Bieter in einer Ausschreibung mehrere Gebote für unterschiedliche Steinkohleanlagen ab, muss er die Gebote nummerieren und eindeutig kennzeichnen, welche Nachweise zu welchem Gebot gehören.(4) Die Gebote müssen der Bundesnetzagentur spätestens am jeweiligen Gebotstermin zugehen. Nicht fristgerecht eingegangene Gebote bleiben unberücksichtigt. Gebote müssen den Formatvorgaben nach § 11 Absatz 3 entsprechen, soweit die Bundesnetzagentur Formatvorgaben gemacht hat.\n\n          Fußnote(+++ Teil 3 (§§ 10 bis 26): Zur Anwendung vgl. § 43 Satz 2 +++) \n\n§ 15 Rücknahme von Geboten \n(1) Die Rücknahme von Geboten ist bis zu dem jeweiligen Gebotstermin zulässig. Maßgeblich"
+        ],
+        "ground_truth_chunk_ids": [
+            "580d7613-4b79-414d-a103-01c26a7487c6"
+        ],
+        "ground_truth_chunk_indices": [
+            4293
+        ],
+        "synthesizer": "single-hop"
+    },
+    {
+        "query_id": 8,
+        "query": "Welche Voraussetzungen müssen erfüllt sein, damit ein Anlagenbetreiber ein Gebot für eine Steinkohleanlage im Rahmen des Kohleverstromungsbeendigungsgesetzes abgeben kann?",
+        "ground_truth": "Der Anlagenbetreiber muss folgende Voraussetzungen erfüllen: 1. Eine wirksame Genehmigung nach den §§ 4 bis 6 des Bundes-Immissionsschutzgesetzes zur Verfeuerung von Steinkohle zur Erzeugung elektrischer Energie muss vorliegen. 2. Steinkohle muss der Hauptenergieträger der Steinkohleanlage sein. 3. Der Anlagenbetreiber muss nachweisen, dass die Eigentümer der Steinkohleanlage mit der Gebotsabgabe einverstanden sind. 4. Eine gemeinsame Erklärung der zuständigen Tarifpartner muss vorgelegt werden, die bestätigt, dass für die Steinkohleanlage ein Tarifvertrag oder eine Betriebsvereinbarung besteht, die den Abbau der Beschäftigung im Zuge des Verbots der Kohleverfeuerung betrifft. 5. Der Anlagenbetreiber muss dem Bundesamt für Wirtschaft und Ausfuhrkontrolle durch eine verbindliche Erklärung nachweisen, dass er für die Steinkohleanlage, für die er bis einschließlich 31. Mai 2021 ein Gebot abgibt, den Kohleersatzbonus nach § 7 beantragt hat.",
+        "ground_truth_chunk_contexts": [
+            "wirksame Genehmigung nach den §§ 4 bis 6 des Bundes-Immissionsschutzgesetzes zur Verfeuerung von Steinkohle zum Zweck der Erzeugung elektrischer Energie,3.Steinkohle ist der Hauptenergieträger der Steinkohleanlage,4.der Anlagenbetreiber weist durch eine Erklärung nach, dass der oder die Eigentümer der Steinkohleanlage mit der Gebotsabgabe einverstanden ist oder sind,5.der Anlagenbetreiber weist durch Vorlage einer gemeinsamen Erklärung der zuständigen Tarifpartner nach, dass für die Steinkohleanlage, für die ein Gebot abgegeben wird, ein Tarifvertrag oder eine Betriebsvereinbarung Anwendung findet, die den Abbau der Beschäftigung in der Steinkohleanlage betrifft, der aufgrund eines Verbots der Kohleverfeuerung nach § 51 in Verbindung mit einem Zuschlag nach § 21 erfolgt,6.der Anlagenbetreiber hat dem Bundesamt für Wirtschaft und Ausfuhrkontrolle durch Vorlage einer verbindlichen Erklärung nachgewiesen, dass er für die Steinkohleanlage, für die er a)bis einschließlich 31. Mai 2021 ein Gebot in der Ausschreibung abgibt, den Kohleersatzbonus nach § 7"
+        ],
+        "ground_truth_chunk_ids": [
+            "db2e8151-769c-4891-853e-6b6cd94d62d0"
+        ],
+        "ground_truth_chunk_indices": [
+            4284
+        ],
+        "synthesizer": "single-hop"
+    },
+    {
+        "query_id": 9,
+        "query": "Welche Regelungen enthält das EEG 2023 bezüglich der finanziellen Beteiligung der Kommunen am Ausbau erneuerbarer Energien?",
+        "ground_truth": "Das EEG 2023 enthält in § 6 Regelungen zur finanziellen Beteiligung der Kommunen am Ausbau erneuerbarer Energien. Diese Bestimmung zielt darauf ab, den Kommunen eine angemessene finanzielle Teilhabe an den Erträgen und Vorteilen aus dem Ausbau erneuerbarer Energien zu ermöglichen, um die Akzeptanz und Unterstützung in der Bevölkerung zu fördern.",
+        "ground_truth_chunk_contexts": [
+            "Teil 1Allgemeine Bestimmungen§   1Ziel des Gesetzes§   1aZeitliche Transformation§   2Besondere Bedeutung der erneuerbaren Energien§   3Begriffsbestimmungen§   4Ausbaupfad§   4aStrommengenpfad§   5Ausbau im In- und Ausland§   6Finanzielle Beteiligung der Kommunen am Ausbau§   7Gesetzliches SchuldverhältnisTeil 2Anschluss, Abnahme, Übertragung und VerteilungAbschnitt 1Allgemeine Bestimmungen§   8Anschluss§   8aFlexible Netzanschlussvereinbarungen§   8bMitteilung des Einspeiseortes§   9Technische Vorgaben§  10Ausführung und Nutzung des Anschlusses§  10aMessstellenbetrieb; Übergangsregelung für Steckersolargeräte§  10bVorgaben zur Direktvermarktung§  10cZuordnung geringfügiger Verbräuche§  11Abnahme, Übertragung und Verteilung§  11aRecht zur Verlegung von Leitungen§  11bRecht zur Überfahrt während der"
+        ],
+        "ground_truth_chunk_ids": [
+            "1fa8660e-2f0a-4e34-a9fa-77acd8ef76e3"
+        ],
+        "ground_truth_chunk_indices": [
+            2863
+        ],
+        "synthesizer": "single-hop"
+    },
+    {
+        "query_id": 10,
+        "query": "Welche Regelungen sieht das Erneuerbare-Energien-Gesetz (EEG 2023) in Bezug auf innovative Konzepte mit wasserstoffbasierter Stromspeicherung vor?",
+        "ground_truth": "Das Erneuerbare-Energien-Gesetz (EEG 2023) enthält in § 88e eine Verordnungsermächtigung zu Ausschreibungen für innovative Konzepte mit wasserstoffbasierter Stromspeicherung. Diese Regelung ermöglicht die Förderung und den Ausbau von Technologien, die Wasserstoff als Speichermedium für Strom nutzen, um die Integration erneuerbarer Energien in das Stromversorgungssystem zu unterstützen.",
+        "ground_truth_chunk_contexts": [
+            "dVerordnungsermächtigung zu Innovationsausschreibungen§  88eVerordnungsermächtigung zu den Ausschreibungen für innovative Konzepte mit wasserstoffbasierter Stromspeicherung§  88fVerordnungsermächtigung zu den Ausschreibungen für Anlagen zur Erzeugung von Strom aus Grünem Wasserstoff§  89Verordnungsermächtigung zur Stromerzeugung aus Biomasse§  90Verordnungsermächtigung zu Nachhaltigkeitsanforderungen für Biomasse§  91Verordnungsermächtigung zum Ausgleichsmechanismus§  92Verordnungsermächtigung zu Herkunftsnachweisen und Regionalnachweisen§  93Verordnungsermächtigung zu Anforderungen an Grünen Wasserstoff§  94Verordnungsermächtigung zu systemdienlichem Anlagenbetrieb§  95Weitere Verordnungsermächtigungen§  96Gemeinsame BestimmungenAbschnitt 2Kooperationsausschuss, Monitoring, Berichte§  97Kooperationsausschuss§  98Jährliches Monitoring zur Zielerreichung§  99Erfahrungsbericht§  99aFortschrittsbericht Windenergie an Land§  99"
+        ],
+        "ground_truth_chunk_ids": [
+            "9711b598-8dcb-4040-b6d5-d1988afbe35e"
+        ],
+        "ground_truth_chunk_indices": [
+            2874
+        ],
+        "synthesizer": "single-hop"
+    },
+    {
+        "query_id": 11,
+        "query": "Welche Informationen sind im Erfahrungsbericht, der bis zum 31. März 2024 dem Deutschen Bundestag vorgelegt werden muss, enthalten?",
+        "ground_truth": "Der Erfahrungsbericht muss insbesondere Angaben über die Entwicklung des nachhaltigen Rohstoffpotenzials für die unterschiedlichen Erfüllungsoptionen, den Stand der technischen Entwicklung und Kosten unterschiedlicher Herstellungstechnologien für Biokraftstoffe, Wasserstoff, strombasierten Kraftstoffen und andere Erfüllungsoptionen, die Produktionskapazitäten dieser Erfüllungsoptionen sowie die Einhaltung der Nachhaltigkeitskriterien und die Auswirkungen der ansteigenden Treibhausgasminderungs-Quote auf die Natur enthalten.",
+        "ground_truth_chunk_contexts": [
+            "37a bis 37f dieses Gesetzes sowie die auf Grund dieser Regelungen erlassenen Verordnungen, insbesondere die Verordnung zur Durchführung der Regelungen der Biokraftstoffquote, die Verordnung zur Anrechnung von strombasierten Kraftstoffen und mitverarbeiteten biogenen Ölen auf die Treibhausgasquote, die Verordnung zur Festlegung er Bestimmungen zur Treibhausgasminderung bei Kraftstoffen sowie die Biokraftstoff-Nachhaltigkeitsverordnung und legt dem Deutschen Bundestag bis zum 31. März 2024 und dann alle zwei Jahre einen Erfahrungsbericht vor. Der Bericht enthält insbesondere Angaben über 1.die Entwicklung des nachhaltigen Rohstoffpotenzials für die unterschiedlichen Erfüllungsoptionen,2.den Stand der technischen Entwicklung und Kosten unterschiedlicher Herstellungstechnologien für Biokraftstoffe, Wasserstoff, strombasierte Kraftstoffe und anderer Erfüllungsoptionen,3.die Produktionskapazitäten unterschiedlicher Erfüllungsoptionen, insbesondere der Mengen an Wasserstoff und strombasierten Kraftstoffen, die durch dieses Gesetz angereizt werden,4.die Einhaltung der Nachhaltigkeitskriterien und Auswirkungen der ansteigenden Treibhausgasminderungs-Quote auf Natur"
+        ],
+        "ground_truth_chunk_ids": [
+            "c6a823f9-acb8-4dac-9d98-f94a12a42d72"
+        ],
+        "ground_truth_chunk_indices": [
+            639
+        ],
+        "synthesizer": "single-hop"
+    },
+    {
+        "query_id": 12,
+        "query": "Welche Folgen hat es, wenn ein Unternehmen die in § 2 Absatz 1 der Gassicherungsverordnung festgelegte Meldepflicht nicht fristgerecht erfüllt?",
+        "ground_truth": "Wenn ein Unternehmen die Meldepflicht gemäß § 2 Absatz 1 der Gassicherungsverordnung nicht ordnungsgemäß erfüllt, kann dies zu einem Bußgeldverfahren führen, sofern der Verstoß nicht innerhalb eines Monats nach dem 5. April 2023 behoben wurde.",
+        "ground_truth_chunk_contexts": [
+            " und Eisenbahnen kann die zur Erfüllung ihrer Aufgaben nach dem Energiesicherungsgesetz notwendigen Informationen über die Plattform abfragen. Plattformteilnehmer müssen diese Informationen nach Feststellung gemäß § 7 Absatz 2 Satz 1 Nummer 1 oder auf Anforderung der Bundesnetzagentur fortlaufend aktualisieren.(7) Wurde bis zum Ablauf des 4. April 2023 einer Pflicht nach Absatz 2 Satz 1, Absatz 3 Satz 1, Absatz 4 Satz 1, Absatz 6 Satz 1 oder Absatz 6 Satz 5 nicht ordnungsgemäß nachgekommen, kann ein Bußgeldverfahren nur dann eingeleitet werden, wenn der Verstoß nicht innerhalb eines Monats nach dem 5. April 2023 behoben wurde. \n\n§ 2 Meldepflichten \n(1) Unternehmen und Betriebe, die Gas gewinnen, herstellen oder einführen und in das Netz der öffentlichen Versorgung abgeben können, sind verpflichtet, der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen sowie der nach Landesrecht zuständigen Stelle Meldungen entsprechend der Anlage zu dieser Verordnung bis zum Zehnten jeden Monats zu erstatten. Die Bundesnetzagentur für Elektrizität, Gas"
+        ],
+        "ground_truth_chunk_ids": [
+            "39d953ac-c1ff-4f70-a5b5-fdaec632a1d8"
+        ],
+        "ground_truth_chunk_indices": [
+            3700
+        ],
+        "synthesizer": "single-hop"
+    },
+    {
+        "query_id": 13,
+        "query": "Welche Regelungen sind im Kohlendioxid-Speicherungsgesetz (KSpG) bezüglich der Erhebung von Gebühren und Auslagen für Amtshandlungen festgelegt?",
+        "ground_truth": "Das Kohlendioxid-Speicherungsgesetz (KSpG) erlaubt es, für Amtshandlungen nach diesem Gesetz Gebühren und Auslagen nach Maßgabe des Landesrechts zu erheben. Die zuständigen Behörden müssen eine bestimmte Quote der eingenommenen Gebühren, die für Amtshandlungen nach den §§ 7, 13 und 17 generiert werden, an die Bundeskasse abführen. Zudem wird das Bundesministerium für Wirtschaft und Energie ermächtigt, durch Rechtsverordnung die Quote der abzuführenden Gebühreneinnahmen der Länder festzulegen, wobei dies im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit und dem Bundesministerium der Finanzen und mit Zustimmung des Bundesrates geschieht.",
+        "ground_truth_chunk_contexts": [
+            " stellt sie für den Wissensaustausch sowie für die Erstellung des Evaluierungsberichtes nach § 44 zur Verfügung. Sie kann bestimmen, welche wissenschaftlichen Einrichtungen in den Wissensaustausch einzubeziehen sind, und anordnen, dass die nach Absatz 1 erforderlichen Daten zur Verfügung gestellt werden. \n\n§ 41 Gebühren und Auslagen; Verordnungsermächtigung \n(1) Für Amtshandlungen nach diesem Gesetz können Gebühren und Auslagen nach Maßgabe des Landesrechts erhoben werden. Die nach § 39 Absatz 1 zuständigen Behörden haben die durch Rechtsverordnung nach Absatz 2 zu bestimmende Quote der Gebühren, die für Amtshandlungen nach den §§ 7, 13 und 17 eingenommen werden, an die Bundeskasse abzuführen.(2) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit und dem Bundesministerium der Finanzen durch Rechtsverordnung mit Zustimmung des Bundesrates die nach Absatz 1 Satz 2 an den Bund abzuführende Quote der Gebühreneinnahmen der Länder festzulegen. \n\n§ 42 Landesrechtliche Speicherabgaben \nDie Entscheidung über"
+        ],
+        "ground_truth_chunk_ids": [
+            "394d3b21-98d8-49b5-a2a5-87efc25eaf93"
+        ],
+        "ground_truth_chunk_indices": [
+            4226
+        ],
+        "synthesizer": "single-hop"
+    },
+    {
+        "query_id": 14,
+        "query": "Welche Anforderungen müssen gemäß § 51 des Windenergie-auf-See-Gesetzes (WindSeeG) an Gebote gestellt werden?",
+        "ground_truth": "§ 51 des Windenergie-auf-See-Gesetzes (WindSeeG) legt spezifische Anforderungen fest, die Gebote bei Ausschreibungen für zentrale voruntersuchte Flächen erfüllen müssen. Diese Anforderungen sind darauf ausgerichtet, sicherzustellen, dass die Gebote sowohl technisch als auch finanziell tragfähig sind, um den erfolgreichen Ausbau von Windenergie auf See zu gewährleisten. Die genauen Details sind im Gesetzestext näher beschrieben und können spezifische Vorgaben zu Qualifikationen, Erfahrungen, technischen Spezifikationen und finanziellen Nachweisen beinhalten.",
+        "ground_truth_chunk_contexts": [
+            "  32Sicherheit§  33Höchstwert§  34Zuschlagsverfahren§  35Flächenbezug des Zuschlags§  36Zuschlagswert und anzulegender Wert§  37Rechtsfolgen des Zuschlags§  38Erstattung von Sicherheiten an Bieter ohne ZuschlagAbschnitt 4(weggefallen)Unterabschnitt 1(weggefallen)§  39(weggefallen)§  40(weggefallen)§  41(weggefallen)§  42(weggefallen)§  43(weggefallen)§  44(weggefallen)§  45(weggefallen)Unterabschnitt 2(weggefallen)§  46(weggefallen)§  47(weggefallen)§  48(weggefallen)§  49(weggefallen)Abschnitt 5Ausschreibungen fürzentral voruntersuchte FlächenUnterabschnitt 1Besondere Ausschreibungsbedingungen§  50Bekanntmachung der Ausschreibung§  51Anforderungen an Gebote§  52Sicherheit§  "
+        ],
+        "ground_truth_chunk_ids": [
+            "a5f16c14-e506-4021-ab77-3ff12967c7ce"
+        ],
+        "ground_truth_chunk_indices": [
+            5975
+        ],
+        "synthesizer": "single-hop"
+    },
+    {
+        "query_id": 15,
+        "query": "Welche Befugnisse haben die zuständigen Behörden gemäß dem Energieverbrauchsrelevante-Produkte-Gesetz (EVPG) zur Überprüfung der Einhaltung der Anforderungen nach § 4 Absatz 1?",
+        "ground_truth": "Die zuständigen Behörden sind befugt, zu den üblichen Betriebs- und Geschäftszeiten Geschäftsräume und Betriebsgrundstücke zu betreten, um die Einhaltung der Anforderungen nach § 4 Absatz 1 zu überprüfen. Sie können zudem das Inverkehrbringen, die Inbetriebnahme oder die Bereitstellung eines Produkts vorübergehend verbieten, die Rücknahme oder den Rückruf eines nicht konformen Produkts anordnen und die Vorlage bestimmter Unterlagen innerhalb von zehn Tagen verlangen.",
+        "ground_truth_chunk_contexts": [
+            " 5 angebracht werden,5.das Inverkehrbringen, die Inbetriebnahme oder die Bereitstellung auf dem Markt für den zur Prüfung zwingend erforderlichen Zeitraum vorübergehend zu verbieten,6.zu verbieten, dass ein Produkt in den Verkehr gebracht, in Betrieb genommen oder auf dem Markt bereitgestellt wird, ohne dass die Anforderungen nach § 4 Absatz 1 erfüllt sind,7.die Rücknahme oder den Rückruf eines in Verkehr gebrachten oder in Betrieb genommenen Produkts anzuordnen oder ein solches Produkt sicherzustellen, wenn die Anforderungen nach § 4 Abs. 1 nicht erfüllt sind,8.zu verlangen, dass ihr Unterlagen, die gemäß § 4 Abs. 6 bereitzuhalten sind, innerhalb von zehn Tagen nach Anforderung vorgelegt werden.Die zuständige Behörde widerruft oder ändert eine Maßnahme nach Satz 2, wenn der Wirtschaftsakteur oder der Aussteller nachweist, dass er wirksame Maßnahmen ergriffen hat.(4) Die zuständigen Behörden und deren Beauftragte sind befugt, soweit dies zur Erfüllung ihrer Aufgaben erforderlich ist, zu den üblichen Betriebs- und Geschäftszeiten Geschäftsräume und Betriebsgrundstücke zu betreten, in oder auf denen im Rahmen einer"
+        ],
+        "ground_truth_chunk_ids": [
+            "66e39272-d3db-4d75-bbfa-76ca47941822"
+        ],
+        "ground_truth_chunk_indices": [
+            1849
+        ],
+        "synthesizer": "single-hop"
+    },
+    {
+        "query_id": 16,
+        "query": "Unter welchen Bedingungen kann ein Netzbetreiber die Anschlussnutzung gemäß der Niederdruckanschlussverordnung (NDAV) unterbrechen?",
+        "ground_truth": "Ein Netzbetreiber kann die Anschlussnutzung unterbrechen, wenn a) eine unmittelbare Gefahr für die Sicherheit von Personen oder Sachen von erheblichem Wert besteht, b) die Anschlussnutzung unter Umgehung oder Beeinflussung der Messeinrichtungen erfolgt oder c) Störungen anderer Anschlussnehmer oder -nutzer oder störende Rückwirkungen auf Einrichtungen des Netzbetreibers oder Dritter ausgeschlossen werden müssen. Zudem ist der Netzbetreiber berechtigt, bei Nichterfüllung einer Zahlungsverpflichtung trotz Mahnung die Nutzung vier Wochen nach Androhung zu unterbrechen, es sei denn, die Folgen der Unterbrechung stehen außer Verhältnis zur Schwere der Zuwiderhandlung oder der Anschlussnehmer kann darlegen, dass er seinen Verpflichtungen nachkommt. Des Weiteren kann die Unterbrechung auf Anweisung des Lieferanten des Anschlussnutzers erfolgen, sofern dieser vertraglich dazu berechtigt ist.",
+        "ground_truth_chunk_contexts": [
+            "ine unmittelbare Gefahr für die Sicherheit von Personen oder Sachen von erheblichem Wert abzuwenden,2.die Anschlussnutzung unter Umgehung, Beeinflussung oder vor Anbringung der Messeinrichtungen zu verhindern oder3.zu gewährleisten, dass Störungen anderer Anschlussnehmer oder -nutzer oder störende Rückwirkungen auf Einrichtungen des Netzbetreibers oder Dritter ausgeschlossen sind.Der Netzbetreiber ist verpflichtet, dem Anschlussnehmer oder -nutzer auf Nachfrage mitzuteilen, aus welchem Grund die Unterbrechung vorgenommen worden ist.(2) Bei anderen Zuwiderhandlungen, insbesondere bei Nichterfüllung einer Zahlungsverpflichtung trotz Mahnung, ist der Netzbetreiber berechtigt, den Netzanschluss und die Anschlussnutzung vier Wochen nach Androhung zu unterbrechen. Dies gilt nicht, wenn die Folgen der Unterbrechung außer Verhältnis zur Schwere der Zuwiderhandlung stehen oder der Anschlussnehmer oder -nutzer darlegt, dass hinreichende Aussicht besteht, dass er seinen Verpflichtungen nachkommt.(3) Der Netzbetreiber ist berechtigt, auf Anweisung des Lieferanten des Anschlussnutzers die Anschlussnutzung zu unterbrechen, soweit der Lieferant dem Anschlussnutzer gegenüber hierzu vertraglich berechtigt"
+        ],
+        "ground_truth_chunk_ids": [
+            "8abffbfb-60bf-4431-b27c-97ac2e11287e"
+        ],
+        "ground_truth_chunk_indices": [
+            4957
+        ],
+        "synthesizer": "single-hop"
+    },
+    {
+        "query_id": 17,
+        "query": "Welche Zuschläge gelten gemäß dem Kraft-Wärme-Kopplungsgesetz (KWKG 2025) für KWK-Anlagen mit einer Leistung von mehr als 50 Kilowatt bis zu 2 Megawatt?",
+        "ground_truth": "Für KWK-Anlagen mit einer Leistung von mehr als 50 Kilowatt bis zu 100 Kilowatt gilt ein Zuschlag von 6 Cent je Kilowattstunde. Für den KWK-Leistungsanteil von mehr als 100 Kilowatt bis zu 250 Kilowatt beträgt der Zuschlag 5 Cent je Kilowattstunde. Für den KWK-Leistungsanteil von mehr als 250 Kilowatt bis zu 2 Megawatt liegt der Zuschlag bei 4,4 Cent je Kilowattstunde.",
+        "ground_truth_chunk_contexts": [
+            " mehr als 50 Kilowatt und bis zu 100 Kilowatt: 6 Cent je Kilowattstunde,3.für den KWK-Leistungsanteil von mehr als 100 Kilowatt bis zu 250 Kilowatt: 5 Cent je Kilowattstunde,4.für den KWK-Leistungsanteil von mehr als 250 Kilowatt bis zu 2 Megawatt: 4,4 Cent je Kilowattstunde und5.für den KWK-Leistungsanteil von mehr als 2 Megawatt a)für neue KWK-Anlagen 3,4 Cent je Kilowattstunde,b)für modernisierte KWK-Anlagen 3,4 Cent je Kilowattstunde,c)für nachgerüstete KWK-Anlagen 3,1 Cent je Kilowattstunde.Der Zuschlag nach Satz 1 Nummer 5 Buchstabe a erhöht sich ab dem 1. Januar 2023 um 0,5 Cent je Kilowattstunde, soweit das Bundesministerium für Wirtschaft und Klimaschutz im Jahr 2022 die Angemessenheit der Erhöhung überprüft und festgestellt hat, dass mit der Erhöhung der Zuschläge die Differenz zwischen den Gesamtgestehungskosten der Stromer"
+        ],
+        "ground_truth_chunk_ids": [
+            "8579ff99-9da5-47c1-9a21-9292057c1f23"
+        ],
+        "ground_truth_chunk_indices": [
+            4448
+        ],
+        "synthesizer": "single-hop"
+    },
+    {
+        "query_id": 18,
+        "query": "Welche Voraussetzungen müssen erfüllt sein, damit bestimmte landwirtschaftliche Betriebe von der Energiesteuer gemäß dem Energiesteuergesetz (EnergieStG) befreit werden können?",
+        "ground_truth": "Die landwirtschaftlichen Betriebe müssen entweder die Grenzen des § 241 des Bewertungsgesetzes nicht überschreiten oder der Inhaber muss eine Körperschaft, Personenvereinigung oder Vermögensmasse sein, die ausschließlich und unmittelbar kirchliche, gemeinnützige oder mildtätige Zwecke verfolgt. Zudem sind spezifische Betriebe wie Imkereien, Wanderschäfereien und Teichwirtschaften von der Energiesteuer befreit, sofern die Einkünfte nach § 13 Abs. 1 Nr. 2 des Einkommensteuergesetzes erzielt werden.",
+        "ground_truth_chunk_contexts": [
+            " Nummer 4 des Einkommensteuergesetzes ist und bei denen im Falle der Gewinnung tierischer Erzeugnisse die mit der Bodenbewirtschaftung verbundene Tierhaltung die Grenzen des § 241 des Bewertungsgesetzes in der Fassung der Bekanntmachung vom 1. Februar 1991 (BGBl. I S. 230), das zuletzt durch Artikel 31 des Gesetzes vom 22. Dezember 2023 (BGBl. 2023 I Nr. 411) geändert worden ist, in der jeweils geltenden Fassung nicht überschreitet oderc)deren Inhaber eine Körperschaft, Personenvereinigung oder Vermögensmasse ist, die ausschließlich und unmittelbar kirchliche, gemeinnützige oder mildtätige Zwecke verfolgt,2.Imkereien, aus denen natürliche Personen Einkünfte nach § 13 Abs. 1 Nr. 2 des Einkommensteuergesetzes erzielen oder deren Inhaber eine Personenvereinigung oder eine juristische Person des privaten Rechts ist,3.Wanderschäfereien und Teichwirtschaften,4.Schöpfwerke zur Be- und Entwässerung land- und forstwirtschaftlich genutzter Grundstücke,5.Betriebe, insbesondere"
+        ],
+        "ground_truth_chunk_ids": [
+            "c7e15e63-2a76-4aa4-9a5f-974770a916d5"
+        ],
+        "ground_truth_chunk_indices": [
+            1714
+        ],
+        "synthesizer": "single-hop"
+    },
+    {
+        "query_id": 19,
+        "query": "Wie wird der anzulegende Wert für Biomasseanlagen mit einer installierten Leistung bis einschließlich 500 Kilowatt in den Kalenderjahren 2024 und 2025 bestimmt?",
+        "ground_truth": "Der anzulegende Wert für Biomasseanlagen mit einer installierten Leistung bis einschließlich 500 Kilowatt wird in den Kalenderjahren 2024 und 2025 durch den jeweiligen Zuschlagswert in den Ausschreibungen zuzüglich 0,5 Cent pro Kilowattstunde bestimmt.",
+        "ground_truth_chunk_contexts": [
+            " Komma gerundet. Für die Berechnung der Höhe der anzulegenden Werte aufgrund einer erneuten Anpassung nach Satz 2 sind die ungerundeten Werte zugrunde zu legen.(4) Im Übrigen sind die §§ 44b und 44c entsprechend anzuwenden, wobei die Erfüllung der Anforderungen nach den Absätzen 1 und 3 in entsprechender Anwendung des § 44c Absatz 1 Nummer 1 und Absatz 2 jährlich durch Vorlage einer Kopie eines Einsatzstoff-Tagebuchs nachzuweisen ist.(5) Der anzulegende Wert ist für alle bezuschlagten Gebote in den Ausschreibungen in den Kalenderjahren 2024 und 2025 für Biomasseanlagen mit einer installierten Leistung bis einschließlich 500 Kilowatt der jeweilige Zuschlagswert zuzüglich 0,5 Cent pro Kilowattstunde.Fußnote(+++ Teil 3 Abschnitt 3 Unterabschnitt 5 außer § 39 Abs. 3 Nr. 5, Abs. 4,  §§ 39b, 39d, 39g u. 39i Abs. 1a bis 5: Zur Anwendung vgl. § 39j Abs. 1 +++) (+++"
+        ],
+        "ground_truth_chunk_ids": [
+            "2a2e678c-cb4e-45f4-ad6d-1f27274d120d"
+        ],
+        "ground_truth_chunk_indices": [
+            3108
+        ],
+        "synthesizer": "single-hop"
+    },
+    {
+        "query_id": 20,
+        "query": "Welche Voraussetzungen müssen erfüllt sein, damit ein neuer Lieferant die Übertragung der vom bisherigen Lieferanten gebuchten Ein- und Ausspeisekapazitäten verlangen kann, gemäß § 42 GasNZV?",
+        "ground_truth": "Ein neuer Lieferant kann die Übertragung der für die Versorgung des Kunden erforderlichen, vom bisherigen Lieferanten gebuchten Ein- und Ausspeisekapazitäten verlangen, wenn die Versorgung des Kunden entsprechend der von ihm eingegangenen Lieferverpflichtung ansonsten nicht möglich ist. Der neue Lieferant muss dies gegenüber dem bisherigen Lieferanten begründen. Die erforderliche Höchstmenge gilt als die vom Kunden abgenommene Höchstmenge des vorangegangenen Abnahmejahres, sofern eine entsprechende Höchstabnahmemenge auch hin zu vermuten ist.",
+        "ground_truth_chunk_contexts": [
+            "ührt. \n\n§ 42 Rucksackprinzip \nBei einem Wechsel des Lieferanten kann der neue Lieferant vom bisherigen Lieferanten die Übertragung der für die Versorgung des Kunden erforderlichen, vom bisherigen Lieferanten gebuchten Ein- und Ausspeisekapazitäten verlangen, wenn ihm die Versorgung des Kunden entsprechend der von ihm eingegangenen Lieferverpflichtung ansonsten nicht möglich ist und er dies gegenüber dem bisherigen Lieferanten begründet. Als erforderlich gilt die vom Kunden abgenommene Höchstmenge des vorangegangenen Abnahmejahres, soweit eine entsprechende Höchstabnahmemenge auch hin zu vermuten ist. \n\n§ 42a Elektronischer Datenaustausch \nDer Datenaustausch zur Anbahnung und Abwicklung der Netznutzung zwischen Betreibern von Gasversorgungsnetzen, Marktgebietsverantwortlichen, Messstellenbetreibern, Messdienstleistern und Netznutzern erfolgt elektronisch. Für den Datenaustausch ist das von der Bundesnetzagentur vorgegebene, bundesweit einheitliche Format zu verwenden. Die Marktbeteiligten stellen sicher, dass für den Datenaustausch einheitliche Prozesse verwendet werden, die eine größtmögliche Automatisierung ermöglichen.T"
+        ],
+        "ground_truth_chunk_ids": [
+            "55437265-a03a-4da3-9b2c-9a5d2f5396c1"
+        ],
+        "ground_truth_chunk_indices": [
+            3680
+        ],
+        "synthesizer": "single-hop"
+    },
+    {
+        "query_id": 21,
+        "query": "Was sind die Voraussetzungen für die Anpassung des Höchstwerts bei Ausschreibungen nach § 12 der Kapazitätsreserveverordnung (KapResV)?",
+        "ground_truth": "Der Höchstwert kann gemäß § 12 Absatz 3 der Kapazitätsreserveverordnung (KapResV) von der Bundesnetzagentur angepasst werden, wenn aufgrund vorangegangener Ausschreibungen oder Erbringungszeiträume zu erwarten ist, dass der Höchstwert nicht angemessen ist, um die Reserveleistung zu beschaffen. Die Anpassung darf jedoch höchstens auf das Zweifache des Höchstwerts nach Absatz 2 erfolgen.",
+        "ground_truth_chunk_contexts": [
+            "ffen. \n\n§ 12 Höchstwert \n(1) In jeder Ausschreibung ist ein Höchstwert vorgegeben. Der Gebotswert darf den Höchstwert nicht überschreiten.(2) Der Höchstwert beträgt 100 000 Euro pro Megawatt pro Jahr. Hat in den drei vorangegangenen Ausschreibungen der Gebotswert des jeweils letzten zum Zuge gekommenen Gebots den jeweils geltenden Höchstwert jeweils um mehr als 10 Prozent unterschritten, reduziert sich der Höchstwert für die folgende Ausschreibung um 5 Prozent.(3) Die Bundesnetzagentur kann abweichend von Absatz 2 den Höchstwert für jede Ausschreibung bis spätestens 15 Monate vor dem Gebotstermin durch Festlegung anpassen, höchstens jedoch auf das Zweifache des Höchstwertes nach Absatz 2, wenn aufgrund vorangegangener Ausschreibungen oder Erbringungszeiträume zu erwarten ist, dass der Höchstwert nicht angemessen ist, um die Reserveleistung zu beschaffen. \n\n§ 13 Fristen, Bindung an Gebote \n(1) Jedes Gebot muss den Übertragungsnetzbetreibern spätestens bis zum Gebotstermin zugegangen sein.(2) Der"
+        ],
+        "ground_truth_chunk_ids": [
+            "446f31fb-d146-41eb-bb7b-3855e75e3072"
+        ],
+        "ground_truth_chunk_indices": [
+            4092
+        ],
+        "synthesizer": "single-hop"
+    },
+    {
+        "query_id": 22,
+        "query": "Welche Gebotstermine sind für die Ausschreibungen zur Erzeugung von Strom aus Grünem Wasserstoff im Jahr 2023 und den Jahren 2024 bis 2026 festgelegt?",
+        "ground_truth": "Im Jahr 2023 findet der Gebotstermin am 15. Dezember statt. In den Jahren 2024 bis 2026 sind die Gebotstermine jeweils am 1. Juni und 1. Dezember vorgesehen.",
+        "ground_truth_chunk_contexts": [
+            " und Gebotstermine für Anlagen zur Erzeugung von Strom aus Grünem Wasserstoff \n(1) Die Ausschreibungen für Anlagen zur Erzeugung von Strom aus Grünem Wasserstoff nach § 39p finden statt: 1.im Jahr 2023 zum Gebotstermin am 15. Dezember und2.in den Jahren 2024 bis 2026 jeweils zu den Gebotsterminen am 1. Juni und 1. Dezember.(2) Das Ausschreibungsvolumen für die Ausschreibungen nach § 39p beträgt vorbehaltlich einer abweichenden Bestimmung in der Verordnung nach § 88f 1.im Jahr 2023 800 Megawatt zu installierende Leistung,2.im Jahr 2024 1 000 Megawatt zu installierende Leistung,3.im Jahr 2025 1 200 Megawatt zu installierende Leistung und4.im Jahr 2026 1 400 Megawatt zu installierende Leistung.Das Ausschreibungsvolumen wird jeweils gleichmäßig auf die Gebotstermine eines Kalenderjahres verteilt, wenn mehrere Gebotstermine in einem Jahr durchgeführt werden.(3) Das Ausschreibungsvolumen erhöht sich ab dem Jahr 2024 jeweils um die"
+        ],
+        "ground_truth_chunk_ids": [
+            "2f5b962f-d7e2-456b-babd-d5c25a543378"
+        ],
+        "ground_truth_chunk_indices": [
+            3008
+        ],
+        "synthesizer": "single-hop"
+    },
+    {
+        "query_id": 23,
+        "query": "Wie wird die Abgabe für Treibhausgasemissionen nach § 37a Absatz 4 BImSchG für die Jahre 2021 und 2022 festgelegt und was passiert, wenn der Verpflichtete seine Angabe nicht ordnungsgemäß macht?",
+        "ground_truth": "Die Abgabe für Treibhausgasemissionen beträgt bis einschließlich zum Verpflichtungsjahr 2021 0,47 Euro pro Kilogramm Kohlenstoffdioxid-Äquivalent und ab dem Verpflichtungsjahr 2022 0,60 Euro pro Kilogramm Kohlenstoffdioxid-Äquivalent. Falls der Verpflichtete seine vertraglichen Verpflichtungen gemäß § 37a Absatz 6 Satz 1 oder § 37a Absatz 7 Satz 1 nicht erfüllt, setzt die zuständige Stelle die Abgabe gegen den Verpflichteten fest. Sollte der Verpflichtete die erforderlichen Angaben nicht oder nicht ordnungsgemäß mitteilen, schätzt die zuständige Stelle die in Verkehr gebrachten Mengen an Kraftstoffen sowie die Treibhausgasminderung, und diese Schätzung wird zur unwiderleglichen Basis für die Verpflichtungen nach § 37a Absatz 1 und 2.",
+        "ground_truth_chunk_contexts": [
+            " § 37a Absatz 4 wird die Abgabe nach der Fehlmenge der zu mindernden Treibhausgasemissionen berechnet und beträgt bis einschließlich zum Verpflichtungsjahr 2021 0,47 Euro pro Kilogramm Kohlenstoffdioxid-Äquivalent und ab dem Verpflichtungsjahr 2022 0,60 Euro pro Kilogramm Kohlenstoffdioxid-Äquivalent. Soweit im Falle des § 37a Absatz 6 Satz 1 oder des § 37a Absatz 7 Satz 1 der Dritte seine vertragliche Verpflichtung nicht erfüllt, setzt die zuständige Stelle die Abgabe gegen den Verpflichteten fest.(3) Soweit der Verpflichtete der zuständigen Stelle die nach Absatz 1 Satz 1 und 3 erforderlichen Angaben nicht oder nicht ordnungsgemäß mitgeteilt hat, schätzt die zuständige Stelle die vom Verpflichteten im Verpflichtungsjahr in Verkehr gebrachten Mengen an Kraftstoffen und auch die Treibhausgasminderung. Die Schätzung ist unwiderlegliche Basis für die Verpflichtung nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 4 sowie nach § 37a Absatz 2 Satz 1"
+        ],
+        "ground_truth_chunk_ids": [
+            "da845fc3-ce60-49a7-82db-229419ef9dd0"
+        ],
+        "ground_truth_chunk_indices": [
+            625
+        ],
+        "synthesizer": "single-hop"
+    },
+    {
+        "query_id": 24,
+        "query": "Welche Befugnisse haben die zuständigen Behörden gemäß § 49 Abs. 2 EnWG hinsichtlich der Einsichtnahme in die Unterlagen von Betreibern von Energieanlagen?",
+        "ground_truth": "Die zuständigen Behörden sind befugt, Prüfungen vorzunehmen und die geschäftlichen sowie betrieblichen Unterlagen der Betreiber von Energieanlagen einzusehen, soweit dies zur Wahrnehmung ihrer Aufgaben nach Absatz 5 erforderlich ist.",
+        "ground_truth_chunk_contexts": [
+            ", dort Prüfungen vorzunehmen sowie die geschäftlichen und betrieblichen Unterlagen der Betreiber von Energieanlagen einzusehen, soweit dies zur Wahrnehmung der Aufgaben nach Absatz 5 erforderlich ist.__________* Amtlicher Hinweis: Die Norm ist bei der Beuth Verlag GmbH, Berlin, zu beziehen.Fußnote(+++ § 49 Abs. 2: Zur Anwendung vgl. § 3 Abs. 4 LSV +++) * (+++ § 49 Überschrift: Entsprechend der Änderung des Inhaltsverzeichnisses gem.  Art. 4 Nr. 1 G v. 7.3.2011 I 338 mWv 12.3.2011 angepasst u. idF d. Art. 1 Nr. 51 Buchst. a G v. 22.12.2023 I Nr. 405 mWv 29.12.2023 +++) \n\n§ 49a Elektromagnetische Beeinflussung \n(1) Besteht die Gefahr, dass der Ausbau oder die Ertüchtigung, Umbeseilungen oder Zubeseilungen, Änderungen des Betriebskonzepts eines Übertragungsnetzes oder der Seiltausch technische Infrastr"
+        ],
+        "ground_truth_chunk_ids": [
+            "b7f2756b-274f-44ac-a3a9-8a60999b23fd"
+        ],
+        "ground_truth_chunk_indices": [
+            2479
+        ],
+        "synthesizer": "single-hop"
+    },
+    {
+        "query_id": 25,
+        "query": "Welche Regelungen sind in der Erneuerbare-Energien-Verordnung (EEV) hinsichtlich der Voraussetzungen für die vorläufige oder dauerhafte Sperrung von Konten im Herkunftsnachweisregister und Regionalnachweisregister festgelegt?",
+        "ground_truth": "Die Erneuerbare-Energien-Verordnung (EEV) regelt in § 79 Absatz 3 die Voraussetzungen für die vorläufige oder dauerhafte Sperrung von Konten sowie den Ausschluss von Kontoinhabern von der Nutzung der Herkunftsnachweisregister und Regionalnachweisregister. Zudem werden Verfahren für die Ausstellung, Anerkennung, Übertragung, Entwertung und Verwendung von Herkunftsnachweisen und Regionalnachweisen festgelegt, einschließlich der Nachweispflichten der Antragsteller in Bezug auf die Einhaltung der Anforderungen. Des Weiteren wird die Ausgestaltung der Register sowie die Übermittlungspflichten und der Datenschutz behandelt.",
+        "ground_truth_chunk_contexts": [
+            "79 Absatz 3 des Erneuerbare-Energien-Gesetzes,3.Voraussetzungen für die vorläufige oder dauerhafte Sperrung von Konten und den Ausschluss von Kontoinhabern von der Nutzung des Herkunftsnachweisregisters und des Regionalnachweisregisters festzulegen,4.das Verfahren für die Ausstellung, Anerkennung, Übertragung, Entwertung und Verwendung von Herkunftsnachweisen und die Ausstellung, Übertragung, Entwertung und Verwendung von Regionalnachweisen zu regeln sowie festzulegen, wie Antragsteller dabei die Einhaltung der Anforderungen nach Nummer 2 nachweisen müssen,5.die e Ausgestaltung des Herkunftsnachweisregisters und des Regionalnachweisregisters zu regeln sowie festzulegen, welche Angaben an das Herkunftsnachweisregister und das Regionalnachweisregister übermittelt werden müssen, wer zur Übermittlung verpflichtet ist und in welchem Umfang Netzbetreiber vom Umweltbundesamt Auskunft über die Ausstellung, Übertragung und Entwertung von Regionalnachweisen verlangen können; dies schließt Regelungen zum Schutz personenbezogener Daten ein, in denen Art, Umfang und Zweck der Speicherung sowie Löschungsfristen festgelegt werden müssen,6.im Anwendungsbereich von § 79a Absatz"
+        ],
+        "ground_truth_chunk_ids": [
+            "89d6319d-3e84-4c89-b5c5-0b924d55d179"
+        ],
+        "ground_truth_chunk_indices": [
+            3389
+        ],
+        "synthesizer": "single-hop"
+    },
+    {
+        "query_id": 26,
+        "query": "Welche Anforderungen müssen bei der Veröffentlichung von Informationen im Rahmen des Wärmeplanungsgesetzes (WPG) gemäß § 23 beachtet werden, um die Vertraulichkeit von sensiblen Daten zu gewährleisten?",
+        "ground_truth": "Bei der Veröffentlichung von Informationen gemäß § 23 WPG müssen sichergestellt werden, dass diese keine personenbezogenen Daten, Betriebs- oder Geschäftsgeheimnisse oder vertrauliche Informationen zu kritischen Infrastrukturen enthalten. Zudem dürfen die Veröffentlichungen keine Daten umfassen, die die Bundeswehr, verbündete Streitkräfte oder deren Liegenschaften betreffen, sowie Informationen, die Rückschlüsse auf Fähigkeiten und Verfahren der Bundeswehr und verbündeter Streitkräfte zulassen. Das Bundesministerium der Verteidigung kann für Liegenschaften im Geschäftsbereich des Bundesministeriums und entsprechenden Bundesbehörden der Veröffentlichung zustimmen, wobei diese Zustimmung als erteilt gilt, wenn innerhalb von zwei Monaten kein schriftlicher Widerspruch erfolgt.",
+        "ground_truth_chunk_contexts": [
+            " gemäß § 23 einschließlich der einzelnen wesentlichen Teile nach den §§ 15, 16, 17, 18, 19 oder § 20, keine personenbezogenen Daten, Betriebs- oder Geschäftsgeheimnisse oder vertraulichen Informationen zu Kritischen Infrastrukturen enthalten,4.sicherstellen, dass Veröffentlichungen im Sinne der Nummer 3 keine Daten enthalten, die die Bundeswehr, verbündete Streitkräfte oder von diesen Stellen beauftragte Stellen einschließlich deren Liegenschaften betreffen, oder Informationen, die Rückschlüsse auf Fähigkeiten und Verfahren der Bundeswehr und verbündeter Streitkräfte zulassen; das Bundesministerium der Verteidigung kann für Liegenschaften im Geschäftsbereich des Bundesministeriums der Verteidigung und die jeweils zuständige Bundesbehörde entsprechend den geltenden Abkommen für Liegenschaften verbündeter Streitkräfte der Veröffentlichung zustimmen, wobei die Zustimmung als erteilt gilt, wenn das Bundesministerium der Verteidigung oder die für die Erteilung der Zustimmung für Liegenschaften verbündeter Streitkräfte zuständige Bundesbehörde der Veröffentlichung nicht innerhalb von zwei Monaten schriftlich gegenüber der planungsverantwortlichen Stelle widersprochen hat.(2) Sobald dies im Hinblick auf die Aufgabenwahrnehmung nach § 10 Absatz 1 möglich"
+        ],
+        "ground_truth_chunk_ids": [
+            "0b20174c-740a-4774-8949-31085472678d"
+        ],
+        "ground_truth_chunk_indices": [
+            6237
+        ],
+        "synthesizer": "single-hop"
+    },
+    {
+        "query_id": 27,
+        "query": "Was passiert, wenn im Kalenderjahr Pilotwindenergieanlagen an Land mit einer installierten Leistung von mehr als 125 Megawatt in Betrieb genommen werden und dies dem Register gemeldet wird?",
+        "ground_truth": "In diesem Fall kann der Anspruch auf die Zahlung nach § 19 Absatz 1 für alle Pilotwindenergieanlagen an Land, deren Inbetriebnahme später dem Register gemeldet wird, in diesem Kalenderjahr nicht geltend gemacht werden. Die Bundesnetzagentur informiert die Anlagenbetreiber und die Netzbetreiber, an deren Netz die Anlagen angeschlossen sind, über diese Regelung.",
+        "ground_truth_chunk_contexts": [
+            "3 +++) (+++ § 22 Abs. 3 Satz 1, Abs. 6 Satz 3 in der am 26.7.2021 geltenden Fassung: Zur Anwendung vgl. § 105 Abs. 3 Satz 2 +++) (+++ § 22: Zur Anwendung vgl. § 2 Abs. 3 GEEV 2017 +++) (+++ § 22: Zur Nichtanwendung vgl. § 38 Abs. 2 Satz 1 GEEV 2017 +++) \n\n§ 22a Pilotwindenergieanlagen an Land \n(1) Wenn in einem Kalenderjahr Pilotwindenergieanlagen an Land mit einer installierten Leistung von insgesamt mehr als 125 Megawatt in Betrieb genommen sind und dies dem Register gemeldet worden ist, kann der Anspruch auf die Zahlung nach § 19 Absatz 1 für alle Pilotwindenergieanlagen an Land, deren Inbetriebnahme später dem Register gemeldet wird, in diesem Kalenderjahr nicht geltend gemacht werden. Die Bundesnetzagentur informiert hierüber die Anlagenbetreiber und die Netzbetreiber, an deren Netz die Anlagen angeschlossen sind. Die Betreiber der Anlagen, für deren Strom der Anspruch nach Satz 1 entfällt, können ihren Anspruch v"
+        ],
+        "ground_truth_chunk_ids": [
+            "66e24730-9fdc-400e-9f18-8a9b045002db"
+        ],
+        "ground_truth_chunk_indices": [
+            2968
+        ],
+        "synthesizer": "single-hop"
+    },
+    {
+        "query_id": 28,
+        "query": "Welche Anforderungen müssen Wohn- und Nichtwohngebäude gemäß dem Gebäudeenergiegesetz (GEG) erfüllen, um die Treibhausgasemissionen gleichwertig zu begrenzen?",
+        "ground_truth": "Wohngebäude müssen errichtet werden, sodass die Treibhausgasemissionen gleichwertig begrenzt werden und der Höchstwert des Jahres-Endenergiebedarfs für Heizung, Warmwasserbereitung, Lüftung und Kühlung das 0,55-fache des auf die Gebäudenutzfläche bezogenen Wertes eines Referenzgebäudes nicht überschreitet. Nichtwohngebäude müssen ebenfalls so errichtet werden, dass die Treibhausgasemissionen gleichwertig begrenzt sind, wobei der Höchstwert des Jahres-Endenergiebedarfs für Heizung, Warmwasserbereitung, Lüftung, Kühlung und eingebaute Beleuchtung das 0,55-fache des auf die Nettogrundfläche bezogenen Wertes eines Referenzgebäudes nicht überschreiten darf. In beiden Fällen muss das Referenzgebäude die gleiche Geometrie, Fläche und Ausrichtung wie das zu errichtende Gebäude aufweisen.",
+        "ground_truth_chunk_contexts": [
+            " wenn a)ein Wohngebäude so errichtet wird, dass die Treibhausgasemissionen des Gebäudes gleichwertig begrenzt werden und der Höchstwert des Jahres-Endenergiebedarfs für Heizung, Warmwasserbereitung, Lüftung und Kühlung das 0,55fache des auf die Gebäudenutzfläche bezogenen Wertes des Jahres-Endenergiebedarfs eines Referenzgebäudes, das die gleiche Geometrie, Gebäudenutzfläche und Ausrichtung wie das zu errichtende Gebäude aufweist und der technischen Referenzausführung der Anlage 1 entspricht, nicht überschreitet oderb)ein Nichtwohngebäude so errichtet wird, dass die Treibhausgasemissionen des Gebäudes gleichwertig begrenzt werden und der Höchstwert des Jahres-Endenergiebedarfs für Heizung, Warmwasserbereitung, Lüftung, Kühlung und eingebaute Beleuchtung das 0,55fache des auf die Nettogrundfläche bezogenen Wertes des Jahres-Endenergiebedarfs eines Referenzgebäudes, das die gleiche Geometrie, Nettogrundfläche, Ausrichtung und Nutzung, einschließlich der Anordnung der Nutzungseinheiten, wie das zu erricht"
+        ],
+        "ground_truth_chunk_ids": [
+            "4a3bb859-ee7a-41c2-bc2c-26bc3a1ca9be"
+        ],
+        "ground_truth_chunk_indices": [
+            3922
+        ],
+        "synthesizer": "single-hop"
+    },
+    {
+        "query_id": 29,
+        "query": "Welche Verpflichtungen haben Übertragungsnetzbetreiber gemäß § 73 EEG 2023 hinsichtlich der Veröffentlichung und Speicherung von Informationen über ihren Netzanschluss und die Marktprämie?",
+        "ground_truth": "Übertragungsnetzbetreiber sind verpflichtet, die Angaben nach § 72 Absatz 1 auf ihrer Internetseite zu veröffentlichen und Informationen über den Umfang und den zeitlichen Verlauf der Strommengen zu speichern, für die sie Zahlungen oder Rückzahlungen leisten oder erhalten. Zudem müssen sie die Daten für die Berechnung der Marktprämie in nicht personenbezogener Form veröffentlichen und sind zur vollständig automatisierten elektronischen Übermittlung verpflichtet.",
+        "ground_truth_chunk_contexts": [
+            ". 2: Zur Anwendung vgl. § 9 Abs. 4 Nr. 3 AusglMechV 2015 +++) \n\n§ 73 Übertragungsnetzbetreiber \n(1) Übertragungsnetzbetreiber müssen unbeschadet des § 77 Absatz 4 für Anlagen, die unmittelbar oder mittelbar an ihr Netz angeschlossen sind, die Angaben nach § 72 Absatz 1 auf ihrer Internetseite veröffentlichen.(2) Übertragungsnetzbetreiber müssen die Informationen über den unterschiedlichen Umfang und den zeitlichen Verlauf der Strommengen, für die sie Zahlungen nach § 19 Absatz 1 leisten oder Rückzahlungen nach § 26 Absatz 1 Satz 3, § 36h Absatz 2 und § 46 Absatz 1 erhalten, speichern. Bei der Speicherung sind die Saldierungen auf Grund des § 12 Absatz 3 des Energiefinanzierungsgesetzes zugrunde zu legen.(3) Die Übertragungsnetzbetreiber müssen hin die Daten für die Berechnung der Marktprämie nach Maßgabe der Anlage 1 Nummer 5 zu diesem Gesetz in nicht personenbezogener Form veröffentlichen.(4) Die Übertragungsnetzbetreiber müssen für die vollständig automatisierte elektronische Übermittlung"
+        ],
+        "ground_truth_chunk_ids": [
+            "f8741033-0e47-4c38-8071-da0362ccac9d"
+        ],
+        "ground_truth_chunk_indices": [
+            3202
+        ],
+        "synthesizer": "single-hop"
+    },
+    {
+        "query_id": 30,
+        "query": "Welche Pflichten hat der Betreiber einer Abwasseranlage gemäß dem Wasserhaushaltsgesetz hinsichtlich der Selbstüberwachung?",
+        "ground_truth": "Der Betreiber einer Abwasseranlage ist verpflichtet, den Zustand, die Funktionsfähigkeit, die Unterhaltung und den Betrieb der Anlage sowie die Art und Menge des Abwassers und der Abwasserinhaltsstoffe selbst zu überwachen. Er hat Aufzeichnungen darüber anzufertigen, diese aufzubewahren und sie auf Verlangen der zuständigen Behörde vorzulegen.",
+        "ground_truth_chunk_contexts": [
+            " 3 oder der die Abwassereinleitung zulassenden behördlichen Entscheidung durch fachkundiges Personal zu untersuchen oder durch eine geeignete Stelle untersuchen zu lassen (Selbstüberwachung).(2) Wer eine Abwasseranlage betreibt, ist verpflichtet, ihren Zustand, ihre Funktionsfähigkeit, ihre Unterhaltung und ihren Betrieb sowie Art und Menge des Abwassers und der Abwasserinhaltsstoffe selbst zu überwachen. Er hat nach Maßgabe einer Rechtsverordnung nach Absatz 3 hierüber Aufzeichnungen anzufertigen, aufzubewahren und auf Verlangen der zuständigen Behörde vorzulegen.(3) Durch Rechtsverordnung nach § 23 Absatz 1 Nummer 8, 9 und 11 können insbesondere Regelungen über die Ermittlung der Abwassermenge, die Häufigkeit und die Durchführung von Probenahmen, Messungen und Analysen einschließlich der Qualitätssicherung, Aufzeichnungs- und Aufbewahrungspflichten sowie die Voraussetzungen getroffen werden, nach denen keine Pflicht zur Selbstüberwachung besteht.Abschnitt 3Umgang mit wassergefährdenden Stoffen\n\n§ 62 Anforderungen an den Umgang mit wassergefährdenden Stoffen \n(1) Anlagen zum Lagern, Abfüllen, Her"
+        ],
+        "ground_truth_chunk_ids": [
+            "68a7129f-8769-49d0-8acb-c7dad2428f87"
+        ],
+        "ground_truth_chunk_indices": [
+            5873
+        ],
+        "synthesizer": "single-hop"
+    },
+    {
+        "query_id": 31,
+        "query": "Welche rechtlichen Vorgaben und Verfahren sind im NABEG für die Bundesfachplanung von länderübergreifenden Höchstspannungsleitungen festgelegt, insbesondere in Bezug auf den Anwendungsbereich, die Beteiligung der Öffentlichkeit und die Bindungswirkung der Entscheidungen?",
+        "ground_truth": "Das NABEG regelt in § 2 den Anwendungsbereich, indem es festlegt, dass das Gesetz für die Errichtung oder Änderung von länderübergreifenden oder grenzüberschreitenden Höchstspannungsleitungen gilt, die im Bundesbedarfsplan gekennzeichnet sind. Die Bundesregierung ist ermächtigt, in einer Rechtsverordnung festzulegen, dass die Planfeststellungsverfahren von der Bundesnetzagentur durchgeführt werden.  Die Behörden- und Öffentlichkeitsbeteiligung wird in § 9 behandelt, wo festgelegt ist, dass die Öffentlichkeit und betroffene Behörden in den Planungsprozess einbezogen werden müssen. Dies umfasst die Möglichkeit zur Einreichung von Einwendungen während der Beteiligungsphase.  Die Bindungswirkung der Bundesfachplanung ist in § 15 geregelt. Demnach sind die Ergebnisse der Bundesfachplanung für die nachfolgenden Planfeststellungsverfahren bindend, was bedeutet, dass die in der Bundesfachplanung getroffenen Entscheidungen bei der Planfeststellung berücksichtigt werden müssen.",
+        "ground_truth_chunk_contexts": [
+            "chnitt 1Allgemeine Vorschriften§  1Grundsatz§  2Anwendungsbereich, Verordnungsermächtigung§  3Begriffsbestimmungen§  3aZusammenarbeit von Bund und LändernAbschnitt 2Bundesfachplanung§  4Zweck der Bundesfachplanung§  5Inhalt der Bundesfachplanung§  5aVerzicht auf Bundesfachplanung§  5bZusammentreffen mehrerer Vorhaben in der Bundesfachplanung§  6Antrag auf Bundesfachplanung§  7Festlegung des Untersuchungsrahmens§  8Unterlagen§  9Behörden- und Öffentlichkeitsbeteiligung§ 10Erörterungstermin§ 11Vereinfachtes Verfahren§ 12Abschluss der Bundesfachplanung§ 13Bekanntgabe und Veröffentlichung der Entscheidung§ 14Einwendungen der Länder§ 15Bindungswirkung der Bundesfachplanung§ 16Veränderungssperren§ 17BundesnetzplanAbschnitt 3Planfeststellung§ 18Erfordernis einer Planfeststellung§ 19(weggefallen)§ 20(weggefallen)§ 21Einreichung des Plans und",
+            " der Unterlagen§ 22Anhörungsverfahren§ 23Umweltverträglichkeitsprüfung§ 24Planfeststellungsbeschluss§ 25Änderungen im Anzeigeverfahren§ 26Zusammentreffen mehrerer Vorhaben§ 27Vorzeitige Besitzeinweisung und Enteignungsverfahren§ 28Durchführung einer RaumverträglichkeitsprüfungAbschnitt 4Gemeinsame Vorschriften§ 29Projektmanager§ 30Kostenpflichtige Amtshandlungen§ 30aGeheimhaltung und , Barrierefreiheit§ 30bWeitere VerfahrensanordnungenAbschnitt 5Behörden und Gremien§ 31Zuständige Behörde§ 32BundesfachplanungsbeiratAbschnitt 6Sanktions- und Schlussvorschriften§ 33Bußgeldvorschriften§ 34Zwangsgeld§ 35Übergangsvorschriften§ 36EvaluierungAbschnitt 1Allgemeine Vorschriften\n\n§ 1 Grundsatz \n(1) Die Beschleunigung des Ausbaus der länderübergreifenden und grenzüberschreitenden Höchstspannungsleitungen im Sinne des § 12e Absatz 2 Satz 1 des Energiewirtschaftsges",
+            "etzes vom 7. Juli 2005 (BGBl. I S. 1970), der durch Artikel 1 des Gesetzes vom 26. Juli 2011 (BGBl. I S. 1554) eingefügt worden ist, erfolgt nach Maßgabe dieses Gesetzes. Dieses Gesetz schafft die Grundlage für einen rechtssicheren, transparenten, effizienten und umweltverträglichen Ausbau des Übertragungsnetzes sowie dessen Ertüchtigung.(2) Die Errichtung und der Betrieb sowie die Änderung von Stromleitungen, die in den Anwendungsbereich dieses Gesetzes fallen, einschließlich der für den Betrieb notwendigen Anlagen, liegen im überragenden öffentlichen Interesse und dienen der öffentlichen Sicherheit. Bis die Stromversorgung im Bundesgebiet nahezu treibhausgasneutral ist, soll der beschleunigte Ausbau dieser Stromleitungen und Anlagen als vorrangiger Belang in die jeweils durchzuführende Schutzgüterabwägung eingebracht werden. Satz 2 ist nicht gegenüber Belangen der Landes- und Bündnisverteidigung anzuwenden. \n\n§ 2 Anwendungsbereich, Verordnungsermächtigung \n(1) Dieses Gesetz gilt nur für die Errichtung oder Änderung von länderübergreifenden oder grenz",
+            "überschreitenden Höchstspannungsleitungen und Offshore-Anbindungsleitungen, die in einem Gesetz über den Bundesbedarfsplan nach § 12e Absatz 4 Satz 1 des Energiewirtschaftsgesetzes als solche gekennzeichnet sind. § 18 Absatz 2 bleibt unberührt.(2) Die Bundesregierung wird ermächtigt, in einer Rechtsverordnung mit Zustimmung des Bundesrates für Leitungen nach Absatz 1 festzulegen, dass die Planfeststellungsverfahren nach Abschnitt 3 von der Bundesnetzagentur durchgeführt werden.(3) Die Vorschriften dieses Gesetzes gelten außerdem für den Neubau von Hochspannungsleitungen mit einer Nennspannung von mindestens 110 Kilovolt sowie für Bahnstromfernleitungen, sofern diese Leitungen zusammen mit einer Höchstspannungsleitung nach Absatz 1 auf einem Mehrfachgestänge geführt werden können und die Planungen so rechtzeitig beantragt werden, dass die Einbeziehung ohne wesentliche Verfahrensverzögerung für die Bundesfachplanung oder Planfeststellung möglich ist. Satz 1 ist entsprechend für Erdkabel und Leerrohre anzuwenden, sofern diese nach § 26 im räumlichen und zeitlichen Zusammenhang mit der Baumaßnahme eines Vorhabens im",
+            " Sinne von § 2 Absatz 5 und 6 des Bundesbedarfsplangesetzes mitverlegt werden können.(4) Dieses Gesetz gilt nicht für Vorhaben, die im Energieleitungsausbaugesetz aufgeführt sind.(5) Das Gesetz ist nicht auf Leitungsabschnitte anzuwenden, die in den Anwendungsbereich des § 65 Absatz 1 des Windenergie-auf-See-Gesetzes oder der §§ 133 und 136 des Bundesberggesetzes fallen. \n\n§ 3 Begriffsbestimmungen \nIm Sinne dieses Gesetzes ist oder sind: 1.„Änderung oder Erung einer Leitung“ die Änderung oder der Ausbau einer Leitung in einer Bestandstrasse, wobei die bestehende Leitung grundsätzlich fortbestehen soll; hierzu zählen auch a)die Mitführung von zusätzlichen Seilsystemen auf einer bestehenden Maststruktur einschließlich einer gegebenenfalls hierfür erforderlichen Erhöhung von Masten um bis zu 20 Prozent nebst den hierfür erforderlichen Änderungen des Fundaments (Zubeseilung),b)die Ersetzung eines bereits bestehenden Seilsystems durch ein neues leistungsstärkeres Seilsystem, soweit hierfür mehr als geringfügige bauliche Änderungen von Masten, insbesondere"
+        ],
+        "ground_truth_chunk_ids": [
+            "7809f7ee-7202-46dc-af38-9a052b69a0d0",
+            "d641e6aa-907a-45eb-8767-e49a03b4ef0b",
+            "110a9dce-bf9c-43a9-b913-b60a9eed3346",
+            "fb87c00a-22bf-464c-a398-aa84fdf197b2",
+            "7bea3cf5-dc33-4d79-a665-a43a8757d407"
+        ],
+        "ground_truth_chunk_indices": [
+            4830,
+            4831,
+            4832,
+            4833,
+            4834
+        ],
+        "synthesizer": "multi-hop-adjacent"
+    },
+    {
+        "query_id": 32,
+        "query": "Welche Anforderungen müssen erfüllt sein, damit die durch die Reduzierung der Wirkleistungseinspeisung entstehenden Kosten als Ausgaben im Sinne der Anlage 1 Nummer 5.2 zum Energiefinanzierungsgesetz in den EEG-Finanzierungsbedarf einkalkuliert werden können, und welche Regelungen sind dabei zu beachten?",
+        "ground_truth": "Die durch die in Absatz 3 genannten Maßnahmen entstehenden Kosten gelten als Ausgaben im Sinn der Anlage 1 Nummer 5.2 zum Energiefinanzierungsgesetz. Diese Kosten können nur dann in den EEG-Finanzierungsbedarf einkalkuliert werden, wenn die in den vorstehenden Absätzen enthaltenen Vorschriften und Bestimmungen sowie die in Aufsichtsmaßnahmen der Bundesnetzagentur enthaltenen Maßgaben eingehalten wurden. Dies bedeutet, dass sowohl die spezifischen Anforderungen der EEV als auch die relevanten Vorgaben der Bundesnetzagentur für die ordnungsgemäße Durchführung der Auktionen und die Preislimitierung berücksichtigt werden müssen.",
+        "ground_truth_chunk_contexts": [
+            " EEG-Finanzierungsbedarf einkalkuliert werden, wenn die in Absatz 3 enthaltenen Vorschriften und Bestimmungen und die in Aufsichtsmaßnahmen der Bundesnetzagentur enthaltenen Maßgaben eingehalten wurden. \n\n§ 5 Preislimitierung \n(1) Der Übertragungsnetzbetreiber hat abweichend von § 2 Absatz 2 die nach aktueller Prognose vorhergesagte viertelstündliche Einspeisung von Strommengen aus fernsteuerbaren Anlagen über eine marktgekoppelte Auktion vollständig zu preislimitierten Geboten am Day-Ahead-Markt einer Strombörse nach Maßgabe des Absatzes 2 anzubieten.(2) Die nach Absatz 1 zu veräußernde Strommenge ist in 20 gleich große Tranchen aufzuteilen und jeweils mit einem eigenen Preislimit anzubieten. Die Preislimits müssen bei mindestens -200 Euro pro Megawattstunde und höchstens -100 Euro pro Megawattstunde liegen. Jeder Betrag in Schritten von einem Euro innerhalb dieses Rahmens wird zufallsgesteuert mit gleicher Wahrscheinlichkeit als Preislimit gesetzt. Die Preislimits müssen für jeden Fall des Absatzes 1 neu bestimmt werden. Die Preislimits sind bis zur Veröffentlichung nach",
+            " Satz 6 vertraulich zu behandeln. Der Übertragungsnetzbetreiber ist verpflichtet, zwei Werktage nach Ende der Auktion auf seiner Internetseite Folgendes bekannt zu geben: 1.Höhe der Preislimits jeder Tranche, für die er nach Absatz 1 preislimitierte Gebote am Day-Ahead-Markt abgegeben hat, und2.am Day-Ahead-Markt unverkauft gebliebene Strommengen, je Tranche, für die er nach Absatz 1 preislimitierte Gebote am Day-Ahead-Markt abgegeben hat.(3) Wird im Fall von preislimitierten Angeboten nach Absatz 1 die nach § 2 Absatz 2 zu vermarktende Strommenge aus fernsteuerbaren Anlagen nicht oder nicht vollständig veräußert, veranlasst der Übertragungsnetzbetreiber die Reduzierung der Wirkleistungseinspeisung von fernsteuerbaren Anlagen in Höhe der nicht veräußerten Strommenge. Für die Reduzierung der Wirkleistungseinspeisung nach Satz 1 sind die §§ 13a und 14 Absatz 1c des Energiewirtschaftsgesetzes entsprechend anzuwenden mit der Maßgabe, dass weder ein bilanzieller Ausgleich",
+            " noch ein bilanzieller Ersatz erfolgt und für Anlagen, die unter die Regelung des § 51 Absatz 2 Satz 1 Nummer 1 des Erneuerbare-Energien-Gesetzes fallen, auch kein finanzieller Ausgleich erfolgt. Der Übertragungsnetzbetreiber ist verpflichtet, gleichzeitig mit der Bekanntgabe nach Absatz 2 Satz 6 auf seiner Internetseite bekannt zu geben, für welche Viertelstunden und für welche Strommengen in der jeweiligen Viertelstunde er die Reduzierung der Einspeiseleistung veranlasst hat.(4) Die durch die in Absatz 3 genannten Maßnahmen entstehenden Kosten gelten als Ausgaben im Sinn der Anlage 1 Nummer 5.2 zum Energiefinanzierungsgesetz. Sie können nur dann in den EEG-Finanzierungsbedarf einkalkuliert werden, wenn die in den vorstehenden Absätzen enthaltenen Vorschriften und Bestimmungen und die in Aufsichtsmaßnahmen der Bundesnetzagentur enthaltenen Maßgaben eingehalten wurden. \n\n§ 6 (weggefallen) \nAbschnitt 3Herkunfts- und Regionalnachweise für Strom aus erneuerbaren Energien\n\n§ 7 Herkunftsnachweisregister \n(1) Das Umwelt",
+            "bundesamt betreibt das Herkunftsnachweisregister nach § 79 Absatz 4 des Erneuerbare-Energien-Gesetzes nach Maßgabe der Rechtsverordnung nach § 14.(2) Jede natürliche oder juristische Person und jede rechtsfähige Personengesellschaft erhält auf Antrag nach Maßgabe der Rechtsverordnung nach § 14 ein Konto im Herkunftsnachweisregister, in dem die Ausstellung, Inhaberschaft, Anerkennung, Übertragung, Verwendung und Entwertung von Herkunftsnachweisen registriert werden.(3) Das Umweltbundesamt kann nach Maßgabe der Rechtsverordnung nach § 14 bei Vorliegen eines berechtigten Interesses Konten vorläufig sperren oder schließen sowie Kontoinhaber vorläufig oder dauerhaft von der en Nutzung des Herkunftsnachweisregisters ausschließen.(4) Das Umweltbundesamt hat bei der Einrichtung und bei dem Betrieb des Herkunftsnachweisregisters die erforderlichen technischen und organisatorischen Maßnahmen zur Sicherstellung von  und Datensicherheit unter Berücksichtigung der einschlägigen Standards und Empfehlungen des Bundesamtes für Sicherheit in der Informationstechnik zu treffen.Fußnote(+++ § 7 Abs. 2 bis 4: Zur Anwendung vgl. § 8",
+            " Abs. 2 +++) \n\n§ 8 Regionalnachweisregister \n(1) Das Umweltbundesamt errichtet und betreibt das Regionalnachweisregister nach § 79a Absatz 4 des Erneuerbare-Energien-Gesetzes nach Maßgabe der Rechtsverordnung nach § 14. Das Bundesministerium für Wirtschaft und Klimaschutz macht das Datum der Inbetriebnahme im Bundesanzeiger bekannt.(2) § 7 Absatz 2 bis 4 ist auf das Regionalnachweisregister entsprechend anzuwenden. \n\n§ 9 Mindestinhalt von Herkunftsnachweisen \n(1) Ein Herkunftsnachweis muss mindestens die folgenden Angaben enthalten: 1.eine einmalige Kennnummer,2.das Datum der Ausstellung und den ausstellenden Staat,3.die zur Stromerzeugung eingesetzten Energien nach Art und wesentlichen Bestandteilen,4.den Beginn und das Ende der Erzeugung des Stroms, für den der Herkunftsnachweis ausgestellt wird,5.den Standort, den Typ, die installierte Leistung und den Zeitpunkt der Inbetriebnahme der Anlage, in der der Strom erzeugt wurde, sowie6.Angaben dazu, ob und in welcher Art a)für die Anlage, in der"
+        ],
+        "ground_truth_chunk_ids": [
+            "61bdd21b-e713-4fe9-91dd-d68827773fbd",
+            "e944e757-465c-4d17-bbc1-eee0250cface",
+            "c5787d5e-d35d-4eed-84d4-d56dbac8bc4c",
+            "0a7b3e1b-7eea-4c5d-b399-fb85753302cc",
+            "ca859267-b593-4e39-a923-1052bfa15e16"
+        ],
+        "ground_truth_chunk_indices": [
+            3375,
+            3376,
+            3377,
+            3378,
+            3379
+        ],
+        "synthesizer": "multi-hop-adjacent"
+    },
+    {
+        "query_id": 33,
+        "query": "Welche Verpflichtungen haben Bergbauunternehmen bezüglich der Verwendung von Plafondmitteln und der Abrechnung dieser Mittel, und wie sind die Mittel nach Beendigung des subventionierten Steinkohlenbergbaus zu beantragen und nachzuweisen?",
+        "ground_truth": "Die Bergbauunternehmen sind verpflichtet, die für das jeweilige Jahr nicht zweckentsprechend verwendeten Plafondmittel zu zahlen. Bei der Abrechnung sind Eigenmittel vorrangig zu verwenden. Nicht verwendete Plafondmittel können im folgenden Kalenderjahr bis zu drei Prozent der für das Vorjahr gewährten Plafondmittel zweckentsprechend verwendet werden, wobei das Bundesministerium für Wirtschaft und Energie hierzu nähere Richtlinien bestimmt. Nach Beendigung des subventionierten Steinkohlenbergbaus stehen den Bergbauunternehmen aus Mitteln des Bundeshaushalts bis zu 1.658.400.000 Euro zur Verfügung, die frühestens für das Jahr gewährt werden, das auf die Beendigung folgt. Diese Mittel werden auf Grundlage von Bewilligungsbescheiden ausgezahlt und können in bis zu elf Jahresraten gewährt werden. Die Bergbauunternehmen müssen die zweckgerichtete Verwendung der Mittel durch Nachweis von testierten Aufwendungen belegen. Auch hier gibt es spezifische Regelungen, die durch das Bundesministerium für Wirtschaft und Energie bestimmt werden.",
+        "ground_truth_chunk_contexts": [
+            " für das einzelne Bergbauunternehmen gewährten Plafondmittel hinaus werden nicht geleistet.(4) Die Bergbauunternehmen haben die für das jeweilige Jahr nicht zweckentsprechend verwendeten Plafondmittel zuzahlen; bei der Abrechnung sind Eigenmittel, deren Einsatz den Bergbauunternehmen bei der Gewährung der Plafondmittel auferlegt wird, als vorrangig verwendet anzusehen. In einem Jahr nicht verwendete Plafondmittel können im folgenden Kalenderjahr in Höhe von bis zu drei Prozent der nach Absatz 2 für das Vorjahr gewährten Plafondmittel zweckentsprechend verwendet werden.(5) Näheres bestimmt das Bundesministerium für Wirtschaft und Energie durch Richtlinien. \n\n§ 4 Verpflichtungen der Bergbauunternehmen nach Beendigung des subventionierten Steinkohlenbergbaus \n(1) Für die ab dem Zeitpunkt der Beendigung des subventionierten Steinkohlenbergbaus  bestehenden Verpflichtungen, die nicht von der RAG-Stiftung getragen werden, werden den Bergbauunternehmen aus Mitteln des Bundeshaushalts bis zu 1 658 400 000 Euro zur Verfügung gestellt. Diese Mittel können frühestens für das Jahr gewährt werden, das auf die Beend",
+            "igung des subventionierten Steinkohlenbergbaus folgt.(2) Das Bundesamt gewährt auf der Grundlage von Bewilligungsbescheiden Mittel an Bergbauunternehmen für die in Absatz 1 genannten Zwecke und zahlt sie den Bergbauunternehmen ab dem Jahr, für das die Mittel gewährt wurden, aus. Die Mittel können in bis zu elf Jahresraten ausgezahlt werden. Werden die gewährten Mittel in Raten ausgezahlt, sind sie ab dem Jahr, für das sie gewährt wurden, zu verzinsen. Die Bergbauunternehmen haben gegenüber dem Bundesamt die zweckgerichtete Verwendung der ihnen gewährten Mittel durch Nachweis der von einem Wirtschaftsprüfer testierten Aufwendungen zu belegen. Näheres bestimmt das Bundesministerium für Wirtschaft und Energie durch Richtlinien.(3) Für die ab dem Zeitpunkt der Beendigung des subventionierten Steinkohlenbergbaus  bestehenden Verpflichtungen der Bergbauunternehmen, die von der RAG-Stiftung getragen werden, können aus Mitteln des Bundeshaushalts Beträge in Höhe von einem Drittel dieser Verpflichtungen geleistet werden, wenn das Vermögen der RAG-Stiftung zur Erfüllung der Verpflichtungen nicht ausreicht. \n\n§ 5 Anpassungsgeld",
+            " \n(1) Zur sozialverträglichen Beendigung des subventionierten Steinkohlenbergbaus kann aus Mitteln des Bundeshaushalts Arbeitnehmerinnen und Arbeitnehmern im Steinkohlenbergbau, die unter Tage beschäftigt und mindestens 50 Jahre alt oder über Tage beschäftigt und mindestens 57 Jahre alt sind und aus Anlass einer Stilllegungs- oder Rationalisierungsmaßnahme bis zum 31. Dezember 2022 ihren Arbeitsplatz verlieren, vom Tag nach der Beendigung des Arbeitsverhältnisses für längstens fünf Jahre Anpassungsgeld als Überbrückungshilfe bis zur Anspruchsberechtigung auf Leistungen der knappschaftlichen Rentenversicherung gewährt werden. Näheres bestimmt das Bundesministerium für Wirtschaft und Energie durch Richtlinien. Die aus dem Bundeshaushalt für das Anpassungsgeld zur Verfügung gestellten Mittel dürfen zwei Drittel der Anpassungsgeldleistungen nicht überschreiten.(2) Das Bundesamt entscheidet über die Gewährung eines Zuschusses nach Absatz 1 im Rahmen der dafür zur Verfügung stehenden haushaltsmäßigen Ermächtigungen. \n\n§ 6 Melde-, Aufbewahrungs- und Auskunftspflichten \n(1) Die Bergbauunternehmer, die Betreiber von Kraftwerken",
+            " und von Anlagen zur Stahlerzeugung im Hochofenprozess sowie die Lieferanten von für den Einsatz in Kraftwerken und zur Stahlerzeugung im Hochofenprozess bestimmter Steinkohle haben dem Bundesamt auf Verlangen die Auskunft zu erteilen und die Unterlagen vorzulegen, die erforderlich sind, um das Vorliegen der Zuschussvoraussetzungen zu prüfen und die Zuschüsse nach § 3 zu berechnen.(2) Die Betreiber von Steinkohlekraftwerken und von Anlagen zur Stahlerzeugung im Hochofenprozess haben dem Bundesamt die monatlichen Bezüge von Steinkohle und Steinkohlekoks für den Einsatz in Kraftwerken und zur Stahlerzeugung im Hochofenprozess bis zum 20. des folgenden Monats gemäß Satz 2 zu melden. Alle Angaben sind nach Lieferanten, Mengen in Tonnen SKE, Preisen in Euro je Tonne SKE, für Bezüge zur Stahlerzeugung Mengen in Tonnen und Preisen in Euro je Tonne, bei Einfuhren frei deutsche Grenze und Ursprungsland aufzuteilen.(3) Änderungen von Angaben nach den Absätzen 1 und 2 sind unverzüglich zu melden.(4) Die zur Erteilung von Auskünften nach den",
+            " Absätzen 1 bis 3 erforderlichen Unterlagen sind über einen Zeitraum von sieben Jahren aufzubewahren. Die Frist beginnt mit dem Ablauf des Jahres, in dem die Unterlagen angefallen sind.(5) Die vom Bundesamt beauftragten Personen können zur Erlangung der in den Absätzen 1 bis 3 genannten Unterlagen und Auskünfte während der üblichen Büro- und Geschäftszeiten Grundstücke, Betriebsanlagen sowie Geschäftsräume der Unternehmen betreten, dort Besichtigungen und Prüfungen vornehmen und in die geschäftlichen Unterlagen Einsicht nehmen. Die nach den Absätzen 1 bis 3 Verpflichteten haben die Maßnahmen nach Satz 1 zu dulden. Der zur Erteilung einer Auskunft Verpflichtete kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr strafrechtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.(6) Weigert sich ein Unternehmen, eine Auskunft zu erteilen oder entsprechende Unterlagen vorzulegen, kann das Bundesamt die erforderliche Festsetzung im Wege der Schätzung"
+        ],
+        "ground_truth_chunk_ids": [
+            "705f7adc-0ba3-45cb-86e1-4eb4f3462351",
+            "5d92cb3f-202b-425c-8108-b5625998b719",
+            "cc85fce1-baa9-499f-b09f-097655c7f839",
+            "12565647-19dd-412d-855f-64b7d9d2254c",
+            "ac47e49a-ee03-495b-833a-c49b4da47585"
+        ],
+        "ground_truth_chunk_indices": [
+            5069,
+            5070,
+            5071,
+            5072,
+            5073
+        ],
+        "synthesizer": "multi-hop-adjacent"
+    },
+    {
+        "query_id": 34,
+        "query": "Welche Voraussetzungen müssen erfüllt sein, damit Windenergiegebiete, die bis zum Ablauf des 19. Mai 2024 ausgewiesen werden, als Beschleunigungsgebiete im Sinne der EU-Richtlinie zur Förderung der Nutzung von Energie aus erneuerbaren Quellen erklärt werden können, und wie ist die Vorgehensweise bei der Anpassung der Flächenbeitragswerte in Anlage, wenn ein Land sich durch Staatsvertrag verpflichtet, mehr Fläche für Windenergie bereitzustellen?",
+        "ground_truth": "Damit Windenergiegebiete, die bis zum Ablauf des 19. Mai 2024 ausgewiesen werden, als Beschleunigungsgebiete im Sinne des Artikels 15c der Richtlinie (EU) 2018/2001 erklärt werden können, müssen zwei wesentliche Voraussetzungen erfüllt sein: Erstens muss bei der Ausweisung des Windenergiegebietes eine Umweltprüfung im Sinne des § 8 des Raumordnungsgesetzes oder des § 2 Absatz 4 des Baugesetzbuchs durchgeführt worden sein, und zweitens, sofern erforderlich, muss eine Verträglichkeitsprüfung im Sinne des § 7 Absatz 6 des Raumordnungsgesetzes oder § 1a Absatz 4 des Baugesetzbuchs durchgeführt worden sein. Zudem darf das Windenergiegebiet nicht in einem Natura 2000-Gebiet, einem Naturschutzgebiet, einem Nationalpark oder in der Kern- oder Pflegezone eines Biosphärenreservates liegen.  Die Anpassung der Flächenbeitragswerte in Anlage erfolgt durch das Bundesministerium für Wirtschaft und Klimaschutz, wenn ein Land sich durch Staatsvertrag verpflichtet, mehr Fläche als gemäß § 3 Absatz 1 gefordert für die Windenergie an Land bereitzustellen. Dieser Staatsvertrag muss dem Bundesministerium bis zum 31. Mai 2024 unter Bezifferung des Flächenüberhangs in Quadratkilometern übermittelt werden. Die Rechtsverordnung zur Anpassung der Flächenbeitragswerte darf sich dabei für Berlin, Bremen und Hamburg jeweils um höchstens 75 Prozent und für die übrigen Länder jeweils um höchstens 50 Prozent mindern oder erhöhen.",
+        "ground_truth_chunk_contexts": [
+            "anlage als zweckgebundene Abgabe an den Bund zu leisten. Die Mittel werden vom Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz bewirtschaftet. Sie sind für Maßnahmen nach § 45d Absatz 1 des Bundesnaturschutzgesetzes zu verwenden, für die nicht bereits nach anderen Vorschriften eine rechtliche Verpflichtung besteht und die der Sicherung oder Verbesserung des Erhaltungszustandes der durch den Betrieb von Windenergieanlagen betroffenen Arten dienen. Das Bundesministerium für Wirtschaft und Klimaschutz soll im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten der nach Satz 5 erforderlichen Zahlung bestimmen. Eine Ausnahme nach § 45 Absatz 7 des Bundesnaturschutzgesetzes ist nicht erforderlich.(2) Absatz 1 ist auf Genehmigungsverfahren anzuwenden, bei denen der Antragsteller den Antrag bis zum Ablauf des 30. Juni 2025 stellt. Der Antragsteller hat bei der Antragstellung nachzuweisen, dass er das Grundstück, auf dem die Windenergieanlage errichtet werden soll, für die Errichtung und den Betrieb vertraglich gesichert hat. Absatz",
+            " 1 ist auch auf bereits laufende Genehmigungsverfahren anzuwenden, bei denen der Antragsteller den Antrag vor dem 29. März 2023 gestellt hat und bei denen noch keine endgültige Entscheidung ergangen ist, wenn der Antragsteller dies gegenüber der zuständigen Behörde verlangt. Die Sätze 1 bis 3 sind für das gesamte Genehmigungsverfahren anzuwenden, ungeachtet dessen, ob es bis zum Ablauf des 30. Juni 2025 abgeschlossen wird. Windenergiegebiete im Sinne von Absatz 1 sind abweichend von § 2 Nummer 1 Buchstabe b auch Eignungs- und Vorbehaltsgebiete in Raumordnungsplänen, wenn der Raumordnungsplan nach dem 1. Februar 2024 wirksam geworden ist. \n\n§ 6a Erklärung bestehender Windenergiegebiete zu Beschleunigungsgebieten für die Windenergie an Land \n(1) Windenergiegebiete im Sinne des § 2 Nummer 1, die bis zum Ablauf des 19. Mai 2024 ausgewiesen worden sind, sind Beschleunigungsgebiete im Sinne des Artikels 15c der Richtlinie (EU) 2018/2001 des Europäischen Parlaments",
+            " und des Rates vom 11. Dezember 2018 zur Förderung der Nutzung von Energie aus erneuerbaren Quellen (ABl. L 238 vom 21.12.2018, S. 82), die zuletzt durch die Richtlinie (EU) 2023/2413 des Europäischen Parlaments und des Rates vom 18. Oktober 2023 zur Änderung der Richtlinie (EU) 2018/2001, der Verordnung (EU) 2018/1999 und der Richtlinie 98/70/EG im Hinblick auf die Förderung von Energie aus erneuerbaren Quellen und zur Aufhebung der Richtlinie (EU) 2015/652 des Rates (ABl. L, 2023/2413, 31.10.2023) geändert worden ist, 1.wenn bei Ausweisung des Windenergiegebietes eine Umweltprüfung im Sinne des § 8 des Raumordnungsgesetzes oder des § 2 Absatz 4 des Baugesetzbuchs und, soweit erforderlich, eine Verträglichkeitsprüfung im Sinne des § 7 Absatz 6 des Raumordnungsgesetzes oder § 1a Absatz 4 des Baugesetzbuchs durchgeführt wurde und2.soweit das Windenergiegebiet nicht in",
+            " einem Natura 2000-Gebiet, einem Naturschutzgebiet, einem Nationalpark oder in der Kern- oder Pflegezone eines Biosphärenreservates liegt.(2) § 6 bleibt unberührt. \n\n§ 7 Evaluierung; Verordnungsermächtigung \n(1) Die Bundesregierung berichtet ab dem 1. Januar 2024 nach § 98 Absatz 4 des Erneuerbare-Energien-Gesetzes zum Stand der Umsetzung dieses Gesetzes.(2) Das Bundesministerium für Wirtschaft und Klimaschutz veröffentlicht den Bericht nach Absatz 1 sowie eine vereinfachte graphische Darstellung der Umsetzung der Flächenbeitragswerte in den einzelnen Ländern auf seiner Internetseite.(3) Kommt die Bundesregierung in ihrem Bericht nach § 98 Absatz 4 des Erneuerbare-Energien-Gesetzes zu dem Ergebnis, dass es er gesetzgeberischer Maßnahmen bedarf, um die Erreichung der Flächenbeitragswerte oder die Anpassung der Flächenbeitragswerte an die Ausbauziele nach dem Erneuerbare-Energien-Gesetz in der jeweils geltenden Fassung zu ermöglichen, legt sie spätestens zum 1. Juli 2025 und danach alle vier Jahre einen Entwurf",
+            " zur Anpassung dieses Gesetzes vor.(4) Das Bundesministerium für Wirtschaft und Klimaschutz passt durch Rechtsverordnung die Flächenbeitragswerte in Anlage entsprechend an, wenn sich ein Land durch Staatsvertrag gegenüber einem anderen Land verpflichtet, mehr Fläche als gemäß § 3 Absatz 1 gefordert (Flächenüberhang) für die Windenergie an Land bereitzustellen und diesen Staatsvertrag dem Bundesministerium für Wirtschaft und Klimaschutz bis zum 31. Mai 2024 unter Bezifferung des Flächenüberhangs in Quadratkilometern übermittelt, es sei denn, der Staatsvertrag ist zum Erreichen der Flächenbeitragswerte der vertragsschließenden Länder offensichtlich ungeeignet. Durch die Rechtsverordnung nach Satz 1 darf sich der Flächenbeitragswert von Berlin, Bremen und Hamburg jeweils um höchstens 75 Prozent und von den übrigen Ländern jeweils um höchstens 50 Prozent mindern oder erhöhen.(5) Das Bundesministerium für Wirtschaft und Klimaschutz wird ermächtigt und verpflichtet, unter den in Absatz 4 genannten Voraussetzungen und in dem in Absatz 4 genannten Umfang durch Rechtsverordnung mit Zustimmung des Bundesrates die Flächenbeitragswerte nach Anlage zu ändern.(6) Die Bundesregierung"
+        ],
+        "ground_truth_chunk_ids": [
+            "8ac4c2dd-6c94-40ce-b6a9-5f335231d5ff",
+            "990a2da8-dece-483b-9001-ff986c9ffc70",
+            "96904e3d-4675-4883-97e8-a7363369711d",
+            "7e0fd66d-8734-49ae-ade3-749f8b0061a1",
+            "b9f6f7ba-b085-4884-ae67-d69a73ff87bf"
+        ],
+        "ground_truth_chunk_indices": [
+            6193,
+            6194,
+            6195,
+            6196,
+            6197
+        ],
+        "synthesizer": "multi-hop-adjacent"
+    },
+    {
+        "query_id": 35,
+        "query": "Welche rechtlichen Verpflichtungen hat der Betreiber einer Kapazitätsreserveanlage im Hinblick auf die Abrechnung mit dem Übertragungsnetzbetreiber und welche Konsequenzen ergeben sich bei Nichtverfügbarkeit der Anlage gemäß der Kapazitätsreserveverordnung?",
+        "ground_truth": "Der Betreiber einer Kapazitätsreserveanlage ist gemäß § 31 der Kapazitätsreserveverordnung (KapResV) verpflichtet, eine Abrechnung mit dem Übertragungsnetzbetreiber durchzuführen, die die tatsächliche Verfügbarkeit und den Einsatz der Kapazitätsreserve berücksichtigt. Hierbei sind die Kosten und Erlöse gemäß § 33 zu erfassen, um eine transparente und gerechte Abrechnung zu gewährleisten.   Im Falle einer Nichtverfügbarkeit der Anlage gelten die Regelungen in § 34, wonach der Betreiber Zahlungspflichten hat, die als Vertragsstrafe für die nicht erfüllte Bereitstellung der Reserveleistung festgelegt sind. Zudem sieht § 35 einen Ausschluss von diesen Zahlungspflichten bei höherer Gewalt vor. Sollte der Betreiber gegen grundlegende Pflichten verstoßen, können gemäß § 36 weitere rechtliche Konsequenzen und Strafen folgen. Die Netzbetreiber hingegen haben gemäß § 37 die Aufgabe, die Ausschreibung vorzubereiten und durchzuführen, was auch die Veröffentlichung und Mitteilungspflichten gemäß § 38 einschließt.",
+        "ground_truth_chunk_contexts": [
+            "fügbarkeit§ 28Funktionstest§ 29Probeabrufe, Testfahrten§ 30Nachbesserung\n\n          Teil 4Abrechnung\n\n          § 31Abrechnung zwischen Übertragungsnetzbetreiber und Betreiber der Kapazitätsreserveanlage§ 32Abrechnung zwischen Übertragungsnetzbetreiber und Bilanzkreisverantwortlichem§ 33Kosten und Erlöse\n\n          Teil 5Vertragsstrafen\n\n          § 34Zahlungspflichten bei Nichtverfügbarkeit der Anlage§ 35Ausschluss bei höherer Gewalt§ 36Verstoß gegen grundlegende Pflichten\n\n          Teil 6Aufgaben der Netzbetreiber\n\n          § 37Vorbereitung und Durchführung der Ausschreibung§ 38Veröffentlichungs- und Mitteilungspflichten§ 39Durchsetzung von Vertragsstrafen§ 40Rückgabe der Sicherheiten§ 41Mitwirkungspflicht der Verteilernetzbetreiber\n\n          Teil 7Aufgaben der Bundesnetzagentur\n\n          § 42Festlegungen§ 43Betriebsuntersagung\n\n          Teil 8Schlussbestimmungen\n\n          § 44Auskunftsanspruch§ 45Löschung von Daten§ 46Rechtsschutz§ ",
+            "47Inkrafttreten\n\n          Teil 1Allgemeine Bestimmungen\n\n§ 1 Anwendungsbereich \nDiese Verordnung regelt die Beschaffung, die Teilnahmevoraussetzungen, den Einsatz und die Abrechnung der Kapazitätsreserve nach § 13e des Energiewirtschaftsgesetzes. \n\n§ 2 Begriffsbestimmungen \nIm Sinne dieser Verordnung bedeutet 1.Abruf: Anforderung der Übertragungsnetzbetreiber, die Wirkleistungseinspeisung von in der Kapazitätsreserve gebundenen Erzeugungsanlagen, Speichern und von Anlagen nach § 25 Absatz 3 aus dem Betrieb in Teillast auf die jeweils benötigte Einspeiseleistung anzupassen; bei regelbaren Lasten die Anforderung der Übertragungsnetzbetreiber, den Wirkleistungsbezug aus der Bereitschaft um die jeweils benötigte Leistung anzupassen,2.Aktivierung: Anforderung der Übertragungsnetzbetreiber, Erzeugungsanlagen oder Speicher zu starten und in Mindestteillast zu betreiben; bei regelbaren Lasten die Anforderung der Übertragungsnetzbetreiber, die Anlage in Bereitschaft für einen Abruf zu versetzen,3.Aktivierungszeit:",
+            " Zeitraum von der Aktivierung bis zur Einspeisung mit Mindestteillast; bei regelbaren Lasten bis zur Bereitschaft für einen Abruf,4.Anfahrzeit: Zeitraum von der Anforderung der Übertragungsnetzbetreiber, Erzeugungsanlagen oder einen Speicher zu starten, bis zur Einspeisung der vollständigen Reserveleistung; bei regelbaren Lasten Zeitraum von der Anforderung, den Wirkleistungsbezug anzupassen, bis zur Bereitstellung der vollständigen Reserveleistung,5.Anlage: Erzeugungsanlage, regelbare Last oder Speicheranlage,6.Anschluss-Übertragungsnetzbetreiber: Übertragungsnetzbetreiber, in dessen Regelzone eine Anlage an das Stromnetz angeschlossen ist,7.ausbleibende Markträumung: wenn im börslichen Handel mindestens ein Nachfragegebot mit einem Gebotspreis in Höhe des technischen Preislimits nicht oder nicht vollständig erfüllt wurde,8.Bieter: der Betreiber einer Anlage, der für die Anlage ein Gebot im Rahmen der Ausschreibung der Kapazitätsreserve abgibt,9.Einsatz: Aktivierung oder Abruf der Kapazitätsreserve,10.Erbringungszeitraum: Zeitraum, für den der Betreiber einer Anlage dazu verpflichtet",
+            " ist, die Reserveleistung mit seiner Anlage vorzuhalten,11.Erzeugungsanlage: Einheit zur Erzeugung von elektrischer Energie, die über einen Generator und eine direkte schaltungstechnische Zuordnung zwischen den Hauptkomponenten verfügt,12.Gebotsmenge: Reserveleistung in Megawatt,13.Gebotstermin: Kalendertag, bis zu dem die Gebote vollständig, in der vorgeschriebenen Form und mit den erforderlichen Angaben den Übertragungsnetzbetreibern zugehen müssen,14.Gebotswert: jährliche Vergütung für die Gebotsmenge in Euro pro Megawatt,15.kalter Zustand: bei Erzeugungsanlagen und Speichern der Zustand der Anlage nach einer Stillstandszeit von mehr als 50 Stunden und ohne Betrieb einer Anlagenfeuerung,16.Kapazitätsreserveanlage: Anlage, die vertraglich gebunden ist und mit der eine bestimmte Reserveleistung vorzuhalten ist,17.Mindestteillast: minimale Wirkleistungseinspeisung, mit der eine Erzeugungsanlage dauerhaft oder ein Speicher während der Entladung kontinuierlich und zuverlässig betrieben werden kann,18.Probeabruf: Aktivierung und Abruf einer Kapazitätsreserveanlage auf Veranlassung",
+            " und ohne Vorankündigung der Übertragungsnetzbetreiber, um die Funktionsfähigkeit der Kapazitätsreserveanlage und die Verfügbarkeit der Reserveleistung zu überprüfen,19.regelbare Last: Einheit zum Verbrauch elektrischer Energie, von der eine Abschaltleistung in der Form herbeigeführt werden kann, dass der Wirkleistungsbezug zuverlässig um eine bestimmte Leistung reduziert werden kann,20.Reserveleistung: Wirkleistungseinspeisung einer Erzeugungsanlage oder eines Speichers oder Reduktion des Wirkleistungsbezugs einer regelbaren Last, die den Übertragungsnetzbetreibern am Netzeinspeisepunkt für den Einsatz als Kapazitätsreserve zur Verfügung steht und die technischen Anforderungen nach § 9 erfüllt,21.Strommärkte: Gesamtheit der Märkte und sonstigen Vertriebswege, über die ein Betreiber die Leistung oder die Arbeit seiner Anlage veräußern kann; dies umfasst insbesondere den vor- und untertägigen börslichen und außerbörslichen Handel, börsliche und außerbörsliche Termingeschäfte, sonstige Vereinbarungen im außerbörslichen Handel sowie die Märkte für Regelenergie und regelbare Lasten,22.Teillast: Wir"
+        ],
+        "ground_truth_chunk_ids": [
+            "aa8870f7-87f9-4ef7-915b-1ca603009820",
+            "37bb4bf5-52e8-4f78-8777-283926fba684",
+            "79a9d988-18e8-4150-99aa-6da32458f028",
+            "a38a3358-6b4e-499e-9a56-559a3754f605",
+            "7c5a3547-df39-4709-b6c1-29cea28b3e55"
+        ],
+        "ground_truth_chunk_indices": [
+            4075,
+            4076,
+            4077,
+            4078,
+            4079
+        ],
+        "synthesizer": "multi-hop-adjacent"
+    },
+    {
+        "query_id": 36,
+        "query": "Welche rechtlichen Rahmenbedingungen müssen Netzbetreiber gemäß der Stromnetzzugangsverordnung (StromNZV) beachten, um einen Lieferantenwechsel für Letztverbraucher ordnungsgemäß durchzuführen, und wie sind die Regelungen zur Prognose des Jahresverbrauchs sowie zur Abrechnung von Jahresmehr- und Jahresmindermengen in diesem Kontext miteinander verknüpft?",
+        "ground_truth": "Netzbetreiber sind gemäß § 14 der Stromnetzzugangsverordnung (StromNZV) verpflichtet, für die Durchführung des Lieferantenwechsels für Letztverbraucher bundesweit einheitliche, massengeschäftstaugliche Verfahren anzuwenden. Dies umfasst die elektronische Übermittlung und Bearbeitung von Kundendaten in einem einheitlichen Datenformat, was eine vollständige Automatisierung der Prozesse ermöglicht. Der bisherige Lieferant muss unverzüglich dem Netzbetreiber die Abmeldung des Kunden mitteilen und dem neuen Lieferanten eine Kündigungsbestätigung in elektronischer Form zukommen lassen. Zudem ist es wichtig, dass Entnahmestellen anhand einer definierten Datenkombination identifizierbar sind.  Im Bezug auf die Prognose des Jahresverbrauchs regelt die StromNZV in ihren Absätzen, dass der Netzbetreiber eine Prognose über den Jahresverbrauch erstellen muss, die dem Lieferanten oder Netznutzer mitgeteilt wird. Sollte es zu unplausiblen Prognosen kommen, hat der Lieferant die Möglichkeit, Widerspruch einzulegen und eine eigene Prognose vorzulegen. Kommt es nicht zu einer Einigung, legt der Netzbetreiber die Prognose fest. Die Abrechnung von Jahresmehr- und Jahresmindermengen erfolgt nach Ablauf des Abrechnungsjahres und ist an die Marktpreise gekoppelt, die vom Netzbetreiber veröffentlicht werden müssen. Diese Regelungen zur Prognose und Abrechnung sind miteinander verknüpft, da die Genauigkeit der Verbrauchsprognosen Einfluss auf die Abrechnung und die wirtschaftlichen Aspekte des Lieferantenwechsels hat.",
+        "ground_truth_chunk_contexts": [
+            "verbrauch basiert. Die Prognose ist dem Lieferanten oder Netznutzer mitzuteilen. Dieser kann unplausiblen Prognosen widersprechen und dem Betreiber des Elektrizitätsverteilernetzes eine eigene Prognose unterbreiten. Kommt keine Einigung zustande, legt der Betreiber von Elektrizitätsverteilernetzen die Prognose über den Jahresverbrauch fest. In begründeten Ausnahmefällen kann die Jahresverbrauchsprognose vom Lieferanten und dem Betreiber von Elektrizitätsverteilernetzen gemeinsam auch unterjährig angepasst werden.(2) Jahresmehr- und Jahresmindermengen zwischen der bei Entnahmestellen mit Standard-Lastprofilen gemessenen oder auf sonstige Weise ermittelten elektrischen Arbeit und der sich aus den prognostizierten Lastprofilen ergebenden elektrischen Arbeit sind als vom Netzbetreiber geliefert oder abgenommen zu behandeln.(3) Unterschreitet die Summe der in einem Zeitraum ermittelten elektrischen Arbeit die Summe der Arbeit, die den bilanzierten Lastprofilen zu Grunde gelegt wurde (ungewollte Mehrmenge), so vergütet der Netzbetreiber dem Lieferanten oder dem Kunden diese Differenzmenge. Überschreitet die Summe der in",
+            " einem Zeitraum ermittelten elektrischen Arbeit die Summe der Arbeit, die den bilanzierten Lastprofilen zu Grunde gelegt wurde (ungewollte Mindermenge), stellt der Netzbetreiber die Differenzmenge dem Lieferanten oder dem Kunden in Rechnung. Die Abrechnung der Jahresmehr- und Jahresmindermengen erfolgt nach Ablauf des jeweiligen Abrechnungsjahres zwischen Lieferanten und Netzbetreiber oder zwischen Kunden und Netzbetreiber. Der Betreiber von Elektrizitätsverteilernetzen berechnet für Jahresmehr- und Jahresmindermengen auf Grundlage der monatlichen Marktpreise einen einheitlichen Preis. Dieser Preis ist auf der jeweiligen Internetseite des Betreibers von Elektrizitätsverteilernetzen zu veröffentlichen.Teil 4Sonstige Pflichten der Betreiber von Elektrizitätsversorgungsnetzen\n\n§ 14 Lieferantenwechsel \n(1) Die Netzbetreiber sind verpflichtet, für die Durchführung des Lieferantenwechsels für Letztverbraucher sowie für die Zuordnung von Einspeiseanlagen zu Händlern und Bilanzkreisen bundesweit einheitliche, massengeschäftstaugliche Verfahren anzuwenden. Für den elektronischen Datenaustausch mit den Netznutzern ist ein einheit",
+            "liches Datenformat zu verwenden. Die Netzbetreiber sind verpflichtet, die elektronische Übermittlung und Bearbeitung von Kundendaten in massengeschäftstauglicher Weise zu organisieren, sodass die Kundendaten in vollständig automatisierter Weise übermittelt und bearbeitet werden können. Die Verbände der Netznutzer sind an der Entwicklung der Verfahren und Formate für den Datenaustausch angemessen zu beteiligen.(2) Der bisherige Lieferant ist verpflichtet, unverzüglich 1.dem Netzbetreiber die Abmeldung seines Kunden mitzuteilen und2.dem neuen Lieferanten in einem einheitlichen Format elektronisch eine Kündigungsbestätigung zu übersenden, soweit der neue Lieferant die Kündigung in Vertretung für den Kunden ausgesprochen hat.(3) Eine Entnahmestelle ist anhand von nicht mehr als drei mitgeteilten Daten zu identifizieren. Es soll eine der folgenden Datenkombinationen mitgeteilt werden: 1.Zählpunkt oder Zählpunkt-Aggregation und Name oder Firma des Kunden sowie Straße, Postleitzahl und Ort der Entnahmestelle,2.Zählernummer und Name oder Firma des Kunden sowie Straße, Postleitzahl und Ort der Entnahmestelle oder3.Name des bisherigen Lieferanten, Kundennummer des bisherigen",
+            " Lieferanten und Name oder Firma des Kunden sowie Straße, Postleitzahl und Ort der Entnahmestelle.Wenn der neue Lieferant keine der in Satz 2 aufgeführten Datenkombinationen vollständig dem Betreiber von Elektrizitätsversorgungsnetzen mitteilt, darf der Betreiber von Elektrizitätsversorgungsnetzen die Meldung nur weisen, wenn die Entnahmestelle nicht eindeutig identifizierbar ist. In diesem Fall ist die Meldung für diese Entnahmestelle unwirksam. Änderungen wesentlicher Kundendaten sind wechselseitig unverzüglich mitzuteilen. § 27 Absatz 1 Nummer 18 bleibt unberührt.(4) Betreiber von Elektrizitätsversorgungsnetzen dürfen den Lieferantenwechsel nicht von anderen Bedingungen als den in den Absätzen 1 bis 3 genannten abhängig machen. § 27 Abs. 1 Nr. 17 bleibt unberührt. \n\n§ 15 Engpassmanagement \n(1) Betreiber von Übertragungsnetzen haben im Rahmen des wirtschaftlich Zumutbaren das Entstehen von Engpässen in ihren Netzen und an den Kuppelstellen zu benachbarten Netzen mit Hilfe von netzbezogenen und marktbezogenen Maßnahmen zu verhindern,",
+            " die auch die Zusammenarbeit der Betreiber von Übertragungsnetzen einschließen kann.(2) Lässt sich die Entstehung eines Engpasses mit Hilfe von Maßnahmen nach Absatz 1 nicht vermeiden, so sind Betreiber von Übertragungsnetzen verpflichtet, die verfügbaren Leitungskapazitäten nach marktorientierten und transparenten Verfahren diskriminierungsfrei zu bewirtschaften.(3) Die Erlöse, die Netzbetreiber aus der Durchführung der Engpassbewirtschaftung erzielen, sind unverzüglich für Maßnahmen zur Beseitigung von Engpässen zu verwenden, hierfür zustellen oder entgeltmindernd in den Netzentgelten zu berücksichtigen. Die Erlöse, die Netzbetreiber aus der Durchführung der Engpassbewirtschaftung erzielen, sind von den Betreibern von Übertragungsnetzen zu dokumentieren. Die Dokumentation ist der Regulierungsbehörde vorzulegen.(4) Betreiber von Übertragungsnetzen sind verpflichtet, Engpässe in ihrem Netz unverzüglich und in geeigneter Form, zumindest aber auf ihrer Internetseite, zu veröffentlichen und den betroffenen Bilanzkreisverantwortlichen soweit möglich unverzüglich elektronisch mitzuteilen. Die Veröffentlichung und Mitteilung müssen enthalten: 1.die zur Verfügung stehende Gesamtkap"
+        ],
+        "ground_truth_chunk_ids": [
+            "50fc5412-0b8a-481a-95b9-21bc331ea744",
+            "37d33199-bdf1-4051-9a69-56f609cd3643",
+            "0f8b9760-2b12-4dc0-896f-050dab892e37",
+            "79183d60-cb3e-4fcd-8d2b-accda03f383e",
+            "a748cb87-2081-4584-8524-0aa03f318291"
+        ],
+        "ground_truth_chunk_indices": [
+            5226,
+            5227,
+            5228,
+            5229,
+            5230
+        ],
+        "synthesizer": "multi-hop-adjacent"
+    },
+    {
+        "query_id": 37,
+        "query": "Welche Voraussetzungen und Verfahren sind im Rahmen des Netzausbaubeschleunigungsgesetzes (NABEG) für die vorzeitige Besitzeinweisung und das vorzeitige Enteignungsverfahren festgelegt, und wie wirken sich die entsprechenden Regelungen des Energiewirtschaftsgesetzes auf diese Prozesse aus?",
+        "ground_truth": "Nach § 27 NABEG kann der Vorhabenträger nach Abschluss des Anhörungsverfahrens gemäß § 22 eine vorzeitige Besitzeinweisung verlangen. Hierbei findet § 44b des Energiewirtschaftsgesetzes Anwendung, wobei der erwartete Planfeststellungsbeschluss dem Besitzeinweisungsverfahren zugrunde gelegt wird. Der Besitzeinweisungsbeschluss wird mit der aufschiebenden Bedingung erlassen, dass sein Ergebnis durch den Planfeststellungsbeschluss bestätigt wird. Andernfalls muss das Verfahren auf Grundlage des ergangenen Planfeststellungsbeschlusses ergänzt werden.   Des Weiteren kann der Vorhabenträger auch ein vorzeitiges Enteignungsverfahren nach Abschluss des Anhörungsverfahrens gemäß § 22 beantragen. Für dieses Verfahren kommt § 45 des Energiewirtschaftsgesetzes zur Anwendung, wobei ebenfalls der erwartete Planfeststellungsbeschluss dem Enteignungsverfahren zugrunde gelegt wird. Der Enteignungsbeschluss wird unter der Bedingung erlassen, dass er durch den Planfeststellungsbeschluss bestätigt wird. Sollte dies nicht geschehen, ist das Enteignungsverfahren ebenfalls auf Grundlage des Planfeststellungsbeschlusses zu ergänzen.",
+        "ground_truth_chunk_contexts": [
+            " ist. Prüfgegenstand ist nur die jeweils angezeigte Änderung oder Erung; im Fall der standortnahen Maständerung bleibt es unabhängig von den Vorgaben der §§ 3, 3a und 4 der Verordnung über elektromagnetische Felder und den Vorgaben der Technischen Anleitung zum Schutz gegen Lärm vom 26. August 1998 (GMBl S. 503) in der jeweils geltenden Fassung beim Anzeigeverfahren. Die Entscheidung ist dem Vorhabenträger bekannt zu machen.(5) § 43e des Energiewirtschaftsgesetzes ist entsprechend anzuwenden. \n\n§ 26 Zusammentreffen mehrerer Vorhaben \nIn Planfeststellungsverfahren kann eine einheitliche Entscheidung für ein Vorhaben nach § 2 Absatz 1 und für die Errichtung, den Betrieb sowie die Änderung von Hochspannungsleitungen mit einer Nennspannung von 110 Kilovolt oder mehr sowie von Bahnstromfernleitungen beantragt werden, sofern diese Leitungen auf einem Mehrfachgestänge geführt werden. Satz 1 ist auf folgende Erdkabel entsprechend anzuwenden, wenn sie im räumlichen und zeitlichen Zusammenhang mit der Baumaßnahme eines Erdkabelvorhabens nach § 2 Absatz",
+            " 1 mitverlegt werden: 1.für Erdkabelvorhaben nach § 2 Absatz 1 oder2.für sonstige Erdkabel.§ 78 des Verwaltungsverfahrensgesetzes bleibt unberührt. Die Planfeststellungsverfahren richten sich nach den Vorgaben dieses Gesetzes. Ist danach eine andere Behörde als die Bundesnetzagentur zuständig, wendet diese die Vorgaben des dritten Abschnitts an. \n\n§ 27 Vorzeitige Besitzeinweisung und Enteignungsverfahren \n(1) Der Vorhabenträger kann verlangen, dass nach Abschluss des Anhörungsverfahrens gemäß § 22 eine vorzeitige Besitzeinweisung durchgeführt wird. § 44b des Energiewirtschaftsgesetzes findet mit der Maßgabe Anwendung, dass der nach dem Verfahrensstand zu erwartende Planfeststellungsbeschluss dem vorzeitigen Besitzeinweisungsverfahren zugrunde zu legen ist. Der Besitzeinweisungsbeschluss ist mit der aufschiebenden Bedingung zu erlassen, dass sein Ergebnis durch den Planfeststellungsbeschluss bestätigt wird. Anderenfalls ist das vorzeitige Besitzeinweisungsverfahren auf der Grundlage des ergangenen Planfeststellungsbesch",
+            "lusses zu ergänzen.(2) Der Vorhabenträger kann verlangen, dass nach Abschluss des Anhörungsverfahrens gemäß § 22 ein vorzeitiges Enteignungsverfahren durchgeführt wird. § 45 des Energiewirtschaftsgesetzes findet mit der Maßgabe Anwendung, dass der nach dem Verfahrensstand zu erwartende Planfeststellungsbeschluss dem Enteignungsverfahren zugrunde zu legen ist. Der Enteignungsbeschluss ist mit der aufschiebenden Bedingung zu erlassen, dass sein Ergebnis durch den Planfeststellungsbeschluss bestätigt wird. Anderenfalls ist das Enteignungsverfahren auf der Grundlage des ergangenen Planfeststellungsbeschlusses zu ergänzen. \n\n§ 28 Durchführung einer Raumverträglichkeitsprüfung \nAbweichend von § 15 Absatz 1 des Raumordnungsgesetzes in Verbindung mit § 1 Satz 1 Nummer 14 der Raumordnungsverordnung findet eine Raumverträglichkeitsprüfung für die Errichtung oder die Änderung von Höchstspannungsleitungen, für die im Bundesnetzplan Trassenkorridore oder Trassen ausgewiesen sind, nicht statt. Dies ist auch anzuwenden, wenn nach § 5a auf ein",
+            " Bundesfachplanungsverfahren verzichtet wurde oder nach § 5a Absatz 4a die Bundesfachplanung entfallen ist. Satz 1 ist nicht anzuwenden nach Ablauf der Geltungsdauer nach § 15 Absatz 2.Abschnitt 4Gemeinsame Vorschriften\n\n§ 29 Projektmanager \n(1) Die zuständige Behörde kann einen Dritten, der als Verwaltungshelfer beschäftigt werden kann, auf Vorschlag oder mit Zustimmung des Vorhabenträgers und auf dessen Kosten mit der Vorbereitung und Durchführung von Verfahrensschritten beauftragen wie 1.der Erstellung von Verfahrensleitplänen unter Bestimmung von Verfahrensabschnitten und Zwischenterminen,2.der Fristenkontrolle,3.der Koordinierung von erforderlichen Sachverständigengutachten,4.dem Qualitätsmanagement der Anträge und Unterlagen der Vorhabenträger,5.der Koordinierung der Enteignungs- und Entschädigungsverfahren nach den §§ 45 und 45a des Energiewirtschaftsgesetzes,6.dem Entwurf eines Anhörungsberichtes,7.der ersten Auswertung der eingereichten Stellungnahmen,8.der organisatorischen Vorbereitung eines Erörterungstermins,9.der",
+            " Leitung des Erörterungstermins und10.dem Entwurf von Entscheidungen.(2) Die zuständige Behörde soll im Fall einer Beauftragung des Projektmanagers mit diesem vereinbaren, dass die Zahlungspflicht unmittelbar zwischen Vorhabenträger und Projektmanager entsteht und eine Abrechnung zwischen diesen erfolgt; Voraussetzung ist, dass der Vorhabenträger einer solchen zugestimmt hat. Der Projektmanager ist verpflichtet, die Abrechnungsunterlagen ebenfalls der zuständigen Behörde zu übermitteln. Die zuständige Behörde prüft, ob die vom Projektmanager abgerechneten Leistungen dem jeweiligen Auftrag entsprechen, und teilt dem Vorhabenträger das Ergebnis dieser Prüfung unverzüglich mit.(3) Die Entscheidung der Bundesfachplanung nach § 12 Absatz 2 und über den Planfeststellungsantrag nach § 24 Absatz 1 liegt allein bei der zuständigen Behörde. \n\n§ 30 Kostenpflichtige Amtshandlungen \n(1) Die Bundesnetzagentur erhebt für folgende Amtshandlungen nach diesem Gesetz kostendeckende Gebühren und Auslagen: 1.Feststellung der Raumverträglichkeit im vereinfachten Verfahren nach § 11 Absatz 2,2.Entscheidungen nach § 12 Absatz 2"
+        ],
+        "ground_truth_chunk_ids": [
+            "9a70e628-89f7-4f88-a656-46fea03cb13d",
+            "5f43189c-e978-4016-b66d-612ce5846832",
+            "b793a767-9ed5-4316-ae10-522d069e8bfe",
+            "f5cd17b5-c308-4f8e-a059-ff17b0130ca8",
+            "9369430e-64b4-45bf-aea3-cd9f1f098682"
+        ],
+        "ground_truth_chunk_indices": [
+            4883,
+            4884,
+            4885,
+            4886,
+            4887
+        ],
+        "synthesizer": "multi-hop-adjacent"
+    },
+    {
+        "query_id": 38,
+        "query": "Welche rechtlichen Vorgaben sind bei der Sicherstellung von Zahlungsverpflichtungen und der Handhabung von Mahnungen durch den Grundversorger zu beachten, insbesondere in Bezug auf die Sicherheitsleistung, die Fälligkeit von Rechnungen und die Möglichkeit der Unterbrechung der Grundversorgung, und wie sind diese Regelungen miteinander verknüpft?",
+        "ground_truth": "Die Regelungen zur Sicherstellung von Zahlungsverpflichtungen und der Handhabung von Mahnungen durch den Grundversorger sind insbesondere in den §§ 15, 16, 17 und 19 der Gasgrundversorgungsverordnung (GasGVV) verankert.   § 15 regelt die Sicherheitsleistung, die der Grundversorger verlangen kann, wenn der Kunde zur Vorauszahlung nicht bereit oder in der Lage ist. In diesem Zusammenhang sind auch die Verzinsung der Barsicherheiten und die Möglichkeit zur Verwertung der Sicherheit bei Zahlungsverzug des Kunden von Bedeutung.  § 16 legt fest, dass Rechnungen und Abschläge einfach verständlich sein müssen und verweist auf die Vorgaben des Energiewirtschaftsgesetzes (EnWG) für deren Ausgestaltung. Hierbei sind auch die verschiedenen Zahlungsweisen zu beachten, die der Grundversorger dem Kunden anbieten muss.  In § 17 wird die Fälligkeit von Rechnungen und Abschlägen sowie die Bedingungen für den Zahlungsverzug behandelt. Es wird klargestellt, dass Einwände gegen Rechnungen nur unter bestimmten Voraussetzungen zu einem Zahlungsaufschub führen können. Zudem wird geregelt, dass der Grundversorger im Falle eines Zahlungsverzugs die dadurch entstehenden Kosten pauschal berechnen kann, wobei diese nachvollziehbar sein müssen.  Schließlich behandelt § 19 die Möglichkeit der Unterbrechung der Grundversorgung. Der Grundversorger kann die Versorgung unter bestimmten Voraussetzungen, wie etwa bei Nichterfüllung von Zahlungsverpflichtungen, unterbrechen. Dies setzt jedoch voraus, dass der Kunde im Vorfeld angemessen informiert wird und dass die Verhältnismäßigkeit gewahrt bleibt.   Die Regelungen sind miteinander verknüpft, da die Sicherheitsleistung und die Fälligkeit von Zahlungen eng mit der Möglichkeit der Unterbrechung der Versorgung verbunden sind. Eine Nichtbeachtung dieser Vorgaben kann sowohl für den Grundversorger als auch für den Kunden rechtliche Konsequenzen nach sich ziehen.",
+        "ground_truth_chunk_contexts": [
+            "41 Absatz 2 Satz 2 und 3 des Energiewirtschaftsgesetzes sind zu beachten. \n\n§ 15 Sicherheitsleistung \n(1) Ist der Kunde zur Vorauszahlung nach § 14 nicht bereit oder nicht in der Lage, kann der Grundversorger in angemessener Höhe Sicherheit verlangen.(2) Barsicherheiten werden zum jeweiligen Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs verzinst.(3) Ist der Kunde in Verzug und kommt er nach erneuter Zahlungsaufforderung nicht unverzüglich seinen Zahlungsverpflichtungen aus dem Grundversorgungsverhältnis nach, so kann der Grundversorger die Sicherheit verwerten. Hierauf ist in der Zahlungsaufforderung hinzuweisen. Kursverluste beim Verkauf von Wertpapieren gehen zu Lasten des Kunden.(4) Die Sicherheit ist unverzüglich zugeben, wenn keine Vorauszahlung mehr verlangt werden kann. \n\n§ 16 Rechnungen und Abschläge \n(1) Vordrucke für Rechnungen und Abschläge müssen einfach verständlich sein. Für Rechnungen und Abschläge ist § 40 Absatz 1 bis 4 des Energiewirtschaftsgesetzes maßgeblich.(2) Der Grundversorger hat in den ergänzenden",
+            " Bedingungen mindestens zwei mögliche Zahlungsweisen anzugeben. Für die anzugebenden Zahlungsweisen ist § 41 Absatz 2 Satz 2 und 3 des Energiewirtschaftsgesetzes anzuwenden. \n\n§ 17 Zahlung, Verzug \n(1) Rechnungen und Abschläge werden zu dem vom Grundversorger angegebenen Zeitpunkt, frühestens jedoch zwei Wochen nach Zugang der Zahlungsaufforderung fällig. Einwände gegen Rechnungen und Abschlagsberechnungen berechtigen gegenüber dem Grundversorger zum Zahlungsaufschub oder zur Zahlungsverweigerung nur, 1.soweit die ernsthafte Möglichkeit eines offensichtlichen Fehlers besteht oder2.soferna)der in einer Rechnung angegebene Verbrauch ohne ersichtlichen Grund mehr als doppelt so hoch wie der vergleichbare Verbrauch im vorherigen Abrechnungszeitraum ist undb)der Kunde eine Nachprüfung der Messeinrichtung verlangtund solange durch die Nachprüfung nicht die ordnungsgemäße Funktion des Messgeräts festgestellt ist.§ 315 des Bürgerlichen Gesetzbuchs bleibt von Satz 2 unberührt.(2) Bei Zahlungsverzug des Kunden kann der Grundversorger, wenn er erneut zur Zahlung auffordert oder den Betrag durch einen",
+            " Beauftragten einziehen lässt, die dadurch entstandenen Kosten für strukturell vergleichbare Fälle pauschal berechnen; die pauschale Berechnung muss einfach nachvollziehbar sein. Die Pauschale darf die nach dem gewöhnlichen Lauf der Dinge zu erwartenden Kosten nicht übersteigen. Auf Verlangen des Kunden ist die Berechnungsgrundlage nachzuweisen.(3) Gegen Ansprüche des Grundversorgers kann vom Kunden nur mit unbestrittenen oder rechtskräftig festgestellten Gegenansprüchen aufgerechnet werden. \n\n§ 18 Berechnungsfehler \n(1) Ergibt eine Prüfung der Messeinrichtungen eine Überschreitung der Verkehrsfehlergrenzen oder werden Fehler in der Ermittlung des Rechnungsbetrages festgestellt, so ist die Überzahlung vom Grundversorger zuzahlen oder der Fehlbetrag vom Kunden nachzuentrichten. Ist die Größe des Fehlers nicht einwandfrei festzustellen oder zeigt eine Messeinrichtung nicht an, so ermittelt der Grundversorger den Verbrauch für die Zeit seit der letzten fehlerfreien Ablesung aus dem Durchschnittsverbrauch des ihr vorhergehenden und des der Feststellung des Fehlers nachfolgenden Ablesezeitraums oder auf Grund des vorjährigen",
+            " Verbrauchs durch Schätzung; die tatsächlichen Verhältnisse sind angemessen zu berücksichtigen. Bei Berechnungsfehlern auf Grund einer nicht ordnungsgemäßen Funktion einer Messeinrichtung ist der vom Messstellenbetreiber ermittelte und dem Kunden mitgeteilte korrigierte Verbrauch der Nachberechnung zu Grunde zu legen.(2) Ansprüche nach Absatz 1 sind auf den der Feststellung des Fehlers vorhergehenden Ablesezeitraum beschränkt, es sei denn, die Auswirkung des Fehlers kann über einen größeren Zeitraum festgestellt werden; in diesem Fall ist der Anspruch auf längstens drei Jahre beschränkt.Teil 5Beendigung des Grundversorgungsverhältnisses\n\n§ 19 Unterbrechung der Versorgung \n(1) Der Grundversorger ist berechtigt, die Grundversorgung ohne vorherige Androhung durch den Netzbetreiber unterbrechen zu lassen, wenn der Kunde dieser Verordnung in nicht unerheblichem Maße schuldhaft zuwiderhandelt und die Unterbrechung erforderlich ist, um den Gebrauch von Gas unter Umgehung, Beeinflussung oder vor Anbringung der Messeinrichtungen zu verhindern.(2) Bei anderen Zuwiderhandlungen, insbesondere bei der Nichterfüll",
+            "ung einer Zahlungsverpflichtung trotz Mahnung, ist der Grundversorger berechtigt, die Grundversorgung vier Wochen nach Androhung unterbrechen zu lassen und den zuständigen Netzbetreiber nach § 24 Absatz 3 der Niederdruckanschlussverordnung mit der Unterbrechung der Grundversorgung zu beauftragen. Dies gilt nicht, wenn die Folgen der Unterbrechung außer Verhältnis zur Schwere der Zuwiderhandlung stehen oder der Kunde darlegt, dass hinreichende Aussicht besteht, dass er seinen Verpflichtungen nachkommt. Im Fall einer Androhung nach Satz 1 hat der Grundversorger den Kunden einfach verständlich zu informieren, wie er dem Grundversorger das Vorliegen von Voraussetzungen nach Satz 5 in Textform mitteilen kann. Der Grundversorger hat dem Kunden die Kontaktadresse anzugeben, an die der Kunde die Mitteilung zu übermitteln hat. Die Verhältnismäßigkeit ist insbesondere dann nicht gewahrt, wenn infolge der Unterbrechung eine konkrete Gefahr für Leib oder Leben der dadurch Betroffenen zu besorgen ist. Der Grundversorger kann mit der Mahnung zugleich die Unterbrechung der Grundversorgung androhen, sofern dies nicht außer Verhältnis zur Schwere der Zuwider"
+        ],
+        "ground_truth_chunk_ids": [
+            "07135cef-7d02-413e-b49b-d64593e559fe",
+            "f4ef9f63-0645-4633-95ec-5b103d8d08bd",
+            "84c13bdd-1aa7-42ab-816d-a80036c1c550",
+            "26b2e068-6a32-4681-b88c-4110691486e6",
+            "e12babe5-ec6a-42d1-a454-c35b618fef64"
+        ],
+        "ground_truth_chunk_indices": [
+            3506,
+            3507,
+            3508,
+            3509,
+            3510
+        ],
+        "synthesizer": "multi-hop-adjacent"
+    },
+    {
+        "query_id": 39,
+        "query": "Welche Voraussetzungen müssen erfüllt sein, damit ein Träger des Vorhabens mit der Errichtung von Windenergieanlagen auf See beginnen kann, und welche spezifischen Nachweise sind dafür erforderlich gemäß den relevanten Paragraphen des Windenergie-auf-See-Gesetzes (WindSeeG)?",
+        "ground_truth": "Gemäß § 68 Absatz 1 WindSeeG dürfen Vorhaben zur Errichtung und zum Betrieb von Windenergieanlagen auf See oder anderen Energiegewinnungsanlagen, die über einen Zuschlag gemäß §§ 20, 21, 34 oder 54 oder über eine Antragsberechtigung nach § 92 verfügen, erst mit der Errichtung beginnen, wenn die Verpflichtung nach § 90 Absatz 2 wirksam erklärt wurde. Darüber hinaus umfasst der Plan, der im Rahmen des Planfeststellungsverfahrens erstellt wird, mehrere spezifische Nachweise. Dazu gehören der Nachweis über die Erteilung eines Zuschlags oder einer Antragsberechtigung, eine Darstellung der Sicherheits- und Vorsorgemaßnahmen, ein Zeit- und Maßnahmenplan bis zur Außerbetriebnahme, der UVP-Bericht gemäß § 16 des Gesetzes über die Umweltverträglichkeitsprüfung sowie gegebenenfalls Gutachten eines anerkannten Sachverständigen zur technischen und sicherheitstechnischen Konformität der Anlage. Insbesondere ist der Träger des Vorhabens verpflichtet, alle erforderlichen Unterlagen zeitgerecht und vollständig gemäß den Anforderungen des Bundesamts für Seeschifffahrt und Hydrographie einzureichen.",
+        "ground_truth_chunk_contexts": [
+            " zum Betrieb von Windenergieanlagen auf See, für die kein Zuschlag wirksam ist.(5) Das Bundesamt für Seeschifffahrt und Hydrographie darf für bestehende Projekte, die in keiner Ausschreibung nach § 26 Absatz 1 einen Zuschlag erhalten haben, Fristen nicht verlängern, die sie mit dem Ziel einer zügigen Errichtung und Inbetriebnahme der Windenergieanlagen auf See vorgegeben hat. Satz 1 ist auf Fristverlängerungen nach Absatz 2 Nummer 1 entsprechend anzuwenden.(6) Vorhaben zur Errichtung und zum Betrieb von Windenergieanlagen auf See oder von sonstigen Energiegewinnungsanlagen, die über einen Zuschlag nach §§ 20, 21, 34 oder 54 oder über eine Antragsberechtigung nach § 92 verfügen, dürfen mit der Errichtung dieser und der zugehörigen Anlagen erst beginnen, wenn die Verpflichtung nach § 90 Absatz 2 wirksam erklärt wurde.Fußnote(+++ Teil 4 (§§ 65 bis 92): Zur Anwendung vgl. § 65 Abs. 1 +++) (+++ Teil 4 (§§ 65 bis 92 außer Abschn. 2 UAbschn. 2 (§§ 81",
+            " bis 91): Zur Anwendung vgl. § 95 Abs. 3 Satz 2 +++) \n\n§ 68 Planfeststellungsverfahren \n(1) Der Plan umfasst zusätzlich zu den Zeichnungen und Erläuterungen nach § 73 Absatz 1 Satz 2 des Verwaltungsverfahrensgesetzes 1.den Nachweis über die Erteilung eines Zuschlags auf der betreffenden Fläche oder über die Erteilung einer Antragsberechtigung auf dem betreffenden Bereich, wenn sich der Plan auf Windenergieanlagen auf See oder sonstige Energiegewinnungslagen bezieht,2.eine Darstellung der Sicherheits- und Vorsorgemaßnahmen,3.einen Zeit- und Maßnahmenplan bis zur Außerbetriebnahme, einschließlich der Beseitigung als Grundlage für eine Entscheidung nach § 69 Absatz 2,4.den UVP-Bericht nach § 16 des Gesetzes über die Umweltverträglichkeitsprüfung, wobei hierfür die Unterlagen nach § 10 Absatz 1 verwendet werden können, sofern für das Vorhaben eine UVP-Pflicht nach dem Gesetz über die Umweltverträglichkeitsprüfung besteht, anderenfalls ist eine umweltfachliche Stellungnahme einzureichen, und5.auf Anforderung der Planfeststellungsbehörde",
+            " Gutachten eines anerkannten Sachverständigen zur Frage, ob die Anlage und ihr Betrieb dem Stand der Technik und den Sicherheitsanforderungen entsprechen.(2) Reichen die Angaben und Unterlagen für die Prüfung nicht aus, so hat sie der Träger des Vorhabens auf Verlangen des Bundesamts für Seeschifffahrt und Hydrographie innerhalb einer von dieser gesetzten angemessenen Frist zu ergänzen. Kommt der Träger des Vorhabens dem nicht nach, kann das Bundesamt für Seeschifffahrt und Hydrographie den Antrag ablehnen. Das Bundesamt für Seeschifffahrt und Hydrographie kann ein Verlangen nach Satz 1 nur einmalig und innerhalb von sechs Wochen nach Einreichung der Unterlagen durch den Träger des Vorhabens erklären.(3) § 73 Absatz 2, Absatz 3 Satz 1, Absatz 4 Satz 1 und Absatz 5 Satz 1 sowie § 74 Absatz 4 Satz 2 des Verwaltungsverfahrensgesetzes sind mit der Maßgabe anzuwenden, dass an die Stelle der Gemeinde das Bundesamt für Seeschifffahrt und Hydrographie tritt. Auf die Auslegung der Unterlagen ist nach § 98 Nummer 1 hinzu",
+            "weisen. § 73 Absatz 3a des Verwaltungsverfahrensgesetzes ist mit der Maßgabe anzuwenden, dass die von dem Bundesamt für Seeschifffahrt und Hydrographie zu setzende Frist nach § 73 Absatz 3a Satz 1 des Verwaltungsverfahrensgesetzes sechs Wochen nicht überschreiten darf.(4) Um eine zügige Durchführung das Bundesamt für Seeschifffahrt und Hydrographie zu ermöglichen, kann die Planfeststellungsbehörde dem Träger des Vorhabens nach Anhörung angemessene Fristen vorgeben. Werden die Fristen nicht eingehalten, kann die Planfeststellungsbehörde den Antrag ablehnen.(5) Ist der UVP-Bericht nach § 16 des Gesetzes über die Umweltverträglichkeitsprüfung im Internet veröffentlicht, kann die in § 17 Absatz 1 des Gesetzes über die Umweltverträglichkeitsprüfung geforderte Übermittlung des UVP-Berichts durch Mitteilung der Verfügbarkeit des UVP-Berichts im Internet ersetzt werden. In begründeten Fällen wird der Bericht durch Versendung zur Verfügung gestellt. Hierauf wird in der Mitteilung hingewiesen.Fußnote(+++ Teil 4 (§§ 65 bis 92): Zur Anwendung",
+            " vgl. § 65 Abs. 1 +++) (+++ Teil 4 (§§ 65 bis 92 außer Abschn. 2 UAbschn. 2 (§§ 81 bis 91): Zur Anwendung vgl. § 95 Abs. 3 Satz 2 +++) (+++ Teil 4 (§§ 65 bis 92 außer § 67 u. Abschn. 2 UAbschn. 2 (§§ 81 bis 91): Zur Anwendung vgl. § 102 Abs. 1 Satz 2 +++) \n\n§ 69 Planfeststellungsbeschluss, Plangenehmigung \n(1) Der Träger des Vorhabens hat die Vereinbarkeit des Vorhabens mit dem jeweils geltenden „Standard Konstruktion – Mindestanforderungen an die konstruktive Ausführung von Offshore-Bauwerken in der ausschließlichen Wirtschaftszone (AWZ)“ sicherzustellen. Der Nachweis ist durch Vorlage eines Gutachtens eines akkreditierten Zertifizierers inklusive der darin referenzierten Unterlagen spätestens zwölf Wochen vor dem geplanten Baubeginn zu erbringen und beim Bundesamt für Seeschifffahrt und Hydrographie zur Plausibilisierung einzureichen.("
+        ],
+        "ground_truth_chunk_ids": [
+            "b5852aef-3b1e-4ee8-b249-e601b42d0501",
+            "75976846-8a76-473e-80a7-fee7afdf01f3",
+            "147d9779-96bf-4d09-ad05-acc6eafb626d",
+            "423fea93-79fd-4248-9752-8b9f724a685f",
+            "dcde57db-5d67-4f82-a9e9-8d3c4ccb1ab6"
+        ],
+        "ground_truth_chunk_indices": [
+            6092,
+            6093,
+            6094,
+            6095,
+            6096
+        ],
+        "synthesizer": "multi-hop-adjacent"
+    },
+    {
+        "query_id": 40,
+        "query": "Welche Regelungen gelten hinsichtlich der Vorausleistungspflicht für Genehmigungsinhaber von Anlagen zur Endlagerung radioaktiver Abfälle, insbesondere im Hinblick auf die Ermittlung des notwendigen Aufwands und die Verteilung der Vorausleistungen?",
+        "ground_truth": "Die Vorausleistungspflicht für Genehmigungsinhaber von Anlagen zur Endlagerung radioaktiver Abfälle ist in der Endlagervorausleistungsverordnung (EndlagerVIV) klar geregelt. Nach § 2 haften sowohl der ehemalige als auch der derzeitige Genehmigungsinhaber gesamtschuldnerisch, wenn radioaktive Abfälle anfallen, die an ein Endlager abgeliefert werden müssen. Die Finanzierungspflicht kann auch auf einen Fonds übergehen, wie es im Entsorgungsfondsgesetz festgelegt ist.  Der notwendige Aufwand, der für die Vorausleistungen erhoben werden kann, wird gemäß § 3 in mehreren Bereichen ermittelt, darunter anlagenbezogene Forschung und Entwicklung, Planung, Erkundung und die Errichtung von Anlagen. Die Ermittlung des tatsächlichen Aufwands erfolgt nach § 4, wobei eine Kostenkalkulation vor Beginn eines jeden Kalenderjahres erstellt wird. Diese Kalkulation muss den Vorausleistungspflichtigen bekannt gegeben werden, und der gesamte notwendige Aufwand wird im Folgejahr ermittelt.  Die Verteilung des Aufwands erfolgt gemäß § 6, wobei unterschiedliche Prozentsätze für verschiedene Kategorien von Genehmigungsinhabern festgelegt sind, abhängig von der Art der Genehmigung und der elektrischen Leistung der Anlage. Dies sorgt für eine gerechte Verteilung der finanziellen Lasten unter den Vorausleistungspflichtigen.",
+        "ground_truth_chunk_contexts": [
+            " nicht mehr vorliegt, aber auf Grund der Ausnutzung der erteilten Genehmigung radioaktive Abfälle, die an ein Endlager abgeliefert werden müssen, angefallen sind. Wenn auf Grund einer genehmigten Tätigkeit nach Satz 1 radioaktive Abfälle angefallen sind und sowohl nach Satz 2 ein ehemaliger Genehmigungsinhaber als auch nach Satz 1 ein derzeitiger Genehmigungsinhaber vorausleistungspflichtig sind, haften diese gesamtschuldnerisch. Soweit die Finanzierungspflicht für Anlagen zur Endlagerung radioaktiver Abfälle nach § 1 des Entsorgungsübergangsgesetzes auf den Fonds nach § 1 Absatz 1 des Entsorgungsfondsgesetzes übergegangen ist, ist der Fonds anstelle des Genehmigungsinhabers vorausleistungspflichtig.(2) Genehmigungen nach § 12 Absatz 1 Nummer 3 des Strahlenschutzgesetzes werden nicht berücksichtigt, wenn der Umgang mit sonstigen radioaktiven Stoffen im Zusammenhang mit einer Tätigkeit erfolgt, für die nach dem Atomgesetz eine Genehmigung nach Absatz 1 erteilt worden ist.(3) Von Landessammelstellen werden keine Vorausleistungen erhoben.(4",
+            ") Von der Erhebung von Vorausleistungen kann abgesehen werden, wenn sich auf Grund der genehmigungsbedürftigen Tätigkeit oder des Betriebs der Anlage nur kleine Mengen an radioaktiven Abfällen mit geringer spezifischer Aktivität ergeben. \n\n§ 3 Art und Umfang des Aufwandes \nDie Vorausleistungen können erhoben werden, wenn notwendiger Aufwand entstanden ist für 1.die anlagenbezogene Forschung und Entwicklung,2.den Erwerb von Grundstücken und Rechten,3.die Planung,4.die Erkundung,5.die Unterhaltung von Grundstücken und Einrichtungen,6.die Errichtung, die Erung und die Erneuerung. \n\n§ 4 Ermittlung des Aufwandes, Erhebungsverfahren \n(1) Der notwendige Aufwand ist einzeln für jede Anlage nach den tatsächlich entstandenen Kosten zu ermitteln und abzurechnen.(2) Vor Beginn eines jeden Kalenderjahres (Bemessungszeitraum) ist vom Bundesamt für die Sicherheit der nuklearen Entsorgung und dem Dritten nach § 9a Absatz 3 Satz 2 z Halbsatz des Atomgesetzes eine Kostenkalkulation der Maßnahmen zu erstellen, die für dieses Kalenderjahr vorgesehen sind; die vorgesehenen Maßnahmen und die",
+            " Kostenkalkulation sollen den Vorausleistungspflichtigen vor Beginn des Kalenderjahres bekannt gegeben werden. Der gesamte notwendige Aufwand wird im darauf folgenden Kalenderjahr ermittelt.(2a) Für den nach Absatz 2 Satz 3 ermittelten gesamten notwendigen Aufwand ist eine Abschlussprüfung durch einen Wirtschaftsprüfer oder eine Wirtschaftsprüfergesellschaft vorzunehmen. Der ermittelte gesamte notwendige Aufwand bedarf zudem der Genehmigung durch das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit.(3) Vorausleistungen werden erhoben 1.zu Beginn des vierten Quartals des Kalenderjahres in Höhe des nach Absatz 2 Satz 1 oder 2 für das laufende Jahr kalkulierten Aufwandes (Abschlag),2.nach Ermittlung des gesamten notwendigen Aufwandes des abgelaufenen Kalenderjahres nach Absatz 2 Satz 3 in voller Höhe.Bei der Erhebung nach Satz 1 Nr. 2 ist die Zahlung nach Satz 1 Nr. 1 anzurechnen, eine zu viel entrichtete Zahlung wird dem Vorausleistungspflichtigen unverzinst erstattet. \n\n§ 5 Vorausleistungsbescheid \n(1) Die Vorausleistungen werden durch Bescheid erhoben. Gegen Verwaltungsakte nach",
+            " dieser Vorschrift findet ein Vorverfahren statt. Über den Widerspruch entscheidet das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit.(2) In der Begründung des Vorausleistungsbescheides ist auszuführen, welcher notwendige Aufwand im Falle des § 4 Abs. 3 Satz 1 Nr. 1 nach der Kostenkalkulation entstehen wird oder im Falle des § 4 Abs. 3 Satz 1 Nr. 2 im Bemessungszeitraum insgesamt entstanden ist. Der Aufwand ist auf die vorgesehenen oder durchgeführten Maßnahmen aufzuschlüsseln. Es ist anzugeben, wie sich nach § 6 der Anteil des Vorausleistungspflichtigen errechnet.(3) (weggefallen) \n\n§ 6 Verteilung des Aufwandes \n(1) Der notwendige Aufwand wird wie folgt verteilt: 1.für ein Endlager für radioaktive Abfälle mit vernachlässigbarer Wärmeentwicklunga)zu 64,4 Prozent auf diejenigen Vorausleistungspflichtigen, denen eine Genehmigung nach § 7 Abs. 1 oder Abs. 3 des Atomgesetzes für eine Anlage zur Spaltung von Kernbrennstoffen mit einer elektrischen Leistung von mehr als 200 Megaw",
+            "att erteilt worden ist,b)zu 6 Prozent auf diejenigen Vorausleistungspflichtigen, denen eine Genehmigung nach § 7 Abs. 1 oder Abs. 3 des Atomgesetzes für eine Anlage zur Aufarbeitung bestrahlter Brennelemente mit einer Leistung bis zu 50 Jahrestonnen erteilt worden ist,c)zu 29,6 Prozent auf diejenigen Vorausleistungspflichtigen, denen sonst eine Genehmigung nach § 7 Abs. 1 oder Abs. 3 des Atomgesetzes oder eine Genehmigung nach § 6 oder § 9 des Atomgesetzes oder nach § 12 Absatz 1 Nummer 3 des Strahlenschutzgesetzes erteilt worden ist,2.für ein Endlager für alle Arten radioaktiver Abfällea)zu 96,5 Prozent auf diejenigen Vorausleistungspflichtigen, denen eine Genehmigung nach § 7 Abs. 1 oder Abs. 3 des Atomgesetzes für eine Anlage zur Spaltung von Kernbrennstoffen mit einer elektrischen Leistung von mehr als 200 Megawatt erteilt worden ist,b)zu 0,7 Prozent auf diejenigen Vorausleistungspflichtigen, denen eine Genehmigung nach § 7 Abs"
+        ],
+        "ground_truth_chunk_ids": [
+            "abe7688e-1b3c-4ff5-8333-3681680eaebc",
+            "74fca557-d77d-4d46-adbc-87f0628c09c8",
+            "3b814639-4bb2-4b0e-9e40-b28d711c7d64",
+            "b9cae340-e845-4b7b-bf76-23bfc4d86833",
+            "bfbcb646-6077-43e3-bbf9-1ca95c61d5f9"
+        ],
+        "ground_truth_chunk_indices": [
+            1450,
+            1451,
+            1452,
+            1453,
+            1454
+        ],
+        "synthesizer": "multi-hop-adjacent"
+    },
+    {
+        "query_id": 41,
+        "query": "Welche rechtlichen Anforderungen bestehen für Betreiber von Elektrizitätsversorgungsnetzen hinsichtlich des Abschlusses von Netznutzungsverträgen und der Regelungen zu den Netznutzungsbedingungen gemäß der Stromnetzzugangsverordnung, insbesondere im Hinblick auf die Fristen für die Angebotserstellung und die Bedingungen für die Kündigung von Verträgen?",
+        "ground_truth": "Betreiber von Elektrizitätsversorgungsnetzen sind verpflichtet, innerhalb einer Frist von sieben Arbeitstagen nach Eingang einer Anforderung ein vollständiges und bindendes Angebot für den Zugang zu ihrem Elektrizitätsversorgungsnetz abzugeben (§ 21b Abs. 3 Satz 1). Darüber hinaus haben Netznutzer einen Anspruch auf den Abschluss eines Netznutzungsvertrags, wobei der Betreiber den Netzzugang nicht von dem gleichzeitigen Abschluss eines Netznutzungsvertrags zwischen ihm und dem Letztverbraucher abhängig machen darf (§ 24 Abs. 1). Der Netznutzungsvertrag muss bestimmte Regelungen enthalten, darunter die Voraussetzungen der Netznutzung und die Leistungs- und Lastprofilmessung (§ 24 Abs. 2). Zudem sind Betreiber von Elektrizitätsversorgungsnetzen berechtigt, die von ihnen geschlossenen Verträge aus wichtigem Grund fristlos zu kündigen (§ 21b Abs. 2).",
+        "ground_truth_chunk_contexts": [
+            "StromNZV - Verordnung über den Zugang zu Elektrizitätsversorgungsnetzen\n\n Verordnung über den Zugang zu Elektrizitätsversorgungsnetzen  (Stromnetzzugangsverordnung - StromNZV)\n\nStromNZVAusfertigungsdatum: 25.07.2005 Vollzitat:\"Stromnetzzugangsverordnung vom 25. Juli 2005 (BGBl. I S. 2243), die zuletzt durch Artikel 4 des Gesetzes vom 22. Dezember 2023 (BGBl. 2023 I Nr. 405) geändert worden ist\"Die V tritt gem. Art. 15 Abs. 4 G v. 22.12.2023 I Nr. 405 mit Ablauf des 31.12.2025 außer KraftStand:Zuletzt geändert durch Art. 4 G v. 22.12.2023 I Nr. 405Näheres zur Standangabe finden Sie im Menü unter Hinweise\nFußnote(+++ Textnachweis ab: 29.7.2005 +++) \n\nEingangsformel  \nAuf Grund des § 21b Abs. 3 Satz 1 in Verbindung mit Satz 3,",
+            " eines Elektrizitätsversorgungsnetzes an. Dieser ist verpflichtet, innerhalb einer Frist von sieben Arbeitstagen nach Eingang der Anforderung ein vollständiges und bindendes Angebot abzugeben.(2) Die Betreiber von Elektrizitätsversorgungsnetzen sind berechtigt, die von ihnen geschlossenen Verträge aus wichtigem Grund fristlos zu kündigen. Sie können in begründeten Fällen vom Netznutzer eine Sicherheitsleistung verlangen. \n\n§ 24 Netznutzungsvertrag \n(1) Netznutzer haben einen Anspruch auf Abschluss eines Netznutzungsvertrages. Wird der Netznutzungsvertrag von einem Lieferanten abgeschlossen, so darf der Betreiber von Elektrizitätsversorgungsnetzen den Netzzugang nicht von dem gleichzeitigen Abschluss eines Netznutzungsvertrages zwischen ihm und dem Letztverbraucher abhängig machen.(2) Der Vertrag muss unter Beachtung der Vorschriften des Energiewirtschaftsgesetzes und dieser Verordnung mindestens Regelungen zu folgenden Gegenständen enthalten: 1.Vertragsgegenstand;2.Voraussetzungen der Netznutzung;3.Leistungsmessung, Zählerstandsgangmessung und Lastprofilverfahren;4.Zuordnung von Einspeise- oder Entnahmestellen zu",
+            "ungsbehörde nach § 27 Abs. 1 Nr. 16 erlassenen Regelungen dem Betreiber von Übertragungsnetzen mitgeteilt werden.(3) Nachträgliche Fahrplanänderungen regelzoneninterner Fahrpläne können bis 16 Uhr des auf den Erfüllungstag folgenden Werktags erfolgen. Der Betreiber von Übertragungsnetzen veröffentlicht hierfür auf seiner Internetseite einen Kalender, dem die Werktage zu entnehmen sind.(4) Das durch ungeplante Kraftwerksausfälle entstehende Ungleichgewicht zwischen Einspeisungen und Entnahmen ist vom Betreiber von Übertragungsnetzen für vier Viertelstunden einschließlich der Viertelstunde, in der der Ausfall aufgetreten ist, auszugleichen. Für die Zeit nach Ablauf dieser vier Viertelstunden ist der Bilanzkreisverantwortliche zum Ausgleich der ausgefallenen Leistung verpflichtet. Hierzu kann er abweichend von Absatz 2 Satz 1 seine Fahrpläne mit einer Vorlaufzeit von 15 Minuten zum Beginn einer jeden Viertelstunde ändern. Der Betreiber von Übertragungsnetzen kann nach der Fahrplanänderung vom Bilanzkreisverantwortlichen einen Nachweis darüber verlangen, dass ein ungeplanter Kraftwerks",
+            "ausfall vorliegt.Abschnitt 2Ausgleichsleistungen\n\n§ 6 Grundsätze der Beschaffung von Regelenergie \n(1) Die Betreiber von Übertragungsnetzen sind verpflichtet, die jeweilige Regelenergieart im Rahmen einer gemeinsamen regelzonenübergreifenden anonymisierten Ausschreibung über eine Internetplattform zu beschaffen.(2) Abweichend von Absatz 1 sind die Betreiber von Übertragungsnetzen zum Zweck der Erfüllung ihrer Verpflichtungen nach § 12 Abs. 1 und 3 sowie § 13 Abs. 1 des Energiewirtschaftsgesetzes berechtigt, einen technisch notwendigen Anteil an Regelenergie aus Kraftwerken in ihrer Regelzone auszuschreiben, soweit dies zur Gewährleistung der Versorgungssicherheit in ihrer jeweiligen Regelzone, insbesondere zur Aufrechterhaltung der Versorgung im Inselbetrieb nach Störungen, erforderlich ist.(3) Die Primärregelung ist als zusätzliche Einspeisung oder Reduzierung des Bezugs oder Reduzierung der Einspeisung (positive oder negative Primärregelung) auszuschreiben. Die Sekundärregelung, Minutenreserve sowie e Regelenergieprodukte sind getrennt nach positivem und negativem Regelenergiebedarf auszuschreiben.(4) Betreiber von Übertrag",
+            "-Gesetz der Betreiber von Übertragungsnetzen aufweist. Von der Verpflichtung nach Satz 1 sind Netzbetreiber ausgenommen, an deren Verteilernetz weniger als 100 000 Kunden unmittelbar oder mittelbar angeschlossen sind.Fußnote(+++ § 11: Zur Anwendung vgl. § 30 Abs. 1 +++) \n\n§ 11a Bilanzkreis für den energetischen und bilanziellen Ausgleich von Systemsicherheitsmaßnahmen \n(1) Betreiber von Elektrizitätsversorgungsnetzen sind verpflichtet, einen gesonderten Bilanzkreis für den energetischen und bilanziellen Ausgleich von Maßnahmen nach § 13 Absatz 1 Satz 2 des Energiewirtschaftsgesetzes und den bilanziellen Ersatz nach § 14 Absatz 1c des Energiewirtschaftsgesetzes zu führen.(2) Betreiber von Elektrizitätsversorgungsnetzen sind verpflichtet, den energetischen und bilanziellen Ausgleich von Maßnahmen nach § 13 Absatz 1 Satz 2 des Energiewirtschaftsgesetzes und den bilanziellen Ersatz nach § 14 Absatz 1c des Energiewirtschaftsgesetzes ausschließlich über den Bilanzkreis nach Absatz 1 durchzuführen und den Bilanzkreis ausschließlich zu"
+        ],
+        "ground_truth_chunk_ids": [
+            "1250a346-d9de-4c91-8a49-fb4be4420cb9",
+            "018c326b-44f9-4e2f-b46c-fb2eed9f3266",
+            "954a4688-32a3-45e6-a04d-c5ab4f2c4d36",
+            "d5cefa5d-2fdf-4d15-b6a4-d60180e03b5e",
+            "6c3e8604-73dd-475c-b769-10bf8b954eac"
+        ],
+        "ground_truth_chunk_indices": [
+            5206,
+            5232,
+            5215,
+            5216,
+            5222
+        ],
+        "synthesizer": "multi-hop-intra-doc"
+    },
+    {
+        "query_id": 42,
+        "query": "Welche Regelungen gelten für die Unterbrechung der Grundversorgung durch den Grundversorger und unter welchen Umständen kann diese als unverhältnismäßig betrachtet werden?",
+        "ground_truth": "Die Unterbrechung der Grundversorgung durch den Grundversorger ist gemäß § 5 der Stromgrundversorgungsverordnung (StromGVV) unter bestimmten Bedingungen zulässig. Der Grundversorger ist berechtigt, die Grundversorgung vier Wochen nach Androhung unterbrechen zu lassen, wenn der Kunde seinen Zahlungsverpflichtungen nicht nachkommt. Dies gilt jedoch nicht, wenn die Folgen der Unterbrechung außer Verhältnis zur Schwere der Zuwiderhandlung stehen oder der Kunde nachweisen kann, dass er hinreichende Aussicht hat, seinen Verpflichtungen nachzukommen. Insbesondere wird die Verhältnismäßigkeit nicht gewahrt, wenn durch die Unterbrechung eine konkrete Gefahr für Leib oder Leben der Betroffenen zu besorgen ist. In einem solchen Fall muss der Grundversorger den Kunden einfach verständlich informieren, wie er die relevanten Voraussetzungen zur Vermeidung der Unterbrechung nachweisen kann und die Kontaktadresse angeben, an die der Kunde die Mitteilung übermitteln muss.",
+        "ground_truth_chunk_contexts": [
+            ". Ausgenommen ist die Bedarfsdeckung durch Eigenanlagen der Kraft-Wärme-Kopplung bis 50 Kilowatt elektrischer Leistung und aus Erneuerbaren Energien; ferner durch Eigenanlagen, die ausschließlich der Sicherstellung des Elektrizitätsbedarfs bei Aussetzen der Grundversorgung dienen (Notstromaggregate). Notstromaggregate dürfen außerhalb ihrer eigentlichen Bestimmungen nicht mehr als 15 Stunden monatlich zur Erprobung betrieben werden. \n\n§ 5 Art der Versorgung; Änderungen der Allgemeinen Preise und ergänzenden Bedingungen \n(1) Welche Stromart (Drehstrom oder Wechselstrom) und Spannungsart für das Vertragsverhältnis maßgebend sein sollen, ergibt sich aus der Stromart und Spannung des jeweiligen Elektrizitätsversorgungsnetzes der allgemeinen Versorgung, an das die Anlage, über die der Kunde Strom entnimmt, angeschlossen ist.(2) Änderungen der Allgemeinen Preise und der ergänzenden Bedingungen werden jeweils zum Monatsbeginn und erst nach öffentlicher Bekanntgabe wirksam, die mindestens sechs Wochen vor der beabsichtigten Änderung erfolgen muss. Der Grundversorger ist verpflichtet, zu den beabsichtigten Änderungen zeitgleich mit der öffentlichen Bekanntgabe eine briefliche Mitteilung an den Kunden zu versenden und die",
+            "ung trotz Mahnung, ist der Grundversorger berechtigt, die Grundversorgung vier Wochen nach Androhung unterbrechen zu lassen und den zuständigen Netzbetreiber nach § 24 Absatz 3 der Niederspannungsanschlussverordnung mit der Unterbrechung der Grundversorgung zu beauftragen. Dies gilt nicht, wenn die Folgen der Unterbrechung außer Verhältnis zur Schwere der Zuwiderhandlung stehen oder der Kunde darlegt, dass hinreichende Aussicht besteht, dass er seinen Verpflichtungen nachkommt. Im Fall einer Androhung nach Satz 1 hat der Grundversorger den Kunden einfach verständlich zu informieren, wie er dem Grundversorger das Vorliegen von Voraussetzungen nach Satz 5 in Textform mitteilen kann. Der Grundversorger hat dem Kunden die Kontaktadresse anzugeben, an die der Kunde die Mitteilung zu übermitteln hat. Die Verhältnismäßigkeit ist insbesondere dann nicht gewahrt, wenn infolge der Unterbrechung eine konkrete Gefahr für Leib oder Leben der dadurch Betroffenen zu besorgen ist. Der Grundversorger kann mit der Mahnung zugleich die Unterbrechung der Grundversorgung androhen, sofern dies nicht außer Verhältnis zur Schwere der Zuwiderhandlung steht."
+        ],
+        "ground_truth_chunk_ids": [
+            "7a1d74da-0769-4c1d-a3f7-58cd74dd0079",
+            "2b683dd9-81f0-4545-a309-a38e2e0f42fc"
+        ],
+        "ground_truth_chunk_indices": [
+            5085,
+            5100
+        ],
+        "synthesizer": "multi-hop-intra-doc"
+    },
+    {
+        "query_id": 43,
+        "query": "Unter welchen Voraussetzungen hat ein Eigentümer eines technisch nicht anpassbaren Gasgeräts Anspruch auf Kostenerstattung gemäß der Gasgerätekostenerstattungsverordnung, und welche Fristen und Nachweispflichten sind dabei zu beachten?",
+        "ground_truth": "Ein Eigentümer eines technisch nicht anpassbaren Gasgeräts hat Anspruch auf Kostenerstattung gemäß § 1 Absatz 1 der Gasgerätekostenerstattungsverordnung (GasGKErstV), wenn das Gasgerät zum Zweck der Beheizung von Räumen dient und die Installation eines Neugeräts nach Feststellung der Nicht-Anpassbarkeit und vor dem technischen Umstellungstermin erfolgt. Die Höhe des Kostenerstattungsanspruchs variiert je nach Alter des Gasgeräts: 500 Euro für Geräte unter 10 Jahren, 250 Euro für Geräte zwischen 10 und 20 Jahren und 100 Euro für Geräte zwischen 20 und 25 Jahren. Der Eigentümer hat die Nachweispflicht bezüglich des Alters des Gasgeräts, welche in der Regel anhand des Typschilds des Geräts erbracht wird. Zudem ist der Netzbetreiber verpflichtet, den betroffenen Anschlussnehmer unverzüglich schriftlich über die Nicht-Anpassbarkeit des Gasgeräts zu informieren und auf den Kostenerstattungsanspruch hinzuweisen.",
+        "ground_truth_chunk_contexts": [
+            "betreiber einen Kostenerstattungsanspruch nach § 19a Absatz 3 Satz 1 des Energiewirtschaftsgesetzes, so hat er gegen diesen einen zusätzlichen Kostenerstattungsanspruch 1.in Höhe von 500 Euro, wenn das Gasgerät zum Zeitpunkt des technischen Umstellungstermins nicht älter als zehn Jahre ist,2.in Höhe von 250 Euro, wenn das Gasgerät zum Zeitpunkt des technischen Umstellungstermins älter als zehn Jahre, aber nicht älter als 20 Jahre ist, oder3.in Höhe von 100 Euro, wenn das Gasgerät zum Zeitpunkt des technischen Umstellungstermins älter als 20 Jahre, aber nicht älter als 25 Jahre ist.Von dem Kostenerstattungsanspruch nach § 1 Absatz 1 Satz 1 erfasst sind nur Gasgeräte zum primären Zweck der zentralen oder dezentralen Beheizung von Räumen in der häuslichen oder vergleichbaren Nutzung.(2) Unverzüglich nach Feststellung der Nicht-Anpassbarkeit des Gasgeräts hat der Netzbetreiber den betroffenen Anschlussnehmer schriftlich über die Nicht-Anpassbarkeit zu informieren und auf den Kostenerstattungsanspruch nach § 1 Absatz 1 Satz 1",
+            "GasGKErstV - Verordnung zu Kostenerstattungsansprüchen für Gasgeräte\n\n Verordnung zu Kostenerstattungsansprüchen für Gasgeräte  (Gasgerätekostenerstattungsverordnung - GasGKErstV)\n\nGasGKErstVAusfertigungsdatum: 22.06.2017 Vollzitat:\"Gasgerätekostenerstattungsverordnung vom 22. Juni 2017 (BGBl. I S. 1936)\"\nFußnote(+++ Textnachweis ab: 1.1.2017 +++) \n\nEingangsformel  \nAuf Grund des § 19a Absatz 3 Satz 6 des Energiewirtschaftsgesetzes, der durch Artikel 3 Nummer 2 Buchstabe c des Gesetzes vom 14. Dezember 2016 (BGBl. I S. 2874) eingefügt worden ist, verordnet das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz: \n\n§ 1 Kostenerstattungsanspruch \n(1) Hat der Eigentümer eines technisch nicht anpassbaren Gasgeräts zum Zweck der Beheizung von Räumen gegen den Netz",
+            " hinzuweisen. Der Kostenerstattungsanspruch entsteht nur dann, wenn die Installation des Neugeräts nach Feststellung der Nicht-Anpassbarkeit und vor dem technischen Umstellungstermin erfolgt. Im Übrigen ist § 19a Absatz 3 Satz 4, 5 und 8 des Energiewirtschaftsgesetzes hinsichtlich des Kostenerstattungsanspruchs entsprechend anzuwenden.(3) Der Nachweis des Alters des Gasgeräts nach Absatz 1 obliegt dem Eigentümer. Das Alter des Gasgeräts ist in der Regel anhand des Typschilds des Gasgeräts zu bestimmen. \n\n§ 2 Inkrafttreten \nDiese Verordnung tritt mit Wirkung vom 1. Januar 2017 in Kraft."
+        ],
+        "ground_truth_chunk_ids": [
+            "180059e2-497f-47b3-a00b-2abd971b2e55",
+            "bf3cc39a-16d3-4d83-99a0-b289c71a180f",
+            "3ebc31a5-0352-4b77-b07a-eebca67ca4ef"
+        ],
+        "ground_truth_chunk_indices": [
+            3485,
+            3484,
+            3486
+        ],
+        "synthesizer": "multi-hop-intra-doc"
+    },
+    {
+        "query_id": 44,
+        "query": "Welche rechtlichen Regelungen gelten für die Grundstücksbenutzung durch Anschlussnehmer und unter welchen Umständen kann der Netzbetreiber das Anschlussnutzungsverhältnis fristlos kündigen?",
+        "ground_truth": "Gemäß § 12 der Niederspannungsanschlussverordnung (NAV) sind Anschlussnehmer, die Grundstückseigentümer sind, verpflichtet, für Zwecke der örtlichen Versorgung das Anbringen und Verlegen von Leitungen zur Zu- und Fortleitung von Elektrizität über ihre Grundstücke unentgeltlich zuzulassen, sofern diese Grundstücke an das Elektrizitätsversorgungsnetz angeschlossen sind oder wirtschaftlich vorteilhaft genutzt werden können. Diese Verpflichtung besteht jedoch nicht, wenn die Inanspruchnahme der Grundstücke den Eigentümer mehr als notwendig oder in unzumutbarer Weise belasten würde.  Des Weiteren regelt § 27 der NAV, dass der Netzbetreiber berechtigt ist, das Netzanschlussverhältnis fristlos zu kündigen, wenn die Voraussetzungen nach § 24 Abs. 1 vorliegen. In diesem Paragraphen werden die Bedingungen für die Unterbrechung des Anschlusses und der Anschlussnutzung beschrieben, die als Grundlage für eine fristlose Kündigung dienen können.",
+        "ground_truth_chunk_contexts": [
+            "Betrieb von elektrischen Anlagen, Verbrauchsgeräten und Ladeeinrichtungen, Eigenanlagen§ 20Technische Anschlussbedingungen§ 21Zutrittsrecht§ 22Mess- und Steuereinrichtungen  Abschnitt 2 Fälligkeit, Folge von Zuwiderhandlungen, Beendigung der Rechtsverhältnisse§ 23Zahlung, Verzug§ 24Unterbrechung des Anschlusses und der Anschlussnutzung§ 25Kündigung des Netzanschlussverhältnisses§ 26Beendigung des Anschlussnutzungsverhältnisses§ 27Fristlose Kündigung oder Beendigung Teil 5Schlussbestimmungen§ 28Gerichtsstand§ 29ÜbergangsregelungTeil 1Allgemeine Vorschriften\n\n§ 1 Anwendungsbereich, Begriffsbestimmungen \n(1) Diese Verordnung regelt die Allgemeinen Bedingungen, zu denen Netzbetreiber nach § 18 Abs. 1 des Energiewirtschaftsgesetzes jedermann an ihr Niederspannungsnetz anzuschließen und den Anschluss zur Entnahme von Elektrizität zur Verfügung zu stellen haben. Diese sind Bestandteil der Rechtsverhältnisse über den Netzanschluss an das Elektrizitätsvers",
+            "1 dieser V am 8.11.2006 in Kraft getreten. \n\nInhaltsübersicht  \nTeil 1Allgemeine Vorschriften§ 1Anwendungsbereich, Begriffsbestimmungen§ 2Netzanschlussverhältnis§ 3Anschlussnutzungsverhältnis§ 4Inhalt des Vertrages und der Bestätigung des Netzbetreibers Teil 2Netzanschluss§ 5Netzanschluss§ 6Herstellung des Netzanschlusses§ 7Art des Netzanschlusses§ 8Betrieb des Netzanschlusses§ 9Kostenerstattung für die Herstellung oder Änderung des Netzanschlusses§ 10Transformatorenanlage§ 11Baukostenzuschüsse§ 12Grundstücksbenutzung§ 13Elektrische Anlage§ 14Inbetriebsetzung der elektrischen Anlage§ 15Überprüfung der elektrischen Anlage Teil 3Anschlussnutzung§ 16Nutzung des Anschlusses§ 17Unterbrechung der Anschlussnutzung§ 18Haftung bei Störungen der Anschlussnutzung Teil 4Gemeinsame Vorschriften  Abschnitt 1 Anlagenbetrieb und Rechte des Netzbetreibers§ 19",
+            "nehmer aufgegliedert auszuweisen.(6) § 9 Abs. 2 gilt entsprechend. \n\n§ 12 Grundstücksbenutzung \n(1) Anschlussnehmer, die Grundstückseigentümer sind, haben für Zwecke der örtlichen Versorgung (Niederspannungs- und Mittelspannungsnetz) das Anbringen und Verlegen von Leitungen zur Zu- und Fortleitung von Elektrizität über ihre im Gebiet des Elektrizitätsversorgungsnetzes der allgemeinen Versorgung liegenden Grundstücke, ferner das Anbringen von Leitungsträgern und sonstigen Einrichtungen sowie erforderliche Schutzmaßnahmen unentgeltlich zuzulassen. Diese Pflicht betrifft nur Grundstücke, 1.die an das Elektrizitätsversorgungsnetz angeschlossen sind,2.die vom Eigentümer in wirtschaftlichem Zusammenhang mit einem an das Netz angeschlossenen Grundstück genutzt werden oder3.für die die Möglichkeit des Netzanschlusses sonst wirtschaftlich vorteilhaft ist.Sie besteht nicht, wenn die Inanspruchnahme der Grundstücke den Eigentümer mehr als notwendig oder in unzumutbarer Weise belasten würde; insbesondere ist die Inanspruchnahme des Grundstücks zwecks Anschlusses eines anderen Grundstücks an das Elektrizitätsversorgungsnetz grundsätzlich verwehr",
+            "reiber ist nur möglich, soweit eine Pflicht zum Netzanschluss nach § 18 Absatz 1 Satz 2 Nummer 1 des Energiewirtschaftsgesetzes nicht besteht.(2) Tritt an Stelle des bisherigen Netzbetreibers ein anderes Unternehmen in die sich aus dem Netzanschlussverhältnis ergebenden Rechte und Pflichten ein, so bedarf es hierfür nicht der Zustimmung des Anschlussnehmers. Der Wechsel des Netzbetreibers ist öffentlich bekannt zu machen und auf der Internetseite des Netzbetreibers zu veröffentlichen.(3) Die Kündigung bedarf der Textform. \n\n§ 26 Beendigung des Anschlussnutzungsverhältnisses \n(1) Das Anschlussnutzungsverhältnis besteht, bis der Anschlussnutzer die Anschlussnutzung einstellt. Er ist verpflichtet, dies dem Netzbetreiber unverzüglich mitzuteilen.(2) Im Falle einer Kündigung des Netzanschlussvertrages nach § 25 oder § 27 endet das Anschlussnutzungsverhältnis mit der Beendigung des Netzanschlussvertrages. \n\n§ 27 Fristlose Kündigung oder Beendigung \nDer Netzbetreiber ist in den Fällen des § 24 Abs. 1 berechtigt, das Netzanschlussverhältnis fristlos"
+        ],
+        "ground_truth_chunk_ids": [
+            "2c4e22c0-e97d-497f-b076-8832a4303689",
+            "5961b072-537a-4d07-be34-1ca9ec035fed",
+            "5b09a7a7-52a0-4ba5-bb8f-bf182f87fb67",
+            "85cf0ed0-06c0-4a39-9659-e470d44c6387"
+        ],
+        "ground_truth_chunk_indices": [
+            4965,
+            4964,
+            4979,
+            5001
+        ],
+        "synthesizer": "multi-hop-intra-doc"
+    },
+    {
+        "query_id": 45,
+        "query": "Welche Voraussetzungen müssen erfüllt sein, damit Vorausleistungen nach der Endlagervorausleistungsverordnung (EndlagerVIV) erhoben werden können, und wie erfolgt die Anrechnung dieser Vorausleistungen auf die Beiträge, die im Rahmen einer abschließenden Regelung nach § 21b des Atomgesetzes erhoben werden?",
+        "ground_truth": "Vorausleistungen nach der Endlagervorausleistungsverordnung können erhoben werden, wenn notwendiger Aufwand entstanden ist, der insbesondere für die anlagenbezogene Forschung und Entwicklung, den Erwerb von Grundstücken und Rechten, die Planung, die Erkundung, die Unterhaltung von Grundstücken und Einrichtungen sowie die Errichtung, die Erung und die Erneuerung aufgewendet wurde (§ 3). Der notwendige Aufwand ist dabei einzeln für jede Anlage nach den tatsächlich entstandenen Kosten zu ermitteln und abzurechnen (§ 4 Abs. 1). Zudem ist vor Beginn eines jeden Kalenderjahres eine Kostenkalkulation der Maßnahmen zu erstellen, die für dieses Kalenderjahr vorgesehen sind (§ 4 Abs. 2).  Die anfallenden Vorausleistungen werden auf Beiträge und Vorausleistungen angerechnet, die im Rahmen einer abschließenden Regelung nach § 21b des Atomgesetzes erhoben werden. Dabei werden die Vorausleistungen bis zum Bemessungszeitraum 2001 mit 3 Prozent über dem Diskontsatz der Deutschen Bundesbank verzinst (§ 9). Die Anrechnung erfolgt differenziert, abhängig von der Art der Genehmigung, die den Vorausleistungspflichtigen erteilt wurde, und kann in bestimmten Fällen auch zu unterschiedlichen Zinssätzen führen.",
+        "ground_truth_chunk_contexts": [
+            " dem Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs verzinst.(2) Der aufgrund einer Erstattung nach Absatz 1 nicht mehr gedeckte Aufwand einschließlich der Zinsen wird von den Vorausleistungspflichtigen entsprechend § 6 Abs. 1 mit dem nächsten Vorausleistungsbescheid mit erhoben. Dabei wird der Aufwand des jeweiligen Bemessungszeitraums auf die in diesem Zeitraum verbleibenden Vorausleistungspflichtigen verteilt.(3) Im Falle des Absatzes 1 Satz 1 unterbleibt eine Erstattung, wenn durch Vereinbarung zwischen dem Erstattungsberechtigten und einem oder mehreren Vorausleistungspflichtigen die zu erstattenden Vorausleistungen mit Wirkung zum jeweiligen Zahlungszeitpunkt der Vorausleistungen übertragen worden sind; übertragene Vorausleistungen sind dabei wie eigene Vorausleistungen zu behandeln. \n\n§ 9 Anrechnung der Vorausleistungen \nDie nach dieser Verordnung erhobenen Vorausleistungen werden auf Beiträge und Vorausleistungen, die im Rahmen einer abschließenden Regelung nach § 21b des Atomgesetzes erhoben werden, angerechnet. Dabei werden die Vorausleistungen bis zum Bemessungszeitraum 2001 mit 3 Prozent über dem Diskontsatz der Deutschen Bundesbank verzinst. Die Vorausleistungen",
+            "att erteilt worden ist,b)zu 6 Prozent auf diejenigen Vorausleistungspflichtigen, denen eine Genehmigung nach § 7 Abs. 1 oder Abs. 3 des Atomgesetzes für eine Anlage zur Aufarbeitung bestrahlter Brennelemente mit einer Leistung bis zu 50 Jahrestonnen erteilt worden ist,c)zu 29,6 Prozent auf diejenigen Vorausleistungspflichtigen, denen sonst eine Genehmigung nach § 7 Abs. 1 oder Abs. 3 des Atomgesetzes oder eine Genehmigung nach § 6 oder § 9 des Atomgesetzes oder nach § 12 Absatz 1 Nummer 3 des Strahlenschutzgesetzes erteilt worden ist,2.für ein Endlager für alle Arten radioaktiver Abfällea)zu 96,5 Prozent auf diejenigen Vorausleistungspflichtigen, denen eine Genehmigung nach § 7 Abs. 1 oder Abs. 3 des Atomgesetzes für eine Anlage zur Spaltung von Kernbrennstoffen mit einer elektrischen Leistung von mehr als 200 Megawatt erteilt worden ist,b)zu 0,7 Prozent auf diejenigen Vorausleistungspflichtigen, denen eine Genehmigung nach § 7 Abs",
+            ") Von der Erhebung von Vorausleistungen kann abgesehen werden, wenn sich auf Grund der genehmigungsbedürftigen Tätigkeit oder des Betriebs der Anlage nur kleine Mengen an radioaktiven Abfällen mit geringer spezifischer Aktivität ergeben. \n\n§ 3 Art und Umfang des Aufwandes \nDie Vorausleistungen können erhoben werden, wenn notwendiger Aufwand entstanden ist für 1.die anlagenbezogene Forschung und Entwicklung,2.den Erwerb von Grundstücken und Rechten,3.die Planung,4.die Erkundung,5.die Unterhaltung von Grundstücken und Einrichtungen,6.die Errichtung, die Erung und die Erneuerung. \n\n§ 4 Ermittlung des Aufwandes, Erhebungsverfahren \n(1) Der notwendige Aufwand ist einzeln für jede Anlage nach den tatsächlich entstandenen Kosten zu ermitteln und abzurechnen.(2) Vor Beginn eines jeden Kalenderjahres (Bemessungszeitraum) ist vom Bundesamt für die Sicherheit der nuklearen Entsorgung und dem Dritten nach § 9a Absatz 3 Satz 2 z Halbsatz des Atomgesetzes eine Kostenkalkulation der Maßnahmen zu erstellen, die für dieses Kalenderjahr vorgesehen sind; die vorgesehenen Maßnahmen und die",
+            " nicht mehr vorliegt, aber auf Grund der Ausnutzung der erteilten Genehmigung radioaktive Abfälle, die an ein Endlager abgeliefert werden müssen, angefallen sind. Wenn auf Grund einer genehmigten Tätigkeit nach Satz 1 radioaktive Abfälle angefallen sind und sowohl nach Satz 2 ein ehemaliger Genehmigungsinhaber als auch nach Satz 1 ein derzeitiger Genehmigungsinhaber vorausleistungspflichtig sind, haften diese gesamtschuldnerisch. Soweit die Finanzierungspflicht für Anlagen zur Endlagerung radioaktiver Abfälle nach § 1 des Entsorgungsübergangsgesetzes auf den Fonds nach § 1 Absatz 1 des Entsorgungsfondsgesetzes übergegangen ist, ist der Fonds anstelle des Genehmigungsinhabers vorausleistungspflichtig.(2) Genehmigungen nach § 12 Absatz 1 Nummer 3 des Strahlenschutzgesetzes werden nicht berücksichtigt, wenn der Umgang mit sonstigen radioaktiven Stoffen im Zusammenhang mit einer Tätigkeit erfolgt, für die nach dem Atomgesetz eine Genehmigung nach Absatz 1 erteilt worden ist.(3) Von Landessammelstellen werden keine Vorausleistungen erhoben.(4"
+        ],
+        "ground_truth_chunk_ids": [
+            "8b1d2e60-6f93-4782-b237-85f9dff8988d",
+            "bfbcb646-6077-43e3-bbf9-1ca95c61d5f9",
+            "74fca557-d77d-4d46-adbc-87f0628c09c8",
+            "abe7688e-1b3c-4ff5-8333-3681680eaebc"
+        ],
+        "ground_truth_chunk_indices": [
+            1458,
+            1454,
+            1451,
+            1450
+        ],
+        "synthesizer": "multi-hop-intra-doc"
+    },
+    {
+        "query_id": 46,
+        "query": "Welche rechtlichen Vorgaben sind im Zusammenhang mit der Ausstellung und Nutzung von Herkunftsnachweisen sowie Regionalnachweisen gemäß der Erneuerbare-Energien-Verordnung (EEV) zu beachten, und wie werden die spezifischen beeinflussbaren Differenzkosten eines Übertragungsnetzbetreibers ermittelt?",
+        "ground_truth": "Gemäß § 79a des Erneuerbare-Energien-Gesetzes regelt die Erneuerbare-Energien-Verordnung (EEV) die Ausweisung der regionalen Herkunft in der Stromkennzeichnung, einschließlich der textlichen und grafischen Darstellung. Das Umweltbundesamt ist ermächtigt, durch Rechtsverordnung die Gebühren für die Amtshandlungen im Zusammenhang mit der Ausstellung, Anerkennung, Übertragung und Entwertung von Herkunftsnachweisen sowie Regionalnachweisen zu bestimmen. Die Mindestinhalte eines Regionalnachweises sind in § 10 der EEV festgelegt und umfassen unter anderem die einmalige Kennnummer, das Datum der Ausstellung, den Zeitraum der Stromerzeugung und das Postleitzahlengebiet des physikalischen Zählpunkts der Erzeugungsanlage.  Die spezifischen beeinflussbaren Differenzkosten eines Übertragungsnetzbetreibers werden in § 15 der EEV beschrieben. Diese Kosten setzen sich aus einer Komponente für untertägige Spotmarktaktivitäten und einer für die Inanspruchnahme von Ausgleichsenergie zusammen. Die Ermittlung erfolgt durch Multiplikation der beschafften oder veräußerten Mengen mit den Preisunterschieden zwischen dem tatsächlich gezahlten Preis und dem Preis des Vortageshandels. So werden die beeinflussbaren Differenzkosten pro Viertelstunde berechnet, um eine transparente und nachvollziehbare Kostenstruktur im Kontext der Energiewirtschaft zu gewährleisten.",
+        "ground_truth_chunk_contexts": [
+            " Gestaltung der Ausweisung der regionalen Herkunft nach § 79a des Erneuerbare-Energien-Gesetzes in der Stromkennzeichnung zu regeln, insbesondere die textliche und grafische Darstellung.(2) Das Umweltbundesamt wird ermächtigt, durch Rechtsverordnung die für Amtshandlungen des Umweltbundesamtes im Zusammenhang mit der Ausstellung, Anerkennung, Übertragung und Entwertung von Herkunftsnachweisen und der Ausstellung, Übertragung und Entwertung von Regionalnachweisen sowie für die Nutzung des Herkunftsnachweisregisters und des Regionalnachweisregisters gebührenpflichtigen Tatbestände und Gebührensätze sowie die erstattungsfähigen Auslagen nach § 87 des Erneuerbare-Energien-Gesetzes zu bestimmen. \n\n§ 15 Subdelegation an das Bundesamt für Seeschifffahrt und Hydrographie \n(1) Das Bundesamt für Seeschifffahrt und Hydrographie wird ermächtigt, durch Rechtsverordnung nach § 12 Absatz 5 Satz 1 des Windenergie-auf-See-Gesetzes für zentral voruntersuchte Flächen in der ausschließlichen Wirtschaftszone festzulegen 1.das Ergebnis der Eign",
+            " die spezifischen beeinflussbaren Differenzkosten eines Übertragungsnetzbetreibers mit einem Vergleichswert verglichen.(2) Beeinflussbare Differenzkosten bestehen aus einer Komponente, die die Aktivitäten an einem untertägigen Spotmarkt abbildet, und einer Komponente, die die Inanspruchnahme der Ausgleichsenergie abbildet. Die Ermittlung der beeinflussbaren Differenzkosten pro Viertelstunde erfolgt, indem 1.bei untertägiger Beschaffung pro Viertelstunde die beschaffte Menge (KUT) mit der Differenz zwischen dem tatsächlich gezahlten Preis (PUT) und dem Preis des Vortagshandels (PVT) multipliziert wird,2.bei untertägiger Veräußerung die veräußerte oder gelieferte Menge (VKUT) mit der Differenz zwischen dem Preis des Vortageshandels (PVT) und dem tatsächlich gezahlten Preis (PUT) multipliziert wird,3.bei Bezug von positiver Ausgleichsenergie pro Viertelstunde die bezogene Menge (KAE) mit der Differenz zwischen dem tatsächlich gezahlten Preis (PAE) und dem Preis des Vortageshandels (P",
+            ",10.elektrischer Wirkungsgrad,11.thermischer Wirkungsgrad und12.Angaben dazu, ob, in welcher Art und in welchem Umfang für die Strommenge eine Förderung im Sinn von Artikel 2 Nummer 18 der Richtlinie 2012/27/EU des Europäischen Parlaments und des Rates vom 25. Oktober 2012 zur Energieeffizienz, zur Änderung der Richtlinien 2009/125/EG und 2010/30/EU und zur Aufhebung der Richtlinien 2004/8/EG und 2006/32/EG (ABl. L 315 vom 14.11.2012, S. 1) gezahlt oder erbracht wurde. \n\n§ 10 Mindestinhalt von Regionalnachweisen \nEin Regionalnachweis muss mindestens die folgenden Angaben enthalten: 1.eine einmalige Kennnummer,2.das Datum der Ausstellung,3.den Beginn und das Ende der Erzeugung des Stroms, für den der Regionalnachweis ausgestellt wird,4.das Postleitzahlengebiet, in dem sich der physikalische Zählpunkt der Anlage befindet, in der der Strom erzeugt wurde,5.Angaben dazu, ob und in welcher Art"
+        ],
+        "ground_truth_chunk_ids": [
+            "a6f906a0-2f59-40d6-a06d-f8938ad9e4f1",
+            "bd08efb9-79d7-4dd7-9865-c63c98539e45",
+            "979484ae-77b7-49b8-8830-a721a7652079"
+        ],
+        "ground_truth_chunk_indices": [
+            3391,
+            3369,
+            3381
+        ],
+        "synthesizer": "multi-hop-intra-doc"
+    },
+    {
+        "query_id": 47,
+        "query": "Welche Anforderungen müssen bei der energetischen Bewertung eines bestehenden Gebäudes gemäß § 50 des Gebäudeenergiegesetzes berücksichtigt werden, insbesondere in Bezug auf den Wärmedurchgangskoeffizienten und die Nutzung von Biomethan, und wie wird die Einhaltung dieser Anforderungen nachgewiesen?",
+        "ground_truth": "Gemäß § 50 des Gebäudeenergiegesetzes (GEG) müssen bei der energetischen Bewertung eines bestehenden Gebäudes die relevanten Werte für den Wärmedurchgangskoeffizienten und den Jahres-Primärenergiebedarf ermittelt werden. Der Wärmedurchgangskoeffizient muss dabei den Höchstwerten der mittleren Wärmedurchgangskoeffizienten entsprechen, die in Anlage 3 des GEG festgelegt sind. Für die Nutzung von gasförmiger Biomasse, die in das Erdgasnetz eingespeist wurde (Biomethan), gelten spezifische Werte: So kann der Wert 0,7 verwendet werden, wenn Biomethan in einem Brennwertkessel genutzt wird, oder der Wert 0,5, wenn es in einer hocheffizienten KWK-Anlage verwendet wird. Die Voraussetzungen für die Aufbereitung und Einspeisung des Biomethans sind in den technischen Regeln des Erneuerbare-Energien-Gesetzes (EEG) festgelegt und müssen in der Unternehmererklärung angegeben werden. Die Erfüllung der Anforderungen wird durch eine Abrechnung bestätigt, die dem Belieferten übergeben werden muss. Diese Bestätigungen müssen in den ersten 15 Jahren nach Inbetriebnahme der Heizungsanlage aufbewahrt werden, um die Einhaltung der gesetzlichen Vorgaben nachzuweisen.",
+        "ground_truth_chunk_contexts": [
+            " insgesamt a)den Jahres-Primärenergiebedarf für Heizung, Warmwasserbereitung, Lüftung, Kühlung und eingebaute Beleuchtung den auf die Nettogrundfläche bezogenen Wert des Jahres-Primärenergiebedarfs eines Referenzgebäudes, das die gleiche Geometrie, Nettogrundfläche, Ausrichtung und Nutzung, einschließlich der Anordnung der Nutzungseinheiten, wie das geänderte Gebäude aufweist und der technischen Referenzausführung der Anlage 2 entspricht, um nicht mehr als 40 Prozent überschreitet undb)das auf eine Nachkommastelle gerundete 1,25fache der Höchstwerte der mittleren Wärmedurchgangskoeffizienten der wärmeübertragenden Umfassungsfläche gemäß der Anlage 3 um nicht mehr als 40 Prozent überschreitet.§ 18 Absatz 1 Satz 2 ist entsprechend anzuwenden.(2) Der Höchstwert nach Absatz 1 Satz 1 Nummer 1 Buchstabe b beträgt 1.bei einem freistehenden Wohngebäude mit einer Gebäudenutzfläche von bis zu 350 Quadratmetern 0,40 Watt pro Quadratmeter und Kelvin,2.bei einem freistehenden Wohngebäude",
+            ".für gasförmige Biomasse, die aufbereitet und in das Erdgasnetz eingespeist worden ist (Biomethan) und in zu errichtenden Gebäuden eingesetzt wird, kann abweichend von Anlage 4 Nummer 6 für den nicht erneuerbaren Anteil a)der Wert 0,7 verwendet werden, wenn die Nutzung des Biomethans in einem Brennwertkessel erfolgt, oderb)der Wert 0,5 verwendet werden, wenn die Nutzung des Biomethans in einer hocheffizienten KWK-Anlage im Sinne des § 2 Nummer 8a des Kraft-Wärme-Kopplungsgesetzes vom 21. Dezember 2015 (BGBl. I S. 2498), das zuletzt durch Artikel 266 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, erfolgt, und wennc)bei der Aufbereitung und Einspeisung des Biomethans die Voraussetzungen nach Anlage 1 Nummer 1 Buchstabe a bis c des Erneuerbare-Energien-Gesetzes vom 25. Oktober 2008 (BGBl. I S. 2074) in der",
+            " anerkannten technischen Regeln berechnet werden oder aus Herstellerangaben auf der Grundlage solcher Regeln bestimmt werden; alternativ dürfen Angaben aus Bekanntmachungen nach § 50 Absatz 4 verwendet werden. Die jeweilige Grundlage nach Satz 2 ist ebenfalls in der Unternehmererklärung anzugeben.(4) Wer ein Gebäude geschäftsmäßig mit fester, gasförmiger oder flüssiger Biomasse, grünem oder blauem Wasserstoff oder den daraus hergestellten Derivaten zum Zweck der Erfüllung von Anforderungen nach diesem Gesetz beliefert, muss dem Belieferten mit der Abrechnung bestätigen, dass die jeweiligen Anforderungen nach § 71f Absatz 2 bis 4 und § 71g Nummer 2 und 3 erfüllt sind.(5) Mit den Bestätigungen nach Absatz 4 wird die Erfüllung der Pflichten aus den Vorschriften nach § 71f Absatz 2 bis 4 und § 71g Nummer 2 und 3 nachgewiesen. Im Falle der Nutzung von flüssiger oder gasförmiger Biomasse oder grünem oder blauem Wasserstoff einschließlich daraus hergestellter Derivate sind die Abrechnungen und Bestätigungen in den ersten 15 Jahren nach Inbetriebnahme der Heizungsanlage",
+            " ein zu errichtendes Nichtwohngebäude§ 33Andere Berechnungsverfahren\n\n          Abschnitt 4\n\n          (weggefallen)\n\n          § 34(weggefallen)§ 35(weggefallen)§ 36(weggefallen)§ 37(weggefallen)§ 38(weggefallen)§ 39(weggefallen)§ 40(weggefallen)§ 41(weggefallen)§ 42(weggefallen)§ 43(weggefallen)§ 44(weggefallen)§ 45(weggefallen)\n\n          Teil 3\n\n          Anforderungen an bestehende Gebäude\n\n          Abschnitt 1\n\n          (weggefallen)\n\n          § 46Aufrechterhaltung der energetischen Qualität; entgegenstehende Rechtsvorschriften§ 47Nachrüstung eines bestehenden Gebäudes§ 48Anforderungen an ein bestehendes Gebäude bei Änderung§ 49Berechnung des Wärmedurchgangskoeffizienten§ 50Energetische Bewertung eines bestehenden Gebäudes§ 51Anforderungen an ein bestehendes Gebäude bei Erung und Ausbau\n\n          Abschnitt 2\n\n          (weggefallen)\n\n          § 52(weggefallen)§ 53(wegge"
+        ],
+        "ground_truth_chunk_ids": [
+            "0b866e91-f296-4803-87cc-6bb0343f6eab",
+            "5311d646-ca4a-4ae2-b1fd-69a47e4d455a",
+            "81511298-f6e9-479e-9cd2-fb37eeb3a929",
+            "da7a6575-049a-4d43-a7a3-de1129e62a74"
+        ],
+        "ground_truth_chunk_indices": [
+            3795,
+            3761,
+            3904,
+            3714
+        ],
+        "synthesizer": "multi-hop-intra-doc"
+    },
+    {
+        "query_id": 48,
+        "query": "Welche Bedingungen müssen erfüllt sein, damit der Übertragungsnetzbetreiber sich aus der hinterlegten Sicherheit eines Bieters befriedigen kann, und welche Pönalen können erhoben werden, wenn der Bieter seiner Verpflichtung zur Jahresmeldung nicht nachkommt?",
+        "ground_truth": "Der Übertragungsnetzbetreiber darf sich hinsichtlich der Forderungen aus der jeweils für das Gebot hinterlegten Sicherheit befriedigen, wenn der Bieter die Forderung nicht vor Ablauf des 56. Kalendermonats erfüllt. Zudem können Pönalen erhoben werden, wenn der Bieter die Jahresmeldung nicht oder nicht rechtzeitig einreicht. Die Höhe der Pönale berechnet sich aus der Gebotsmenge des bezuschlagten Gebots multipliziert mit 1 Euro für jede nicht oder nicht rechtzeitig erfolgte Jahresmeldung. Für andere Verstöße, wie das nicht rechtzeitige Inbetriebnehmen der elektrischen KWK-Leistung, können ebenfalls Pönalen in Höhe von 70 Euro pro Kilowatt elektrischer KWK-Leistung erhoben werden.",
+        "ground_truth_chunk_contexts": [
+            "iziert mit 50 Euro pro Kilowatt oder4.abzüglich der vor Ablauf des 54. auf die Bekanntgabe des Zuschlags nach § 15 Absatz 2 folgenden Monats in Dauerbetrieb genommenen elektrischen KWK-Leistung multipliziert mit 66 Euro pro Kilowatt.Die Höhe der Pönale nach Absatz 1 Nummer 3 berechnet sich aus der Gebotsmenge des bezuschlagten Gebots multipliziert mit 1 Euro für jede nicht oder nicht rechtzeitig erfolgte Jahresmeldung. Die Höhe der Pönale nach Absatz 1 Nummer 4 berechnet sich aus der Gebotsmenge des bezuschlagten Gebots multipliziert mit 70 Euro pro Kilowatt elektrischer KWK-Leistung.(3) Die Forderung nach Absatz 1 muss durch Überweisung eines entsprechenden Geldbetrages auf ein Geldkonto des Übertragungsnetzbetreibers erfüllt werden. Dabei ist die Zuschlagsnummer des Gebots zu übermitteln, für das die Pönale geleistet wird.(4) Der Übertragungsnetzbetreiber darf sich hinsichtlich der Forderungen nach Absatz 1 aus der jeweils für das Gebot hinterlegten Sicherheit befriedigen, wenn der Bieter die Forderung nicht vor Ablauf des 56. Kalendermonats",
+            ".die Erhebung von Gebühren,22.den gegenseitigen Informationsaustausch mit dem Kooperationsstaat und die Mitwirkungspflichten von Netz- und Anlagenbetreibern,23.die Benennung einer Stelle im Kooperationsstaat, die die Anforderungen nach § 8a des Kraft-Wärme-Kopplungsgesetzes oder die nach Nummer 5 in der völkerrechtlichen Vereinbarung festgelegten abweichenden Anforderungen, die Angaben nach § 20 sowie die jährlichen Abrechnungsdaten prüfen und geeignete Nachweise verlangen muss, und24.bei gemeinsamen grenzüberschreitenden Ausschreibungen die ausschreibende Stelle und das Verfahren zur Zuordnung der bezuschlagten Gebote nach § 14 Absatz 1 Satz 1.(4) Das Bundesministerium für Wirtschaft und Klimaschutz kann in völkerrechtlichen Vereinbarungen mit anderen Mitgliedstaaten der Europäischen Union die Durchführung von geöffneten ausländischen Ausschreibungen für KWK-Anlagen im Bundesgebiet regeln. Eine völkerrechtliche Vereinbarung nach Satz 1 darf eine Förderung nur zulassen, wenn 1.der Strom aus der KWK-Anlage direkt vermarktet wird,2.sich der Zahlungsanspruch für Zeiträume, in denen der"
+        ],
+        "ground_truth_chunk_ids": [
+            "a4e9704d-fa9d-4222-9467-9e28cb6988e7",
+            "6e32b2c8-c2ae-436d-ae15-1817632231a0"
+        ],
+        "ground_truth_chunk_indices": [
+            4645,
+            4659
+        ],
+        "synthesizer": "multi-hop-intra-doc"
+    },
+    {
+        "query_id": 49,
+        "query": "Wie wird die Behandlung von Baukostenzuschüssen und die Ermittlung der Netzkosten in Bezug auf Verlustenergie im Rahmen der Stromnetzentgeltverordnung (StromNEV) geregelt, insbesondere im Hinblick auf die Auflösung der Zuschüsse und die Anerkennung der Kosten für Verlustenergie?",
+        "ground_truth": "Die Stromnetzentgeltverordnung (StromNEV) regelt in § 10 die Behandlung von Netzverlusten und legt fest, dass die Kosten der Beschaffung von Energie zum Ausgleich physikalisch bedingter Netzverluste (Verlustenergie) bei der Ermittlung der Netzkosten in Ansatz gebracht werden können. Diese Kostenposition ergibt sich aus den tatsächlichen Kosten der Beschaffung der entsprechenden Verlustenergie im abgelaufenen Kalenderjahr. Darüber hinaus sind Baukostenzuschüsse, die von stromverbrauchenden Anschlussnehmern entrichtet werden, über eine Dauer von 20 Jahren linear aufzulösen und jährlich netzkostenmindernd anzusetzen. Dies gilt auch für Baukostenzuschüsse, die im Zusammenhang mit der Errichtung eines Anschlusses für die Einspeisung elektrischer Energie entrichtet wurden. Diese Zuschüsse sind anschlussindividuell über die gleiche Dauer aufzulösen. Somit wird sowohl die Behandlung von Baukostenzuschüssen als auch die Kosten für Verlustenergie klar geregelt, um eine transparente und faire Netzkostenstruktur zu schaffen.",
+        "ground_truth_chunk_contexts": [
+            " dem Netzbetrieb zuzurechnen. Die von stromverbrauchenden Anschlussnehmern entrichteten Baukostenzuschüsse sind über eine Dauer von 20 Jahren linear aufzulösen und jährlich netzkostenmindernd anzusetzen.(2) Baukostenzuschüsse, die im Zusammenhang mit der Errichtung eines Anschlusses für die Einspeisung elektrischer Energie entrichtet wurden, sind anschlussindividuell über die Dauer von 20 Jahren linear aufzulösen.(3) Einnahmen aus der Zuweisung der auf den Verbindungsleitungen zwischen nationalen Übertragungsnetzen verfügbaren Kapazitäten sowie die Verwendung dieser Einnahmen sind durch den jeweiligen Übertragungsnetzbetreiber schriftlich zu dokumentieren. \n\n§ 10 Behandlung von Netzverlusten \n(1) Die Kosten der Beschaffung von Energie zum Ausgleich physikalisch bedingter Netzverluste (Verlustenergie) können bei der Ermittlung der Netzkosten in Ansatz gebracht werden. Die Kostenposition ergibt sich aus den tatsächlichen Kosten der Beschaffung der entsprechenden Verlustenergie im abgelaufenen Kalenderjahr.(2) Die Höhe der Durchschnittsverluste je Netz- und Umspannebene des Vorjahres sowie die durchschnittlichen Beschaffungskosten der Verlustenergie",
+            "wendiger Anlagegüter anfallen, können nur in der Höhe als Kosten anerkannt werden, wie sie anfielen, wenn der Betreiber Eigentümer der Anlagen wäre. Der Betreiber des Elektrizitätsversorgungsnetzes hat die erforderlichen Nachweise zu führen.(5a) Erbringen Unternehmen gegenüber einem Betreiber eines Elektrizitätsversorgungsnetzes Dienstleistungen, so sind die diesbezüglichen Kosten oder Kostenbestandteile nach Maßgabe dieses Absatzes bei der Netzkostenermittlung zu berücksichtigen. Gehören das die Dienstleistung erbringende Unternehmen und der Betreiber des Elektrizitätsversorgungsnetzes oder ein Gesellschafter des Betreibers des Elektrizitätsversorgungsnetzes zu einer Gruppe miteinander verbundener Elektrizitätsunternehmen, so darf der Betreiber des Elektrizitätsversorgungsnetzes die aus der Erbringung der Dienstleistung entstehenden Kosten oder Kostenbestandteile maximal in der Höhe ansetzen, wie sie bei dem die Dienstleistung erbringenden Unternehmen unter Anwendung der Grundsätze der Entgeltbestimmung im Sinne dieser Verordnung und gegebenenfalls unter Anwendung des § 6 Absatz 2 der Anreizregulierungsverordnung tatsächlich angefallen sind. Beinhalten die nach Satz 2 für die Erbringung von",
+            " bestimmen. Die Ermittlung der Kosten erfolgt auf der Basis der Daten des letzten abgeschlossenen Geschäftsjahres; gesicherte Erkenntnisse über das Planjahr können dabei berücksichtigt werden. Die Ermittlung der Netzentgelte erfolgt nach Maßgabe des § 21. Für einen Netzbetreiber, für den noch keine kalenderjährliche Erlösobergrenze nach § 4 Absatz 1 der Anreizregulierungsverordnung bestimmt worden ist, erfolgt die Ermittlung der Netzentgelte auf Grundlage der Kosten nach Satz 5. Soweit hinsichtlich der Kostenermittlung keine besonderen Regelungen getroffen werden, sind die Leitsätze für die Preisermittlung auf Grund von Selbstkosten nach der Anlage zur Verordnung PR Nr. 30/53 vom 21. November 1953 (BAnz. Nr. 244 vom 18. Dezember 1953), zuletzt geändert durch Artikel 289 der Verordnung vom 25. November 2003 (BGBl. I S. 2304), heranzuziehen.(2) Mit der Entrichtung des Netzentgelts wird die Nutzung der Netz- oder Umspannebene des jeweiligen Betreibers des Elektrizitätsversorgungsnetzes, an die der Netznutzer angeschlossen ist,",
+            "Ermittlung der bundeseinheitlichen Übertragungsnetzentgelte \n(1) Grundlage der Ermittlung der bundeseinheitlichen Übertragungsnetzentgelte sind jeweils die nach § 32 Absatz 1 Nummer 1 der Anreizregulierungsverordnung festgelegten Erlösobergrenzen, die kostenorientiert für jeden Betreiber von Übertragungsnetzen mit Regelzonenverantwortung getrennt ermittelt werden. Von diesen Erlösobergrenzen werden die Anteile, die für die Entgelte für den Messstellenbetrieb und für singulär genutzte Betriebsmittel nach § 19 Absatz 3 anfallen, in Abzug gebracht.(2) Die Betreiber von Übertragungsnetzen mit Regelzonenverantwortung bilden für die Zwecke der Ermittlung der bundeseinheitlichen Netzentgelte jeweils einen gemeinsamen Kostenträger nach Anlage 3 für die Höchstspannungsebene und für die Umspannebene von Höchst- zu Hochspannung. Ausgangspunkt der Zuordnung auf diese gemeinsamen bundeseinheitlichen Kostenträger ist die Kostenstellenrechnung jedes Betreibers von Übertragungsnetzen mit Regelzonenverantwortung. Bei der Zuordnung bleiben die Anteile nach Absatz "
+        ],
+        "ground_truth_chunk_ids": [
+            "d43680c2-0014-4e38-9b72-a3627047f900",
+            "7818e852-6a26-4098-8e55-d15ef749e5f8",
+            "bfdd85fe-189c-4f1f-a671-306b75d19986",
+            "481a4349-d43f-413f-bb5d-309eb82137d5"
+        ],
+        "ground_truth_chunk_indices": [
+            5146,
+            5124,
+            5117,
+            5152
+        ],
+        "synthesizer": "multi-hop-intra-doc"
+    },
+    {
+        "query_id": 50,
+        "query": "Welche Anforderungen sind an Betreiber europäisch kritischer Anlagen hinsichtlich der Vorlage eines Sicherheitsplans gemäß der ÜNSchutzV gestellt und welche Elemente müssen dabei besonders berücksichtigt werden?",
+        "ground_truth": "Betreiber einer europäisch kritischen Anlage haben gemäß § 12g Absatz 1 Satz 2 des Energiewirtschaftsgesetzes und der ÜNSchutzV innerhalb von Wochen nach der Festlegung durch die Bundesnetzagentur einen Sicherheitsplan vorzulegen. Dieser Sicherheitsplan muss mindestens folgende Angaben enthalten: 1. die Nennung der nach § 12g Absatz 1 des Energiewirtschaftsgesetzes bestimmten europäisch kritischen Anlage; 2. die Ergebnisse einer Risikoanalyse, die sich auf die in § 1 Absatz 2 genannten Gefährdungsszenarien, die Schwachstellen der europäisch kritischen Anlage und die möglichen Auswirkungen bezieht; 3. die Ermittlung, Auswahl und Rangfolge von Gegenmaßnahmen und Verfahren. Dabei ist besonders zwischen a) permanenten Sicherheitsvorkehrungen zu unterscheiden, die unerlässliche Sicherheitsinvestitionen und Vorkehrungen umfassen, die jederzeit anzuwenden sind. Hierunter fallen Informationen über technische Maßnahmen wie die Einführung von Erkennungssystemen, Zugangskontrollen sowie Schutz- und Präventivmaßnahmen, sowie organisatorische Maßnahmen, insbesondere Verfahren für den Alarmfall und die Krisenbewältigung.",
+        "ground_truth_chunk_contexts": [
+            "ÜNSchutzV - Verordnung zum Schutz von Übertragungsnetzen*)\n\n Verordnung zum Schutz von Übertragungsnetzen*)\n\nÜNSchutzVAusfertigungsdatum: 06.01.2012 Vollzitat:\"Verordnung zum Schutz von Übertragungsnetzen vom 6. Januar 2012 (BGBl. I S. 69), die durch Artikel 315 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist\"Stand:Geändert durch Art. 315 V v. 31.8.2015 I 1474Näheres zur Standangabe finden Sie im Menü unter Hinweise\n*) Diese Verordnung dient der Umsetzung der Richtlinie 2008/114/EG des Rates vom 8. Dezember 2008 über die Ermittlung und Ausweisung europäischer kritischer Infrastrukturen und die Bewertung der Notwendigkeit, ihren Schutz zu verbessern (ABl. L 345 vom 23.12.2008, S. 75).Fußnote(+++ Textnachweis ab: 11.1.2012 +++)(+++ Amtlicher Hinweis des Normgebers auf EG-Recht:     Umsetzung der       EGR",
+            " Wochen nach der Festlegung der Bundesnetzagentur nach § 12g Absatz 1 Satz 2 des Energiewirtschaftsgesetzes hat der Betreiber einer europäisch kritischen Anlage der Bundesnetzagentur zum Schutz des Übertragungsnetzes einen Sicherheitsplan vorzulegen, der mindestens folgende Angaben enthält: 1.Nennung der nach § 12g Absatz 1 des Energiewirtschaftsgesetzes bestimmten europäisch kritischen Anlage,2.Ergebnisse einer Risikoanalyse, die sich auf die in § 1 Absatz 2 genannten Gefährdungsszenarien, die Schwachstellen der europäisch kritischen Anlage und die möglichen Auswirkungen bezieht,3.Ermittlung, Auswahl und Rangfolge von Gegenmaßnahmen und Verfahren; dabei ist zu unterscheiden zwischen a)permanenten Sicherheitsvorkehrungen, die unerlässliche Sicherheitsinvestitionen und Vorkehrungen umfassen, die jederzeit anzuwenden sind; hierunter fallen Informationen über die folgenden Maßnahmen allgemeiner Art: aa)Technische Maßnahmen, insbesondere die Einführung von Erkennungssystemen, Zugangskontrollen sowie Schutz- und Präventivmaßnahmen,bb)organisatorische Maßnahmen, insbesondere Verfahren für den Alarmfall und die Krisenbewältigung,cc)Überwachungs"
+        ],
+        "ground_truth_chunk_ids": [
+            "85f13ecb-d764-4eb4-a469-5fda1e73cc0c",
+            "7c8ebf1f-4b13-46e8-95c4-4cb2a67be26a"
+        ],
+        "ground_truth_chunk_indices": [
+            5676,
+            5680
+        ],
+        "synthesizer": "multi-hop-intra-doc"
+    }
+]

@@ -1,0 +1,135 @@
+{
+  "overall": {
+    "Relevance": {
+      "mean": 4.675,
+      "std": 0.53,
+      "min": 2,
+      "max": 5,
+      "percent": 93.5
+    },
+    "Factual Accuracy": {
+      "mean": 4.405,
+      "std": 0.688,
+      "min": 1,
+      "max": 5,
+      "percent": 88.1
+    },
+    "Answer Alignment": {
+      "mean": 3.785,
+      "std": 0.694,
+      "min": 1,
+      "max": 5,
+      "percent": 75.7
+    }
+  },
+  "by_question_context": {
+    "Detailed dependency analysis": {
+      "count": 40,
+      "Relevance": {
+        "mean": 4.375,
+        "std": 0.49,
+        "percent": 87.5
+      },
+      "Factual Accuracy": {
+        "mean": 4.125,
+        "std": 0.516,
+        "percent": 82.5
+      },
+      "Answer Alignment": {
+        "mean": 3.45,
+        "std": 0.677,
+        "percent": 69.0
+      }
+    },
+    "Detailed paragraph analysis": {
+      "count": 50,
+      "Relevance": {
+        "mean": 4.84,
+        "std": 0.37,
+        "percent": 96.8
+      },
+      "Factual Accuracy": {
+        "mean": 4.54,
+        "std": 0.676,
+        "percent": 90.8
+      },
+      "Answer Alignment": {
+        "mean": 4.12,
+        "std": 0.718,
+        "percent": 82.4
+      }
+    },
+    "Document Comparison": {
+      "count": 16,
+      "Relevance": {
+        "mean": 5.0,
+        "std": 0.0,
+        "percent": 100.0
+      },
+      "Factual Accuracy": {
+        "mean": 4.438,
+        "std": 0.512,
+        "percent": 88.75
+      },
+      "Answer Alignment": {
+        "mean": 4.0,
+        "std": 0.0,
+        "percent": 80.0
+      }
+    },
+    "Frequently-Asked-Questions (FAQs)": {
+      "count": 16,
+      "Relevance": {
+        "mean": 4.062,
+        "std": 0.929,
+        "percent": 81.25
+      },
+      "Factual Accuracy": {
+        "mean": 3.562,
+        "std": 1.094,
+        "percent": 71.25
+      },
+      "Answer Alignment": {
+        "mean": 3.0,
+        "std": 0.966,
+        "percent": 60.0
+      }
+    },
+    "High-level dependency analysis ": {
+      "count": 10,
+      "Relevance": {
+        "mean": 4.5,
+        "std": 0.527,
+        "percent": 90.0
+      },
+      "Factual Accuracy": {
+        "mean": 4.0,
+        "std": 0.471,
+        "percent": 80.0
+      },
+      "Answer Alignment": {
+        "mean": 3.4,
+        "std": 0.516,
+        "percent": 68.0
+      }
+    },
+    "High-level summary": {
+      "count": 68,
+      "Relevance": {
+        "mean": 4.824,
+        "std": 0.384,
+        "percent": 96.471
+      },
+      "Factual Accuracy": {
+        "mean": 4.721,
+        "std": 0.452,
+        "percent": 94.412
+      },
+      "Answer Alignment": {
+        "mean": 3.926,
+        "std": 0.434,
+        "percent": 78.529
+      }
+    }
+  }
+}

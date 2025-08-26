@@ -1,0 +1,2 @@
+model,mean_bleu,mean_meteor,mean_rouge1,mean_rouge2,mean_rougeL,mean_bert_precision,mean_bert_recall,mean_bert_f1,mean_answer_correctness
+optimal_retrieval_4_Rerank_Hybrid_TF-IDF_Dense_chroma_chunksize1024_overlap128_c800ccc6_method,0.1588,0.4044,0.4934,0.258,0.3296,0.7678,0.7958,0.7806,0.7037

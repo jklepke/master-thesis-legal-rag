@@ -1,0 +1,452 @@
+[
+  {
+    "query_id": 1,
+    "hyde_doc": {
+      "page_content": "\n\nIm Rahmen des Planfeststellungsverfahrens müssen Alternativen zu einem Vorhaben geprüft werden, wenn es sich um ein genehmigungsbedürftiges Vorhaben handelt, welches Auswirkungen auf die Umwelt oder die Belange der Allgemeinheit hat. Zudem müssen die Alternativen technisch realisierbar sein und wirtschaftlich vertretbar. Diese Voraussetzungen sind in den §§ 3 und 4 des Gesetzes über die Umweltverträglichkeitsprüfung (UVPG) sowie in den Landesgesetzen geregelt.",
+      "metadata": {
+        "original_prompt": "Welche Voraussetzungen müssen erfüllt sein, damit im Rahmen des Planfeststellungsverfahrens Alternativen zu einem Vorhaben geprüft werden müssen?"
+      }
+    }
+  },
+  {
+    "query_id": 2,
+    "hyde_doc": {
+      "page_content": "\n\nGemäß der Biomassestrom-Nachhaltigkeitsverordnung müssen für die Vergütung von Biomasse zur Stromerzeugung bestimmte Anforderungen erfüllt werden. Dazu gehören unter anderem die Einhaltung von Nachhaltigkeitskriterien, die Verwendung von zertifizierter Biomasse und die Dokumentation der Herkunft und Nutzung der eingesetzten Biomasse. Weitere Informationen dazu sind in der Verordnung selbst sowie in den dazugehörigen Leitlinien des Bundesministeriums für Wirtschaft und Energie zu finden.",
+      "metadata": {
+        "original_prompt": "Welche Anforderungen müssen gemäß der Biomassestrom-Nachhaltigkeitsverordnung (BioSt-NachV) für die Vergütung von Biomasse zur Stromerzeugung erfüllt werden?"
+      }
+    }
+  },
+  {
+    "query_id": 3,
+    "hyde_doc": {
+      "page_content": "\n\nGemäß § 12a EnWG müssen Betreiber von Übertragungsnetzen mit Regelzonenverantwortung bei der Erstellung des Szenariorahmens verschiedene Anforderungen beachten. Dazu gehören unter anderem die Berücksichtigung der technischen und wirtschaftlichen Entwicklung sowie die Einbeziehung von Prognosen über die zukünftige Entwicklung des Energiebedarfs und der Energieerzeugung. Zudem müssen die Betreiber die Erfüllung der Ziele der Energiewende und die Sicherstellung der Versorgungssicherheit gewährleisten.",
+      "metadata": {
+        "original_prompt": "Welche Anforderungen müssen Betreiber von Übertragungsnetzen mit Regelzonenverantwortung bei der Erstellung des Szenariorahmens gemäß § 12a EnWG beachten?"
+      }
+    }
+  },
+  {
+    "query_id": 4,
+    "hyde_doc": {
+      "page_content": "\n\nFür die Berücksichtigung von Dienstbarkeitsentschädigungen bei der Bestimmung der Netzkosten müssen diese nachweislich für die Bereitstellung der Infrastruktur entstanden sein und gesetzlich oder vertraglich festgelegt sein. Zudem müssen sie in einem angemessenen Verhältnis zu den tatsächlichen Kosten stehen und dürfen nicht überhöht sein.",
+      "metadata": {
+        "original_prompt": "Welche Voraussetzungen müssen erfüllt sein, damit Dienstbarkeitsentschädigungen bei der Bestimmung der Netzkosten berücksichtigt werden können?"
+      }
+    }
+  },
+  {
+    "query_id": 5,
+    "hyde_doc": {
+      "page_content": "\n\nGemäß dem Kohleverstromungsbeendigungsgesetz sind für die Stilllegung von Braunkohleanlagen bestimmte Fristen festgelegt. Bis spätestens 2038 müssen alle Braunkohleanlagen in Deutschland stillgelegt werden. Es gibt jedoch auch spezifische Fristen für die schrittweise Reduzierung der Stromproduktion aus Braunkohle bis 2030.",
+      "metadata": {
+        "original_prompt": "Welche Fristen sind für die Stilllegung der Braunkohleanlagen gemäß dem Kohleverstromungsbeendigungsgesetz festgelegt?"
+      }
+    }
+  },
+  {
+    "query_id": 6,
+    "hyde_doc": {
+      "page_content": "\n\nDie Bundesnetzagentur erteilt die Genehmigung zur Stilllegung einer Gasspeicheranlage, wenn die betroffene Anlage nicht mehr für den vorgesehenen Zweck genutzt werden kann, die Sicherheit und Gesundheit von Mensch und Umwelt nicht gefährdet sind und die Stilllegung im öffentlichen Interesse liegt. Außerdem müssen alle erforderlichen Maßnahmen zur Stilllegung und Sicherung der Anlage durchgeführt werden.",
+      "metadata": {
+        "original_prompt": "Welche Voraussetzungen müssen erfüllt sein, damit die Bundesnetzagentur die Genehmigung zur Stilllegung einer Gasspeicheranlage erteilt?"
+      }
+    }
+  },
+  {
+    "query_id": 7,
+    "hyde_doc": {
+      "page_content": "\n\nIm Rahmen des Anreizregulierungssystems sind Betreiber von Transportnetzen verpflichtet, die regulatorischen Ansprüche auch bei einer dauerhaften Einstellung ihres Geschäftsbetriebs zu erfüllen. Dies umfasst beispielsweise die Einhaltung von Netzanschluss- und Durchleitungsverträgen sowie die Sicherstellung der Versorgungssicherheit für die angeschlossenen Kunden. Zudem müssen sie Maßnahmen ergreifen, um die Stilllegung des Netzes so reibungslos wie möglich zu gestalten. ",
+      "metadata": {
+        "original_prompt": "Welche Verpflichtungen haben Betreiber von Transportnetzen im Rahmen des Anreizregulierungssystems bezüglich der regulatorischen Ansprüche bei dauerhafter Einstellung ihres Geschäftsbetriebs?"
+      }
+    }
+  },
+  {
+    "query_id": 8,
+    "hyde_doc": {
+      "page_content": "\nUm die Höchstwerte für Ausschreibungen nach § 85a EEG 2023 neu bestimmen zu können, muss die Bundesnetzagentur feststellen, dass die Kosten für die Förderung erneuerbarer Energien unerwartet stark gestiegen sind oder eine hohe Akzeptanz von Bürgerenergiegesellschaften bei den Ausschreibungen besteht. Zudem müssen die Höchstwerte für die Ausschreibungen im Sinne einer effektiven und effizienten Förderung angepasst werden können.",
+      "metadata": {
+        "original_prompt": "Welche Voraussetzungen müssen vorliegen, damit die Bundesnetzagentur die Höchstwerte für Ausschreibungen nach § 85a des Erneuerbare-Energien-Gesetzes (EEG 2023) neu bestimmen kann?"
+      }
+    }
+  },
+  {
+    "query_id": 9,
+    "hyde_doc": {
+      "page_content": "\n\nDamit eine Anlage als begünstigte Anlage im Sinne des § 3 des Energiesteuergesetzes gilt, müssen folgende Voraussetzungen erfüllt sein: Die Anlage muss zur Erzeugung von Energie aus erneuerbaren Quellen oder Abfällen dienen, die Energie muss ausschließlich für eigene betriebliche Zwecke genutzt werden und es muss ein Antrag auf Begünstigung gestellt und genehmigt worden sein. Zudem müssen die Anforderungen an die technische Ausstattung und den Betrieb der Anlage gemäß den geltenden Verordnungen erfüllt sein. ",
+      "metadata": {
+        "original_prompt": "Welche Voraussetzungen müssen erfüllt sein, damit eine Anlage als begünstigte Anlage im Sinne des § 3 des Energiesteuergesetzes gilt?"
+      }
+    }
+  },
+  {
+    "query_id": 10,
+    "hyde_doc": {
+      "page_content": "\n\nGemäß § 67 Abs. 2 des Bundesnaturschutzgesetzes haben Gemeinden die Möglichkeit, bei der zuständigen Naturschutzbehörde Ausnahmen oder Befreiungen von den Verboten des Bundesnaturschutzgesetzes zu beantragen, wenn dies im öffentlichen Interesse liegt und keine Beeinträchtigung des Schutzzwecks des Gesetzes zu erwarten ist. Hierbei müssen die Belange des Natur- und Landschaftsschutzes angemessen berücksichtigt werden. Eine solche Ausnahme oder Befreiung kann beispielsweise im Zusammenhang mit der Aufstellung von Bebauungsplänen beantragt werden, wenn dadurch eine angemessene städtebauliche Entwicklung ermöglicht wird. ",
+      "metadata": {
+        "original_prompt": "Welche Möglichkeiten bestehen für Gemeinden, Ausnahmen oder Befreiungen von den Verboten des Bundesnaturschutzgesetzes im Zusammenhang mit der Aufstellung von Bebauungsplänen zu beantragen?"
+      }
+    }
+  },
+  {
+    "query_id": 11,
+    "hyde_doc": {
+      "page_content": "\nBei der Typprüfung von Einzelraumfeuerungsanlagen für feste Brennstoffe gemäß der 1. BImSchV müssen die Anforderungen an Emissionsgrenzwerte und Mindestwirkungsgrade gemäß der Verordnung beachtet werden. Hierbei sind insbesondere die in der Verordnung festgelegten Grenzwerte für Staub, Kohlenmonoxid und Stickstoffoxide sowie die Mindestwirkungsgrade für verschiedene Brennstoffarten zu berücksichtigen. Die Einhaltung dieser Anforderungen ist entscheidend für die Zulassung und den Betrieb von Einzelraumfeuerungsanlagen.",
+      "metadata": {
+        "original_prompt": "Welche Anforderungen müssen bei der Typprüfung von Einzelraumfeuerungsanlagen für feste Brennstoffe gemäß der 1. BImSchV beachtet werden, insbesondere in Bezug auf Emissionsgrenzwerte und Mindestwirkungsgrade?"
+      }
+    }
+  },
+  {
+    "query_id": 12,
+    "hyde_doc": {
+      "page_content": "\n\nGemäß § 23b EEG 2023 wird der Anspruch auf die Einspeisevergütung für ausgeförderte Anlagen anhand der Differenz zwischen dem am Netzanschlusspunkt gemessenen Wert der Einspeisung und dem am Handelsmarkt erzielten Marktwert berechnet. Dabei werden auch die Kosten für die Vermarktung und den Ausgleich von Prognoseabweichungen berücksichtigt. ",
+      "metadata": {
+        "original_prompt": "Wie wird der Anspruch auf die Einspeisevergütung für ausgeförderte Anlagen gemäß § 23b EEG 2023 bestimmt?"
+      }
+    }
+  },
+  {
+    "query_id": 13,
+    "hyde_doc": {
+      "page_content": "\n\nIn der Elektrizitätssicherungsverordnung (EltSV) werden spezifische Anforderungen an den Brennstoffverbrauch für verschiedene Brennstoffarten wie Kohle, Gas oder Biomasse genannt. Diese Anforderungen umfassen unter anderem die Einhaltung bestimmter Emissionsgrenzwerte sowie die regelmäßige Überprüfung und Optimierung der Brennstoffnutzung, um einen effizienten und umweltfreundlichen Betrieb von Energieanlagen sicherzustellen.",
+      "metadata": {
+        "original_prompt": "Welche spezifischen Anforderungen an den Brennstoffverbrauch werden in der Elektrizitätssicherungsverordnung (EltSV) für die verschiedenen Brennstoffarten genannt?"
+      }
+    }
+  },
+  {
+    "query_id": 14,
+    "hyde_doc": {
+      "page_content": " \n\nDie Zuweisung von Netzanbindungskapazitäten für Pilotwindenergieanlagen auf See erfolgt gemäß § 17 Abs. 2 des Windenergie-auf-See-Gesetzes durch die Bundesnetzagentur. Diese berücksichtigt dabei unter anderem die technischen Anforderungen an die Netzanbindung und die Verfügbarkeit von Kapazitäten im jeweiligen Netzgebiet. Zudem müssen die Betreiber der Anlagen ein eigenes Konzept zur Netzanbindung vorlegen.",
+      "metadata": {
+        "original_prompt": "Welche Regelungen gelten für die Zuweisung von Netzanbindungskapazitäten für Pilotwindenergieanlagen auf See nach dem Windenergie-auf-See-Gesetz?"
+      }
+    }
+  },
+  {
+    "query_id": 15,
+    "hyde_doc": {
+      "page_content": "\n\nFür die Zulassung eines Betriebsplans gemäß § 55 des Bundesberggesetzes müssen verschiedene Voraussetzungen erfüllt sein. Dazu gehören unter anderem die Einhaltung der gesetzlichen Bestimmungen und Vorschriften, die Sicherstellung eines umweltverträglichen Betriebs sowie die Gewährleistung der Sicherheit und Gesundheit der Beschäftigten. Zudem müssen die wirtschaftlichen, technischen und organisatorischen Möglichkeiten des Betriebs berücksichtigt werden.",
+      "metadata": {
+        "original_prompt": "Welche Voraussetzungen müssen für die Zulassung eines Betriebsplans nach § 55 BBergG erfüllt sein?"
+      }
+    }
+  },
+  {
+    "query_id": 16,
+    "hyde_doc": {
+      "page_content": "\n\nDie Netzbetreiber sind gemäß der Kapazitätsreserveverordnung (KapResV) verpflichtet, eine Ausschreibung für die Kapazitätsreserve durchzuführen. Sie müssen dabei sicherstellen, dass ausreichend Kapazität für die Versorgungssicherheit vorhanden ist und die Ausschreibung transparent und diskriminierungsfrei erfolgt. Zudem müssen sie die ausgewählten Anbieter der Kapazitätsreserve vertraglich binden und die Einhaltung der Verpflichtungen überwachen.",
+      "metadata": {
+        "original_prompt": "Welche Aufgaben haben die Netzbetreiber gemäß der Kapazitätsreserveverordnung (KapResV) im Zusammenhang mit der Ausschreibung der Kapazitätsreserve?"
+      }
+    }
+  },
+  {
+    "query_id": 17,
+    "hyde_doc": {
+      "page_content": "\n\nDamit eine Gashochdruckleitung in Betrieb genommen werden kann, müssen verschiedene Voraussetzungen erfüllt sein. Dazu gehören unter anderem die Einhaltung der technischen Normen und Sicherheitsvorschriften, die Genehmigung durch die zuständige Behörde sowie die Erfüllung der gesetzlichen Anforderungen an den Betrieb einer solchen Leitung. Zudem müssen alle beteiligten Unternehmen und Personen über die erforderlichen Qualifikationen und Genehmigungen verfügen.",
+      "metadata": {
+        "original_prompt": "Welche Voraussetzungen müssen erfüllt sein, damit eine Gashochdruckleitung in Betrieb genommen werden kann?"
+      }
+    }
+  },
+  {
+    "query_id": 18,
+    "hyde_doc": {
+      "page_content": "\n\nGemäß § 5 Abs. 2 ARegV wird der Effizienzwert für Netzbetreiber, die im Effizienzvergleich als effizient ausgewiesen werden, auf Grundlage der durchschnittlichen Kosten der effizientesten Unternehmen in vergleichbaren Regionen oder mit vergleichbaren Netzen bestimmt. Dabei werden auch die besonderen Gegebenheiten des einzelnen Netzbetreibers berücksichtigt. Die Ermittlung erfolgt durch die Bundesnetzagentur auf Basis von Daten, die die Netzbetreiber jährlich vorlegen müssen.",
+      "metadata": {
+        "original_prompt": "Wie wird im Rahmen der Effizienzermittlung nach der Anreizregulierungsverordnung (ARegV) der Effizienzwert für Netzbetreiber bestimmt, die im Effizienzvergleich als effizient ausgewiesen werden?"
+      }
+    }
+  },
+  {
+    "query_id": 19,
+    "hyde_doc": {
+      "page_content": "\n\nGemäß den technischen Richtlinien des Bundesamts für Sicherheit in der Informationstechnik (BSI) müssen intelligente Messsysteme in der Lage sein, Strom- und Gasverbrauch zu messen, zu speichern und zu übertragen. Sie müssen zudem über eine sichere Kommunikation und eine eindeutige Identifizierung verfügen, um die Abrechnung und den Zugriff auf Verbrauchsdaten zu gewährleisten. Des Weiteren müssen sie den Datenschutzbestimmungen entsprechen und Manipulationen erkennen können.",
+      "metadata": {
+        "original_prompt": "Welche Anforderungen sind an die Funktionalität von intelligenten Messsystemen gemäß den technischen Richtlinien des BSI zu stellen?"
+      }
+    }
+  },
+  {
+    "query_id": 20,
+    "hyde_doc": {
+      "page_content": "\n\nNach der Genehmigung einer Anlage kann die zuständige Behörde unter bestimmten Bedingungen nachträgliche Anordnungen treffen. Dies ist beispielsweise der Fall, wenn sich neue Erkenntnisse ergeben oder die Anlage nicht den rechtlichen Vorgaben entspricht. Dabei müssen jedoch die Grundsätze der Verhältnismäßigkeit und der Bestimmtheit beachtet werden, um eine angemessene Anpassung der Anlage zu gewährleisten.",
+      "metadata": {
+        "original_prompt": "Unter welchen Bedingungen kann die zuständige Behörde nach der Genehmigung einer Anlage nachträgliche Anordnungen treffen, und welche Voraussetzungen müssen dabei beachtet werden?"
+      }
+    }
+  },
+  {
+    "query_id": 21,
+    "hyde_doc": {
+      "page_content": "\n\nDie Bundesnetzagentur legt in § 111f EnWG fest, dass die Betreiber des Marktstammdatenregisters technische und organisatorische Maßnahmen ergreifen müssen, um die Datensicherheit zu gewährleisten. Dazu gehören unter anderem die Implementierung von Zugangskontrollen, die regelmäßige Überprüfung der Systemsicherheit sowie die Einhaltung von Datenschutzvorschriften. Diese Maßnahmen dienen dem Schutz der sensiblen Marktdaten und sind essenziell für den reibungslosen Ablauf des Registerbetriebs. ",
+      "metadata": {
+        "original_prompt": "Welche Anforderungen stellt die Bundesnetzagentur an die technischen und organisatorischen Maßnahmen zur Sicherstellung der Datensicherheit im Marktstammdatenregister gemäß § 111f des Energiewirtschaftsgesetzes (EnWG)?"
+      }
+    }
+  },
+  {
+    "query_id": 22,
+    "hyde_doc": {
+      "page_content": " \n\nUm nach der Einführung eines Umweltmanagementsystems gemäß § 8 Absatz 3 des Energiedienstleistungsgesetzes (EDL-G) einen Nachweis zu erbringen, müssen Unternehmen insbesondere die Anforderungen der Norm DIN EN ISO 50001 erfüllen. Dazu gehören unter anderem die regelmäßige Überprüfung und Verbesserung des Energiemanagementsystems sowie die Erfüllung gesetzlicher und behördlicher Anforderungen im Bereich Energieeffizienz. Zusätzlich müssen Unternehmen einen jährlichen Energieauditbericht erstellen und diesen dem zuständigen Bundesamt für Wirtschaft und Ausfuhrkontrolle vorlegen.",
+      "metadata": {
+        "original_prompt": "Welche Anforderungen müssen Unternehmen erfüllen, um nach der Einführung eines Umweltmanagementsystems gemäß § 8 Absatz 3 des Energiedienstleistungsgesetzes (EDL-G) einen Nachweis zu erbringen?"
+      }
+    }
+  },
+  {
+    "query_id": 23,
+    "hyde_doc": {
+      "page_content": "\n\nGemäß § 76 des Messstellenbetriebsgesetzes hat die Bundesnetzagentur die Befugnis, bei Verstößen gegen die Bestimmungen des Gesetzes Maßnahmen zu ergreifen. Dazu gehört unter anderem die Anordnung von Zwangsgeldern, die Untersagung des Betriebs von Messstellen sowie die Möglichkeit, den betroffenen Unternehmen die Kosten für notwendige Maßnahmen aufzuerlegen. Die Bundesnetzagentur kann auch Bußgelder verhängen und bei schwerwiegenden Verstößen die Zulassung als Messstellenbetreiber entziehen.",
+      "metadata": {
+        "original_prompt": "Welche Befugnisse hat die Bundesnetzagentur gemäß § 76 des Messstellenbetriebsgesetzes, wenn Unternehmen den Bestimmungen des Gesetzes nicht nachkommen?"
+      }
+    }
+  },
+  {
+    "query_id": 24,
+    "hyde_doc": {
+      "page_content": "\n\nKWK-Anlagen, die vor dem 1. April 2025 den Dauerbetrieb aufgenommen haben oder nach einer Modernisierung wieder aufgenommen wurden, unterliegen weiterhin den Regelungen des Kraft-Wärme-Kopplungsgesetzes (KWKG 2025). Diese Regelungen umfassen unter anderem die Förderung von KWK-Anlagen sowie die Anforderungen an die Effizienz und den Betrieb der Anlagen. Eine Anpassung an neue technische Vorgaben oder Änderungen im Gesetz ist in der Regel nicht erforderlich.",
+      "metadata": {
+        "original_prompt": "Welche Regelungen gelten für KWK-Anlagen, die vor dem 1. April 2025 den Dauerbetrieb aufgenommen haben oder nach einer Modernisierung wieder aufgenommen wurden, gemäß dem Kraft-Wärme-Kopplungsgesetz (KWKG 2025)?"
+      }
+    }
+  },
+  {
+    "query_id": 25,
+    "hyde_doc": {
+      "page_content": "\n\nGemäß § 41 Abs. 2 EnWG haben Grundversorger nach Inkrafttreten der neuen Vorgaben am 29. Juli 2022 sechs Monate Zeit, um ihre Allgemeinen Bedingungen und Preise anzupassen. Dies bedeutet, dass sie spätestens bis zum 29. Januar 2023 die neuen Vorgaben umgesetzt haben müssen. Bei Nichtbeachtung drohen rechtliche Konsequenzen.",
+      "metadata": {
+        "original_prompt": "Welche Fristen gelten für Grundversorger zur Anpassung ihrer Allgemeinen Bedingungen und Preise nach dem Inkrafttreten der neuen Vorgaben am 29. Juli 2022?"
+      }
+    }
+  },
+  {
+    "query_id": 26,
+    "hyde_doc": {
+      "page_content": "\n\nGemäß dem Gebäudeenergiegesetz müssen bei zweiseitig angebauten Gebäuden die Fensterflächen so gestaltet sein, dass ein ausreichender Lichteinfall und eine ausreichende Belüftung gewährleistet sind. Zudem müssen sie den Anforderungen an den Wärmeschutz und die Energieeffizienz entsprechen, um die gesetzlichen Vorgaben zu erfüllen.",
+      "metadata": {
+        "original_prompt": "Welche Anforderungen müssen hinsichtlich der Fensterflächen bei zweiseitig angebauten Gebäuden gemäß dem Gebäudeenergiegesetz (GEG) eingehalten werden?"
+      }
+    }
+  },
+  {
+    "query_id": 27,
+    "hyde_doc": {
+      "page_content": "\n\nDie Unterschreitung der Einspeisung innovativer erneuerbarer Wärme kann Auswirkungen auf den Zuschlagswert eines innovativen KWK-Systems haben, welches zwischen 2017 und 2020 gefördert wurde. Je nach den genauen Bestimmungen der Förderung können möglicherweise Rückzahlungen oder Kürzungen der Fördermittel erfolgen. Es ist daher ratsam, die Vertragsbedingungen und Richtlinien genau zu prüfen und gegebenenfalls mit einem Fachanwalt für Energierecht zu besprechen.",
+      "metadata": {
+        "original_prompt": "Welche Auswirkungen hat die Unterschreitung der Einspeisung innovativer erneuerbarer Wärme auf den Zuschlagswert eines innovativen KWK-Systems, das zwischen 2017 und 2020 gefördert wurde?"
+      }
+    }
+  },
+  {
+    "query_id": 28,
+    "hyde_doc": {
+      "page_content": "\n\nIm Schleswig-Holsteinischen Landesnaturschutzgesetz (LNatSchG) wurden durch das Gesetz vom 27. Mai 2016 Änderungen vorgenommen, die unter anderem eine Erweiterung des Schutzgebietsnetzes und eine stärkere Berücksichtigung von Klimaschutzmaßnahmen vorsehen. Diese Abweichungen können sich auf die Regelungen des Bundesnaturschutzgesetzes (BNatSchG) auswirken, da das LNatSchG in einigen Bereichen strengere Anforderungen stellt und somit Vorrang vor dem BNatSchG haben kann.",
+      "metadata": {
+        "original_prompt": "Welche Abweichungen sind im Schleswig-Holsteinischen Landesnaturschutzgesetz (LNatSchG) gemäß den Änderungen durch das Gesetz vom 27. Mai 2016 vorgesehen, und wie wirken sich diese auf die Regelungen des Bundesnaturschutzgesetzes (BNatSchG) aus?"
+      }
+    }
+  },
+  {
+    "query_id": 29,
+    "hyde_doc": {
+      "page_content": "\n\nGemäß § 4a EnWG kann die Genehmigung für den Netzbetrieb versagt werden, wenn der Antragsteller nicht die erforderliche Zuverlässigkeit, Leistungsfähigkeit oder Fachkunde besitzt oder gegen sonstige Vorschriften des Energiewirtschaftsgesetzes oder der Energienetzzugangsverordnung verstößt. Auch wenn der Netzbetrieb die Versorgungssicherheit gefährdet oder eine diskriminierende Behandlung von Marktteilnehmern zu erwarten ist, kann die Genehmigung versagt werden.",
+      "metadata": {
+        "original_prompt": "Unter welchen Voraussetzungen kann die Genehmigung für den Netzbetrieb gemäß § 4a EnWG versagt werden?"
+      }
+    }
+  },
+  {
+    "query_id": 30,
+    "hyde_doc": {
+      "page_content": "\n\nGemäß § 93 EEG 2023 müssen bei der Herstellung von Grünem Wasserstoff die Anforderungen des Erneuerbare-Energien-Gesetzes (EEG) erfüllt werden, insbesondere die Verwendung von erneuerbaren Energien und die Einhaltung von Nachhaltigkeitskriterien. Zudem muss der Wasserstoff durch ein zertifiziertes Verfahren als \"Grün\" anerkannt werden, um als solcher zu gelten. ",
+      "metadata": {
+        "original_prompt": "Welche Anforderungen sind an die Herstellung von Grünem Wasserstoff gemäß § 93 EEG 2023 zu stellen, um sicherzustellen, dass er als solcher gilt?"
+      }
+    }
+  },
+  {
+    "query_id": 31,
+    "hyde_doc": {
+      "page_content": "\n\nDie Bergbauunternehmen erhalten Finanzmittel aus dem Bundeshaushalt, um die Kosten für dauerhafte Stilllegungen und die Verpflichtungen nach der Beendigung des subventionierten Steinkohlenbergbaus zu decken. Die Auszahlung dieser Mittel erfolgt unter der Bedingung, dass die Unternehmen einen Nachweis über die Erfüllung ihrer Stilllegungs- und Nachsorgepflichten erbringen und die entsprechenden Anträge stellen. Auch müssen die Unternehmen regelmäßig über den Fortschritt der Stilllegung und Nachsorge berichten.",
+      "metadata": {
+        "original_prompt": "Welche finanziellen Mittel werden den Bergbauunternehmen zur Verfügung gestellt, um die Aufwendungen infolge dauerhafter Stilllegungen und die Verpflichtungen nach der Beendigung des subventionierten Steinkohlenbergbaus zu decken, und welche Bedingungen gelten für die Auszahlung dieser Mittel?"
+      }
+    }
+  },
+  {
+    "query_id": 32,
+    "hyde_doc": {
+      "page_content": "\n\nUm eine Freileitung im Außenbereich zu errichten, müssen verschiedene rechtliche Voraussetzungen erfüllt werden. Dazu gehören unter anderem die Einhaltung von Abstandsregelungen zu Wohngebieten und anderen Schutzgebieten sowie die Einholung von Genehmigungen und Zustimmungen von betroffenen Grundstückseigentümern. Im Hinblick auf den Einsatz von Erdkabeln müssen die Vorschriften des Bundesnaturschutzgesetzes und der Bundesbedarfspläne berücksichtigt werden, insbesondere in Bezug auf den Schutz von naturschutzrechtlich sensiblen Gebieten und Trassenführungen.",
+      "metadata": {
+        "original_prompt": "Welche rechtlichen Voraussetzungen müssen erfüllt sein, um eine Freileitung im Außenbereich zu errichten, und welche Alternativen sind im Hinblick auf den Einsatz von Erdkabeln zu berücksichtigen, insbesondere im Kontext der Vorschriften des Bundesnaturschutzgesetzes und der Bundesbedarfspläne?"
+      }
+    }
+  },
+  {
+    "query_id": 33,
+    "hyde_doc": {
+      "page_content": "\n\nGemäß der GasHDrLtgV müssen bei der Errichtung und dem Betrieb von Gashochdruckleitungen strenge Anforderungen erfüllt werden, um die Sicherheit der Umgebung und den Schutz von Menschen und Umwelt zu gewährleisten. Dazu gehören unter anderem die Einhaltung von bestimmten technischen Standards, regelmäßige Prüfungen und die Durchführung von Gefährdungs- und Risikoanalysen. Die zuständige Behörde spielt hierbei eine wichtige Rolle, da sie die Einhaltung dieser Anforderungen überwacht und im Falle von Verstößen Maßnahmen ergreift, um die Sicherheit zu gewährleisten.",
+      "metadata": {
+        "original_prompt": "Welche Anforderungen müssen gemäß der Gashochdruckleitungsverordnung (GasHDrLtgV) sowohl bei der Errichtung als auch beim Betrieb von Gashochdruckleitungen erfüllt werden, um die Sicherheit der Umgebung und den Schutz von Menschen und Umwelt zu gewährleisten, und welche Rolle spielt die zuständige Behörde in diesem Zusammenhang?"
+      }
+    }
+  },
+  {
+    "query_id": 34,
+    "hyde_doc": {
+      "page_content": "\n\nGemäß dem Steinkohlefinanzierungsgesetz stehen den Bergbauunternehmen finanzielle Mittel in Form von staatlichen Beihilfen und Darlehen zur Verfügung. Um diese Mittel zu erhalten, müssen sie bestimmte Anforderungen erfüllen, wie beispielsweise die Sicherstellung einer wirtschaftlichen und nachhaltigen Förderung sowie die Offenlegung ihrer Finanz- und Geschäftsinformationen. Die Verwendung der Mittel muss ebenfalls nachgewiesen werden, um sicherzustellen, dass sie ausschließlich für den Zweck der Förderung von Steinkohle verwendet werden.",
+      "metadata": {
+        "original_prompt": "Welche finanziellen Mittel stehen den Bergbauunternehmen gemäß dem Steinkohlefinanzierungsgesetz zur Verfügung, und welche Anforderungen müssen sie erfüllen, um diese Mittel zu erhalten sowie die Verwendung nachzuweisen?"
+      }
+    }
+  },
+  {
+    "query_id": 35,
+    "hyde_doc": {
+      "page_content": "\n\nÜbertragungsnetzbetreiber müssen gemäß der ÜNSchutzV eine regelmäßige Berichterstattung über alle europäisch kritischen Anlagen durchführen und dafür Sicherheitspläne erstellen. Die Frist für die Vorlage der Berichte und Pläne ist spätestens alle drei Jahre. Bei Änderungen an den Anlagen oder Vorfällen müssen die Berichte und Pläne unverzüglich aktualisiert werden.",
+      "metadata": {
+        "original_prompt": "Welche Schritte müssen Übertragungsnetzbetreiber gemäß der ÜNSchutzV unternehmen, um den Anforderungen an die Berichterstattung und den Sicherheitsplänen für europäisch kritische Anlagen nachzukommen, und welche Fristen sind dabei zu beachten?"
+      }
+    }
+  },
+  {
+    "query_id": 36,
+    "hyde_doc": {
+      "page_content": "\n\nEin Störfallbeauftragter hat gemäß den Bestimmungen des Bundes-Immissionsschutzgesetzes (BImSchG) die Aufgabe, für die Vermeidung von Störfällen und die Einhaltung von Schutzmaßnahmen zu sorgen. Er ist verpflichtet, Störfälle zu analysieren, Maßnahmen zur Verhinderung von Störfällen zu entwickeln und die Wirksamkeit dieser Maßnahmen regelmäßig zu überprüfen. Die Aufgaben und Pflichten des Störfallbeauftragten stehen in einem engen Verhältnis zu den Pflichten des Betreibers, der für die Planung von Betriebsanlagen und die Einführung von Arbeitsverfahren verantwortlich ist und sicherstellen muss, dass die Vorgaben des Störfallrechts eingehalten werden.",
+      "metadata": {
+        "original_prompt": "Welche spezifischen Aufgaben und Pflichten hat ein Störfallbeauftragter gemäß den Bestimmungen des BImSchG, und in welchem Verhältnis stehen diese zu den Pflichten des Betreibers, insbesondere im Hinblick auf die Planung von Betriebsanlagen und die Einführung von Arbeitsverfahren?"
+      }
+    }
+  },
+  {
+    "query_id": 37,
+    "hyde_doc": {
+      "page_content": "\n\nGemäß § 1 Abs. 1 GasSV müssen die zuständigen Stellen befugt sein, Verfügungen zu erlassen, um die Sicherheit und Zuverlässigkeit der Gasversorgung zu gewährleisten. Dies setzt voraus, dass die betroffenen Unternehmen die erforderlichen technischen und organisatorischen Maßnahmen treffen und die gesetzlich vorgeschriebenen Anforderungen erfüllen. Verfügungen können geändert oder neue Verträge abgeschlossen werden, wenn sich die rechtlichen oder technischen Rahmenbedingungen ändern oder die Sicherheit und Zuverlässigkeit der Gasversorgung gefährdet sind. ",
+      "metadata": {
+        "original_prompt": "Welche rechtlichen Voraussetzungen müssen erfüllt sein, damit die zuständigen Stellen gemäß § 1 Abs. 1 der Gassicherungsverordnung (GasSV) Verfügungen erlassen können, und unter welchen Bedingungen dürfen diese Verfügungen geändert oder neue Verträge abgeschlossen werden?"
+      }
+    }
+  },
+  {
+    "query_id": 38,
+    "hyde_doc": {
+      "page_content": "\n\nDamit ein Eigentümer eines technisch nicht anpassbaren Gasgeräts einen Kostenerstattungsanspruch gegen den Netzbetreiber gemäß der Gasgerätekostenerstattungsverordnung (GasGKErstV) geltend machen kann, müssen zwei Voraussetzungen erfüllt sein: Zum einen muss das Gasgerät durch eine gesetzliche Verpflichtung oder eine behördliche Anordnung außer Betrieb genommen werden und zum anderen muss der Netzbetreiber für den Ausfall des Geräts verantwortlich sein. Der Antrag auf Kostenerstattung muss innerhalb einer Frist von sechs Monaten nach dem Schadensfall gestellt werden.",
+      "metadata": {
+        "original_prompt": "Welche Voraussetzungen müssen erfüllt sein, damit ein Eigentümer eines technisch nicht anpassbaren Gasgeräts einen Kostenerstattungsanspruch gegen den Netzbetreiber gemäß der Gasgerätekostenerstattungsverordnung (GasGKErstV) geltend machen kann, und welche Fristen sind dabei zu beachten?"
+      }
+    }
+  },
+  {
+    "query_id": 39,
+    "hyde_doc": {
+      "page_content": "\nFür Übertragungs- und Fernleitungsnetzbetreiber gelten im Rahmen der vierten Regulierungsperiode gemäß § 23 ARegV bestimmte Fristen für die Antragsstellung und Genehmigungserteilung. Änderungsanträge müssen spätestens 18 Monate vor Beginn der neuen Regulierungsperiode gestellt werden, während die Festsetzung von Erlösobergrenzen spätestens 6 Monate vor Beginn der neuen Regulierungsperiode erfolgen muss. Diese Fristen dienen der frühzeitigen Planung und Vorbereitung der Netzbetreiber sowie der Sicherstellung einer effektiven Regulierung.",
+      "metadata": {
+        "original_prompt": "Welche Regelungen gelten für die Antragsfristen und die Genehmigungserteilung für Übertragungs- und Fernleitungsnetzbetreiber im Rahmen der vierten Regulierungsperiode gemäß § 23 der Anreizregulierungsverordnung (ARegV), insbesondere in Bezug auf Änderungsanträge und die Festsetzung von Erlösobergrenzen?"
+      }
+    }
+  },
+  {
+    "query_id": 40,
+    "hyde_doc": {
+      "page_content": " \n\nAnswer: Gemäß der Erneuerbare-Energien-Verordnung sind Übertragungsnetzbetreiber verpflichtet, EEG-Strom zu vermarkten. Dabei müssen sie Prognosen über die zu erwartende Einspeisung erstellen und transparent über die Vermarktung informieren. Zudem sind sie angehalten, den Strom bestmöglich zu vermarkten, um Anreize für die Nutzung erneuerbarer Energien zu schaffen.",
+      "metadata": {
+        "original_prompt": "Wie sind die Regelungen zur Vermarktung von EEG-Strom durch die Übertragungsnetzbetreiber gemäß der Erneuerbare-Energien-Verordnung (EEV) ausgestaltet, insbesondere in Bezug auf die Prognosepflichten, die Transparenzanforderungen und die Anreize zur bestmöglichen Vermarktung?"
+      }
+    }
+  },
+  {
+    "query_id": 41,
+    "hyde_doc": {
+      "page_content": "\n\nGemäß der 13. Bundes-Immissionsschutzverordnung (BImSchV) gelten für Öl- und Gasfeuerungsanlagen, die nach dem 22. März 2010 errichtet wurden, spezifische Anforderungen bezüglich der Emissionen. Die zulässigen Grenzwerte für Stickstoffoxide sind dabei abhängig von der Leistung der Anlage und müssen in der Herstellerbescheinigung angegeben werden. Für bestehende Feuerungsanlagen gibt es Übergangsregelungen, die eine schrittweise Anpassung an die neuen Anforderungen ermöglichen.",
+      "metadata": {
+        "original_prompt": "Welche spezifischen Anforderungen gelten für die Emissionen von Öl- und Gasfeuerungsanlagen, die nach dem 22. März 2010 errichtet wurden, insbesondere hinsichtlich der zulässigen Grenzwerte für Stickstoffoxide und der Notwendigkeit einer Herstellerbescheinigung, und welche Übergangsregelungen sind für bestehende Feuerungsanlagen vorgesehen?"
+      }
+    }
+  },
+  {
+    "query_id": 42,
+    "hyde_doc": {
+      "page_content": "\n\nGemäß der Energieeinsparverordnung (EnEV) sind Gebäudeeigentümer dazu verpflichtet, Verbrauchserfassungsgeräte einzubauen oder nachzurüsten, die eine fernablesbare Ausstattung ermöglichen. Dabei müssen bestimmte Fristen eingehalten werden, je nach Größe und Art des Gebäudes. Diese Fristen sind in der EnEV und in den jeweiligen Landesverordnungen festgelegt und sollten von den Eigentümern sorgfältig beachtet werden, um den gesetzlichen Anforderungen gerecht zu werden. ",
+      "metadata": {
+        "original_prompt": "Welche Anforderungen müssen Gebäudeeigentümer hinsichtlich der Installation und Nachrüstung von Ausstattungen zur Verbrauchserfassung beachten, insbesondere im Hinblick auf fernablesbare Ausstattungen, und welche Fristen sind dabei zu berücksichtigen?"
+      }
+    }
+  },
+  {
+    "query_id": 43,
+    "hyde_doc": {
+      "page_content": " \n\nGemäß der Niederdruckanschlussverordnung (NDAV) ist der Anschlussnehmer verpflichtet, seine Anlage ordnungsgemäß zu errichten und instand zu halten. Hierbei muss er die allgemein anerkannten Regeln der Technik einhalten und dafür sorgen, dass nur qualifizierte Installationsunternehmen mit der Durchführung von Arbeiten beauftragt werden. Die Einhaltung dieser Pflichten wird durch regelmäßige Kontrollen und Prüfungen durch die zuständigen Behörden überwacht.",
+      "metadata": {
+        "original_prompt": "Welche Pflichten hat der Anschlussnehmer bezüglich der Errichtung und Instandhaltung seiner Anlage gemäß der Niederdruckanschlussverordnung (NDAV), und wie wird die Verantwortung in Bezug auf die Einhaltung der allgemein anerkannten Regeln der Technik sowie die Qualifikation der Installationsunternehmen geregelt?"
+      }
+    }
+  },
+  {
+    "query_id": 44,
+    "hyde_doc": {
+      "page_content": "\n\nIm Energiesteuergesetz (EnergieStG) sind die Regelungen zur Entstehung der Steuer für Energieerzeugnisse gemäß § 4 sowie für sonstige Energieerzeugnisse festgelegt. Der Steuerschuldner hat dabei die Pflicht, die Steuer zu entrichten und entsprechende Nachweise über die Verwendung der Energieerzeugnisse zu führen. Zudem müssen die Steuerschuldner regelmäßig Steueranmeldungen einreichen und die Steuererklärung abgeben. Verstöße gegen diese Pflichten können zu Bußgeldern oder Strafen führen.",
+      "metadata": {
+        "original_prompt": "Welche Regelungen sind im Energiesteuergesetz (EnergieStG) hinsichtlich der Entstehung der Steuer für Energieerzeugnisse im Sinne des § 4 sowie für sonstige Energieerzeugnisse und welche Pflichten ergeben sich für den Steuerschuldner in diesem Zusammenhang?"
+      }
+    }
+  },
+  {
+    "query_id": 45,
+    "hyde_doc": {
+      "page_content": "\n\nGemäß der KraftNAV müssen die Verhandlungen über den Netzanschlussvertrag innerhalb von sechs Monaten nach Antragstellung abgeschlossen werden. Der Realisierungsfahrplan muss spätestens vier Wochen nach Abschluss des Vertrages vorgelegt werden. Eine Nichteinhaltung dieser Fristen kann zu Verzögerungen beim Netzanschluss führen und im schlimmsten Fall zu Schadensersatzforderungen des Anschlussnehmers. Es ist daher wichtig, dass alle Beteiligten die Vorgaben der KraftNAV genau einhalten, um einen reibungslosen Ablauf beim Netzanschluss zu gewährleisten. ",
+      "metadata": {
+        "original_prompt": "Welche fristlichen und verfahrenstechnischen Vorgaben sind im Rahmen des Abschlusses eines Netzanschlussvertrages gemäß der Kraftwerks-Netzanschlussverordnung (KraftNAV) zu beachten, insbesondere in Bezug auf den Verhandlungsfahrplan und den Realisierungsfahrplan, und welche Konsequenzen ergeben sich aus einer Nichteinhaltung dieser Vorgaben für den Anschlussnehmer?"
+      }
+    }
+  },
+  {
+    "query_id": 46,
+    "hyde_doc": {
+      "page_content": "\n\nDer Hersteller kann mit rechtlichen Konsequenzen wie Bußgeldern oder dem Verbot des Inverkehrbringens rechnen, wenn das Produkt nicht den Anforderungen der Verordnung (EU) 2019/2024 entspricht. Es ist wichtig, die spezifischen Anforderungen aus den relevanten Anhängen und Artikeln zu beachten, um sicherzustellen, dass das Produkt den geltenden Vorschriften entspricht und keine rechtlichen Konsequenzen drohen.",
+      "metadata": {
+        "original_prompt": "Welche rechtlichen Konsequenzen ergeben sich für einen Hersteller, der ein energieverbrauchsrelevantes Produkt in Verkehr bringt, das nicht den Anforderungen der Verordnung (EU) 2019/2024 für Kühlgeräte mit Direktverkaufsfunktion entspricht, und inwieweit sind die spezifischen Anforderungen aus den relevanten Anhängen und Artikeln zu beachten?"
+      }
+    }
+  },
+  {
+    "query_id": 47,
+    "hyde_doc": {
+      "page_content": "\n\nGemäß § 10 BEHG wird die Veräußerung von Emissionszertifikaten durch die zuständige Behörde geregelt. Diese ist für die Festlegung von Verkaufspreisen sowie die Durchführung von Versteigerungen zuständig. Dabei müssen die Behörden die Vorgaben des BEHG und der dazugehörigen Verordnungen beachten, um sicherzustellen, dass der Handel mit Emissionszertifikaten reibungslos und transparent abläuft.",
+      "metadata": {
+        "original_prompt": "Wie wird die Veräußertung von Emissionszertifikaten gemäß § 10 des Brennstoffemissionshandelsgesetzes (BEHG) geregelt, und welche Rolle spielt die zuständige Behörde dabei, insbesondere im Hinblick auf die Festlegung von Verkaufspreisen und die Durchführung von Versteigerungen?"
+      }
+    }
+  },
+  {
+    "query_id": 48,
+    "hyde_doc": {
+      "page_content": "\nGemäß der Biomasseverordnung müssen bei der Erzeugung von Strom aus Biomasse bestimmte Umweltanforderungen eingehalten werden, wie z.B. der Schutz von natürlichen Lebensräumen und die Einhaltung von Emissionsgrenzwerten. Nicht als Biomasse anerkannt sind Stoffe, die chemisch behandelt wurden oder aus Abfällen gewonnen wurden. Auch genetisch veränderte Organismen sind nicht als Biomasse zugelassen. ",
+      "metadata": {
+        "original_prompt": "Welche Umweltanforderungen müssen bei der Erzeugung von Strom aus Biomasse gemäß der Biomasseverordnung berücksichtigt werden, und welche Stoffe sind nicht als Biomasse anerkannt?"
+      }
+    }
+  },
+  {
+    "query_id": 49,
+    "hyde_doc": {
+      "page_content": "\n\nUm eine Erlaubnis für die Errichtung und den Betrieb von Kohlendioxidleitungen zu erhalten, müssen entsprechende Anträge bei der zuständigen Genehmigungsbehörde gestellt werden. Diese prüft die Einhaltung der geltenden gesetzlichen Vorgaben und kann bei Bedarf Auflagen und Bedingungen für den Anschluss und Zugang Dritter festlegen. Die Bundesnetzagentur ist in diesem Verfahren als fachlich zuständige Behörde für die Energieversorgung beteiligt und kann im Rahmen ihrer Aufsichts- und Regulierungsaufgaben die Einhaltung der Bestimmungen des KSpG überwachen.",
+      "metadata": {
+        "original_prompt": "Welche Schritte sind erforderlich, um eine Erlaubnis für die Errichtung und den Betrieb von Kohlendioxidleitungen zu erhalten, und welche Rolle spielt die Bundesnetzagentur in diesem Verfahren, insbesondere in Bezug auf die Bedingungen für den Anschluss und Zugang Dritter gemäß den relevanten Bestimmungen des Kohlendioxid-Speicherungsgesetzes (KSpG)?"
+      }
+    }
+  },
+  {
+    "query_id": 50,
+    "hyde_doc": {
+      "page_content": "\n\nGemäß § 9 des Erdölbevorratungsgesetzes ist der Erdölbevorratungsverband verpflichtet, jährlich einen Wirtschaftsplan aufzustellen und diesen dem Bundesministerium für Wirtschaft und Energie zur Genehmigung vorzulegen. Der Beitragssatz kann während eines Geschäftsjahres angepasst werden, wenn sich die Kosten für die Durchführung der Vorratshaltung wesentlich ändern. Diese Anpassung bedarf ebenfalls der Genehmigung durch das Bundesministerium. ",
+      "metadata": {
+        "original_prompt": "Welche Regelungen gelten hinsichtlich der Aufstellung und Ausführung des Wirtschaftsplans des Erdölbevorratungsverbandes, insbesondere in Bezug auf die Genehmigung durch das Bundesministerium für Wirtschaft und Energie und die Anpassungsmöglichkeiten des Beitragssatzes während eines Geschäftsjahres?"
+      }
+    }
+  }
+]

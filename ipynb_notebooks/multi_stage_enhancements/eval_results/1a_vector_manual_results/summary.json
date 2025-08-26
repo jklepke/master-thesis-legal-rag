@@ -1,0 +1,135 @@
+{
+  "overall": {
+    "Answer Relevance": {
+      "mean": 4.815,
+      "std": 0.471,
+      "min": 3,
+      "max": 5,
+      "percent": 96.3
+    },
+    "Faithfulness": {
+      "mean": 4.52,
+      "std": 0.783,
+      "min": 1,
+      "max": 5,
+      "percent": 90.4
+    },
+    "Answer Correctness": {
+      "mean": 4.125,
+      "std": 0.814,
+      "min": 1,
+      "max": 5,
+      "percent": 82.5
+    }
+  },
+  "by_question_context": {
+    "Detailed dependency analysis": {
+      "count": 40,
+      "Answer Relevance": {
+        "mean": 4.65,
+        "std": 0.622,
+        "percent": 93.0
+      },
+      "Faithfulness": {
+        "mean": 4.375,
+        "std": 1.005,
+        "percent": 87.5
+      },
+      "Answer Correctness": {
+        "mean": 3.8,
+        "std": 0.791,
+        "percent": 76.0
+      }
+    },
+    "Detailed paragraph analysis": {
+      "count": 50,
+      "Answer Relevance": {
+        "mean": 5.0,
+        "std": 0.0,
+        "percent": 100.0
+      },
+      "Faithfulness": {
+        "mean": 4.82,
+        "std": 0.438,
+        "percent": 96.4
+      },
+      "Answer Correctness": {
+        "mean": 4.36,
+        "std": 0.525,
+        "percent": 87.2
+      }
+    },
+    "Document Comparison": {
+      "count": 16,
+      "Answer Relevance": {
+        "mean": 4.875,
+        "std": 0.5,
+        "percent": 97.5
+      },
+      "Faithfulness": {
+        "mean": 4.562,
+        "std": 0.512,
+        "percent": 91.25
+      },
+      "Answer Correctness": {
+        "mean": 4.625,
+        "std": 0.5,
+        "percent": 92.5
+      }
+    },
+    "Frequently-Asked-Questions (FAQs)": {
+      "count": 16,
+      "Answer Relevance": {
+        "mean": 4.312,
+        "std": 0.793,
+        "percent": 86.25
+      },
+      "Faithfulness": {
+        "mean": 3.438,
+        "std": 1.315,
+        "percent": 68.75
+      },
+      "Answer Correctness": {
+        "mean": 3.0,
+        "std": 1.265,
+        "percent": 60.0
+      }
+    },
+    "High-level dependency analysis ": {
+      "count": 10,
+      "Answer Relevance": {
+        "mean": 4.6,
+        "std": 0.516,
+        "percent": 92.0
+      },
+      "Faithfulness": {
+        "mean": 4.4,
+        "std": 0.516,
+        "percent": 88.0
+      },
+      "Answer Correctness": {
+        "mean": 3.7,
+        "std": 0.483,
+        "percent": 74.0
+      }
+    },
+    "High-level summary": {
+      "count": 68,
+      "Answer Relevance": {
+        "mean": 4.912,
+        "std": 0.286,
+        "percent": 98.235
+      },
+      "Faithfulness": {
+        "mean": 4.647,
+        "std": 0.481,
+        "percent": 92.941
+      },
+      "Answer Correctness": {
+        "mean": 4.353,
+        "std": 0.641,
+        "percent": 87.059
+      }
+    }
+  }
+}

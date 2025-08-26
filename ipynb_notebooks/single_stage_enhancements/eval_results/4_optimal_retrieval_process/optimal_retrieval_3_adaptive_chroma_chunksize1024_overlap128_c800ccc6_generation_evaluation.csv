@@ -1,0 +1,2 @@
+model,mean_bleu,mean_meteor,mean_rouge1,mean_rouge2,mean_rougeL,mean_bert_precision,mean_bert_recall,mean_bert_f1,mean_answer_correctness
+optimal_retrieval_3_adaptive_chroma_chunksize1024_overlap128_c800ccc6,0.0372,0.249,0.272,0.0859,0.1544,0.6555,0.7196,0.6854,0.5196

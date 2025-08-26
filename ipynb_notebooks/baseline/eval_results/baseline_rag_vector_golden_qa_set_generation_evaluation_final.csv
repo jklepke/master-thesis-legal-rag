@@ -1,0 +1,2 @@
+model,mean_bleu,mean_meteor,mean_rouge1,mean_rouge2,mean_rougeL,mean_bert_precision,mean_bert_recall,mean_bert_f1,mean_answer_correctness,mean_response_relevancy,mean_faithfulness
+baseline_rag_vector_golden_qa_set,0.0763,0.3062,0.3256,0.1372,0.2227,0.7041,0.7634,0.7314,0.6249,0.8395,0.8081

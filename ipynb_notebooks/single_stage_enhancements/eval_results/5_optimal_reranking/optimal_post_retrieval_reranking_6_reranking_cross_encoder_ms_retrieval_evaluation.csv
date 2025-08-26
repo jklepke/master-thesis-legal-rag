@@ -1,0 +1,2 @@
+model,mean_recall_at_k,mean_reciprocal_rank,mean_average_precision,context_precision_ragas_with_reference_NonLLM,context_recall_ragas_NonLLM
+optimal_post_retrieval_reranking_6_reranking_cross_encoder_ms,0.6373,0.5443,0.4205,0.5494,0.6573

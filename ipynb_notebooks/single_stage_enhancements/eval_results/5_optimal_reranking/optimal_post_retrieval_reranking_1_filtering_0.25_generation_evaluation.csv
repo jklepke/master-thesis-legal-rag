@@ -1,0 +1,2 @@
+model,mean_bleu,mean_meteor,mean_rouge1,mean_rouge2,mean_rougeL,mean_bert_precision,mean_bert_recall,mean_bert_f1,mean_answer_correctness
+optimal_post_retrieval_reranking_1_filtering_0.25,0.1623,0.4196,0.4911,0.2558,0.3348,0.7654,0.798,0.7802,0.7531

@@ -1,0 +1,2 @@
+model,mean_bleu,mean_meteor,mean_rouge1,mean_rouge2,mean_rougeL,mean_bert_precision,mean_bert_recall,mean_bert_f1,mean_answer_correctness
+optimal_chunking_rag_paragraph_wise_overlap0,0.1663,0.4148,0.4967,0.2647,0.3557,0.7738,0.8036,0.7871,0.7641

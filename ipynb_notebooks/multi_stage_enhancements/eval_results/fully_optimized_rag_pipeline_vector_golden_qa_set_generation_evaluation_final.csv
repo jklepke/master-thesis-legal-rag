@@ -1,0 +1,2 @@
+model,mean_bleu,mean_meteor,mean_rouge1,mean_rouge2,mean_rougeL,mean_bert_precision,mean_bert_recall,mean_bert_f1,mean_answer_correctness,mean_response_relevancy,mean_faithfulness
+fully_optimized_rag_pipeline_vector_golden_qa_set,0.0859,0.3201,0.3416,0.1473,0.2383,0.7165,0.7705,0.7415,0.6667,0.8421,0.845

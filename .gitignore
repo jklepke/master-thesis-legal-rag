@@ -1,0 +1,13 @@
+.env
+.env.neo4j
+.env.neo4j_aura
+docker-compose.override.yml
+neo4j_db/
+chroma_*
+chroma
+.DS_Store
+.pdf
+.venv
+.vscode
+__pycache__
+.trash

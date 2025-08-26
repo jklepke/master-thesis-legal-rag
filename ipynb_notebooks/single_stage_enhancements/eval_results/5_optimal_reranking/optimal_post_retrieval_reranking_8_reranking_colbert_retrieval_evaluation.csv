@@ -1,0 +1,2 @@
+model,mean_recall_at_k,mean_reciprocal_rank,mean_average_precision,context_precision_ragas_with_reference_NonLLM,context_recall_ragas_NonLLM
+optimal_post_retrieval_reranking_8_reranking_colbert,0.6407,0.5977,0.4407,0.5959,0.6407

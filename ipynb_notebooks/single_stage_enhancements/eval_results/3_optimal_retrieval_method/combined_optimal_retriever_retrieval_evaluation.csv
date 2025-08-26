@@ -1,0 +1,13 @@
+model,mean_recall_at_k,mean_reciprocal_rank,mean_average_precision,context_precision_ragas_with_reference_NonLLM,context_recall_ragas_NonLLM
+optimal_retrieval_10_MMR_chroma_chunksize1024_overlap128_c800ccc6_method,0.4407,0.535,0.3649,0.5247,0.4407
+optimal_retrieval_11_Hybrid_MMR_BM25_chroma_chunksize1024_overlap128_c800ccc6_method,0.7477,0.699,0.535,0.6768,0.7677
+optimal_retrieval_12_Hybrid_MMR_TF-IDF_chroma_chunksize1024_overlap128_c800ccc6_method,0.7583,0.7083,0.5412,0.6982,0.7583
+optimal_retrieval_1_Dense_chroma_chunksize1024_overlap128_c800ccc6_method,0.6997,0.5973,0.4814,0.5912,0.6997
+optimal_retrieval_2_TF-IDF_chroma_chunksize1024_overlap128_c800ccc6_method,0.6,0.6757,0.4724,0.6548,0.6
+optimal_retrieval_3_BM25_chroma_chunksize1024_overlap128_c800ccc6_method,0.6143,0.674,0.5019,0.6541,0.6143
+optimal_retrieval_4_Rerank_Hybrid_TF-IDF_Dense_chroma_chunksize1024_overlap128_c800ccc6_method,0.749,0.7117,0.5404,0.6884,0.749
+optimal_retrieval_5_Rerank_Hybrid_BM25_Dense_chroma_chunksize1024_overlap128_c800ccc6_method,0.7077,0.697,0.5301,0.6752,0.7277
+optimal_retrieval_6_Multi_Query_chroma_chunksize1024_overlap128_c800ccc6_method,0.7063,0.6073,0.4805,0.5966,0.7063
+optimal_retrieval_7_Hybrid_Multi_Query_chroma_chunksize1024_overlap128_c800ccc6_method,0.649,0.6607,0.4946,0.6533,0.649
+optimal_retrieval_8_HyDE_chroma_chunksize1024_overlap128_c800ccc6_method,0.5583,0.5707,0.4295,0.5533,0.5583
+optimal_retrieval_9_Hybrid_HyDE_chroma_chunksize1024_overlap128_c800ccc6_method,0.6557,0.6557,0.5009,0.6325,0.6757

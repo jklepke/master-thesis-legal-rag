@@ -1,0 +1,3 @@
+model,mean_recall_at_k,mean_reciprocal_rank,mean_average_precision,context_precision_ragas_with_reference_NonLLM,context_recall_ragas_NonLLM
+optimal_self_cross_consistency_1_self_consistency_enriched.json,0.7063,0.6173,0.488,0.6112,0.7063
+optimal_self_cross_consistency_2_cross_consistency_enriched.json,0.7063,0.6173,0.488,0.6112,0.7063

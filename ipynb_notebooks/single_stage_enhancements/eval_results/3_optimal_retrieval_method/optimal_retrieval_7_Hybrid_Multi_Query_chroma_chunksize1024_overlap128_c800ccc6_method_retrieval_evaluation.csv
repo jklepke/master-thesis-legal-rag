@@ -1,0 +1,2 @@
+model,mean_recall_at_k,mean_reciprocal_rank,mean_average_precision,context_precision_ragas_with_reference_NonLLM,context_recall_ragas_NonLLM
+optimal_retrieval_7_Hybrid_Multi_Query_chroma_chunksize1024_overlap128_c800ccc6_method,0.649,0.6607,0.4946,0.6533,0.649

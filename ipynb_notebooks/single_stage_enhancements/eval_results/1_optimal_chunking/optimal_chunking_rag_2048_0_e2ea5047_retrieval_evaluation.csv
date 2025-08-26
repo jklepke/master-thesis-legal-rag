@@ -1,0 +1,2 @@
+model,mean_recall_at_k,mean_reciprocal_rank,mean_average_precision,context_precision_ragas_with_reference_NonLLM,context_recall_ragas_NonLLM
+optimal_chunking_rag_2048_0_e2ea5047,0.6917,0.5653,0.4622,0.5577,0.6917

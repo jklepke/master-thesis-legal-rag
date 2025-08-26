@@ -1,0 +1,2 @@
+model,mean_bleu,mean_meteor,mean_rouge1,mean_rouge2,mean_rougeL,mean_bert_precision,mean_bert_recall,mean_bert_f1,mean_answer_correctness
+gpt-4o-mini,0.0359,0.2753,0.2759,0.0856,0.1639,0.6578,0.7376,0.6944,0.5083

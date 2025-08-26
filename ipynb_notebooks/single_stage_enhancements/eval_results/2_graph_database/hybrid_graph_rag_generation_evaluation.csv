@@ -1,0 +1,2 @@
+model,mean_bleu,mean_meteor,mean_rouge1,mean_rouge2,mean_rougeL,mean_bert_precision,mean_bert_recall,mean_bert_f1,mean_answer_correctness
+hybrid_graph_rag,0.1673,0.4136,0.494,0.2772,0.3667,0.774,0.8022,0.7865,0.7343

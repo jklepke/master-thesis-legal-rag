@@ -1,0 +1,2 @@
+model,mean_recall_at_k,mean_reciprocal_rank,mean_average_precision,context_precision_ragas_with_reference_NonLLM,context_recall_ragas_NonLLM
+optimal_post_retrieval_reranking_1_summarizing_prompt_engineering_rag_enriched_third.json,0.6997,0.6073,0.4864,0.6012,0.6997

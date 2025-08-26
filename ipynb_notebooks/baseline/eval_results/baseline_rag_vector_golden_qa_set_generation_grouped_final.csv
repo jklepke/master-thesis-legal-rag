@@ -1,0 +1,7 @@
+question_context,mean_bleu,mean_meteor,mean_rouge1,mean_rouge2,mean_rougeL,mean_bert_precision,mean_bert_recall,mean_bert_f1,mean_answer_correctness,mean_response_relevancy,mean_faithfulness
+High-level summary,0.0457,0.3124,0.307,0.1097,0.2062,0.6707,0.7756,0.7187,0.582,0.8498,0.8935
+Detailed paragraph analysis,0.1643,0.5071,0.5095,0.2733,0.3829,0.7393,0.8186,0.7766,0.74,0.9178,0.7767
+High-level dependency analysis ,0.0604,0.2779,0.3756,0.1111,0.2034,0.7387,0.7541,0.7459,0.6462,0.8406,0.8168
+Detailed dependency analysis,0.0319,0.1033,0.1023,0.0362,0.0766,0.6861,0.6927,0.6892,0.6284,0.7747,0.8109
+Frequently-Asked-Questions (FAQs),0.0262,0.2192,0.2894,0.0695,0.1613,0.6851,0.7147,0.698,0.489,0.7294,0.5992
+Document Comparison,0.102,0.2641,0.3929,0.1652,0.2312,0.7787,0.7697,0.7741,0.7404,0.8222,0.7399

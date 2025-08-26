@@ -1,0 +1,135 @@
+{
+  "overall": {
+    "Relevance": {
+      "mean": 4.725,
+      "std": 0.558,
+      "min": 1,
+      "max": 5,
+      "percent": 94.5
+    },
+    "Factual Accuracy": {
+      "mean": 4.405,
+      "std": 0.777,
+      "min": 1,
+      "max": 5,
+      "percent": 88.1
+    },
+    "Answer Alignment": {
+      "mean": 3.955,
+      "std": 0.765,
+      "min": 1,
+      "max": 5,
+      "percent": 79.1
+    }
+  },
+  "by_question_context": {
+    "Detailed dependency analysis": {
+      "count": 40,
+      "Relevance": {
+        "mean": 4.575,
+        "std": 0.594,
+        "percent": 91.5
+      },
+      "Factual Accuracy": {
+        "mean": 4.15,
+        "std": 0.864,
+        "percent": 83.0
+      },
+      "Answer Alignment": {
+        "mean": 3.825,
+        "std": 0.903,
+        "percent": 76.5
+      }
+    },
+    "Detailed paragraph analysis": {
+      "count": 50,
+      "Relevance": {
+        "mean": 4.98,
+        "std": 0.141,
+        "percent": 99.6
+      },
+      "Factual Accuracy": {
+        "mean": 4.74,
+        "std": 0.487,
+        "percent": 94.8
+      },
+      "Answer Alignment": {
+        "mean": 4.56,
+        "std": 0.541,
+        "percent": 91.2
+      }
+    },
+    "Document Comparison": {
+      "count": 16,
+      "Relevance": {
+        "mean": 4.938,
+        "std": 0.25,
+        "percent": 98.75
+      },
+      "Factual Accuracy": {
+        "mean": 4.5,
+        "std": 0.516,
+        "percent": 90.0
+      },
+      "Answer Alignment": {
+        "mean": 4.062,
+        "std": 0.25,
+        "percent": 81.25
+      }
+    },
+    "Frequently-Asked-Questions (FAQs)": {
+      "count": 16,
+      "Relevance": {
+        "mean": 3.938,
+        "std": 1.063,
+        "percent": 78.75
+      },
+      "Factual Accuracy": {
+        "mean": 3.438,
+        "std": 1.209,
+        "percent": 68.75
+      },
+      "Answer Alignment": {
+        "mean": 3.125,
+        "std": 1.204,
+        "percent": 62.5
+      }
+    },
+    "High-level dependency analysis ": {
+      "count": 10,
+      "Relevance": {
+        "mean": 4.1,
+        "std": 0.316,
+        "percent": 82.0
+      },
+      "Factual Accuracy": {
+        "mean": 3.7,
+        "std": 0.675,
+        "percent": 74.0
+      },
+      "Answer Alignment": {
+        "mean": 3.2,
+        "std": 0.422,
+        "percent": 64.0
+      }
+    },
+    "High-level summary": {
+      "count": 68,
+      "Relevance": {
+        "mean": 4.853,
+        "std": 0.357,
+        "percent": 97.059
+      },
+      "Factual Accuracy": {
+        "mean": 4.618,
+        "std": 0.519,
+        "percent": 92.353
+      },
+      "Answer Alignment": {
+        "mean": 3.868,
+        "std": 0.383,
+        "percent": 77.353
+      }
+    }
+  }
+}

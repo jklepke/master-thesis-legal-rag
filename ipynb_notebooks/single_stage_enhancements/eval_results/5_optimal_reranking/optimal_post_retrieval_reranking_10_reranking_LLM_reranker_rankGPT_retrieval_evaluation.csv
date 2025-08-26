@@ -1,0 +1,2 @@
+model,mean_recall_at_k,mean_reciprocal_rank,mean_average_precision,context_precision_ragas_with_reference_NonLLM,context_recall_ragas_NonLLM
+optimal_post_retrieval_reranking_10_reranking_LLM_reranker_rankGPT,0.7063,0.7533,0.5889,0.737,0.7063

@@ -1,0 +1,69 @@
+﻿ID;Type;Name;Abbreviation;URL
+1;Law;Energiewirtschaftsgesetz ;EnWG;https://www.gesetze-im-internet.de/enwg_2005/BJNR197010005.html
+2;Law;Kraft-Wärme-Kopplungsgesetz;KWKG 2025;https://www.gesetze-im-internet.de/kwkg_2016/BJNR249810015.html
+3;Law;Energiesicherungsgesetz ;EnSiG;https://www.gesetze-im-internet.de/ensig_1975/BJNR036810974.html 
+4;Law;Stromsteuergesetz ;StromStG;https://www.gesetze-im-internet.de/stromstg/BJNR037810999.html
+5;Law;Energiesteuergesetz ;EnergieStG;https://www.gesetze-im-internet.de/energiestg/BJNR153410006.html
+6;Law;Messstellenbetriebsgesetz;MsbG;https://www.gesetze-im-internet.de/messbg/BJNR203410016.html
+7;Law;Energieleitungsausbaugesetz ;EnLAG;https://www.gesetze-im-internet.de/enlag/BJNR287010009.html
+8;Law;Netzausbaubeschleunigungsgesetz Übertragungsnetz;NABEG;https://www.gesetze-im-internet.de/nabeg/BJNR169010011.html
+9;Law;Bundesbedarfsplangesetz ;BBPlG;https://www.gesetze-im-internet.de/bbplg/BJNR254310013.html
+10;Law;Umweltverträglichkeitsprüfungsgesetz (UVPG) ;UVPG;https://www.gesetze-im-internet.de/uvpg/BJNR102050990.html
+11;Law;Elektromobilitätsgesetz ;EmoG;https://www.gesetze-im-internet.de/emog/BJNR089800015.html
+12;Law;Klima- und Transformationsfondsgeset;KTFG;https://www.gesetze-im-internet.de/ekfg/BJNR180700010.html
+13;Law;Energieverbrauchskennzeichnungsgesetz ;EnVKG;https://www.gesetze-im-internet.de/envkg_2012/BJNR107010012.html
+14;Law;Energiedienstleistungsgesetz;EDL-G;https://www.gesetze-im-internet.de/edl-g/BJNR148310010.html
+15;Law;Atomgesetz;AtG;https://www.gesetze-im-internet.de/atg/BJNR008140959.html
+16;Law;Kohleverstromungsbeendigungsgesetz ;KVBG;https://www.gesetze-im-internet.de/kvbg/BJNR181810020.html
+17;Law;Erneuerbare-Energien-Gesetz;EEG 2023;https://www.gesetze-im-internet.de/eeg_2014/BJNR106610014.html
+18;Law;Windenergie-auf-See-Gesetz;WindSeeG;https://www.gesetze-im-internet.de/windseeg/BJNR231000016.html
+19;Law;Windenergieflächenbedarfsgesetz ;WindBG;https://www.gesetze-im-internet.de/windbg/BJNR135310022.html
+20;Law;Gebäudeenergiegesetz ;GEG;https://www.gesetze-im-internet.de/geg/BJNR172810020.html
+21;Law;Treibhausgas-Emissionshandelsgesetz;TEHG;https://www.gesetze-im-internet.de/tehg_2025/BJNR0460B0025.html
+22;Law;Bundes-Immissionsschutzgesetz;BImSchG;https://www.gesetze-im-internet.de/bimschg/BJNR007210974.html
+23;Law;Bundes-Klimaschutzgesetz;KSG;https://www.gesetze-im-internet.de/ksg/BJNR251310019.html
+24;Law;Bundesberggesetz ;BBergG;https://www.gesetze-im-internet.de/bbergg/BJNR013100980.html
+25;Law;Wasserhaushaltsgesetz ;WHG;https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html
+26;Law;Kohlendioxid-Speicherungsgesetz;KSpG;https://www.gesetze-im-internet.de/kspg/BJNR172610012.html
+27;Law;Bundesnaturschutzgesetz ;BNatSchG;https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html
+28;Law;Energieverbrauchsrelevante-Produkte-Gesetz;EVPG;https://www.gesetze-im-internet.de/ebpg/BJNR025800008.html
+29;Law;Energieeffizienzgesetz ;EnEfG;https://www.gesetze-im-internet.de/enefg/BJNR1350B0023.html
+30;Law ;Wärmeplanungsgesetz ;WPG;https://www.gesetze-im-internet.de/wpg/BJNR18A0B0023.html
+31;Law;Brennstoffemissionshandelsgesetz ;BEHG;https://www.gesetze-im-internet.de/behg/BJNR272800019.html
+32;Law;Erdölbevorratungsgesetz ;ErdölBevG;https://www.gesetze-im-internet.de/erd_lbevg_2012/BJNR007410012.html
+33;Law;Steinkohlefinanzierungsgesetz;SteinkohleFinG;https://www.gesetze-im-internet.de/steinkohlefing/BJNR308600007.html
+34;Ordinance;Gassicherungsverordnung ;GasSV;https://www.gesetze-im-internet.de/gassv/BJNR005170982.html
+35;Ordinance;Elektrizitätssicherungsverordnung ;EltSV;https://www.gesetze-im-internet.de/eltsv/BJNR005140982.html
+36;Ordinance;Stromnetzzugangsverordnung ;StromNZV;https://www.gesetze-im-internet.de/stromnzv/BJNR224300005.html
+37;Ordinance;Stromnetzentgeltverordnung ;StromNEV;https://www.gesetze-im-internet.de/stromnev/BJNR222500005.html
+38;Ordinance;Gasnetzzugangsverordnung ;GasNZV;https://www.gesetze-im-internet.de/gasnzv_2010/BJNR126110010.html
+39;Ordinance;Gasnetzentgeltverordnung ;GasNEV;https://www.gesetze-im-internet.de/gasnev/BJNR219700005.html
+40;Ordinance;Netzreserveverordnung ;NetzResV;https://www.gesetze-im-internet.de/reskv/BJNR194700013.html
+41;Ordinance;Planfeststellungszuweisungverordnung ;PlfZV;https://www.gesetze-im-internet.de/plfzv/BJNR258200013.html
+42;Ordinance;KWK-Ausschreibungsverordnung;KWKAusV;https://www.gesetze-im-internet.de/kwkausv/BJNR316710017.html
+43;Ordinance;Anreizregulierungsverordnung ;ARegV;https://www.gesetze-im-internet.de/aregv/BJNR252910007.html
+44;Ordinance;Konzessionsabgabenverordnung ;KAV;https://www.gesetze-im-internet.de/kav/BJNR000120992.html
+45;Ordinance;Niederspannungsanschlussverordnung ;NAV;https://www.gesetze-im-internet.de/nav/BJNR247710006.html
+46;Ordinance;Ladesäulenverordnung ;LSV;https://www.gesetze-im-internet.de/lsv/BJNR045700016.html
+47;Ordinance;Gashochdruckleitungsverordnung ;GasHDrLtgV;https://www.gesetze-im-internet.de/gashdrltgv_2011/BJNR092800011.html
+48;Ordinance;Kapazitätsreserveverordnung ;KapResV;https://www.gesetze-im-internet.de/kapresv/BJNR005800019.html
+49;Ordinance;Energieverbrauchskennzeichnungsverordnung ;EnVKV;https://www.gesetze-im-internet.de/envkv/BJNR261600997.html
+50;Ordinance;Pkw-Energieverbrauchskennzeichnungsverordnung;Pkw-EnVKV;https://www.gesetze-im-internet.de/pkw-envkv/BJNR103700004.html
+51;Ordinance;Kraftwerks-Netzanschlussverordnung;KraftNAV;https://www.gesetze-im-internet.de/kraftnav/BJNR118700007.html
+52;Ordinance;Systemstabilitätsverordnung ;SysStabV;https://www.gesetze-im-internet.de/sysstabv/BJNR163510012.html
+53;Ordinance;Stromgrundversorgungsverordnung ;StromGVV;https://www.gesetze-im-internet.de/stromgvv/BJNR239110006.html
+54;Ordinance;Gasgrundversorgungsverordnung ;GasGVV;https://www.gesetze-im-internet.de/gasgvv/BJNR239600006.html
+55;Ordinance;Niederdruckanschlussverordnung ;NDAV;https://www.gesetze-im-internet.de/ndav/BJNR248500006.html
+56;Ordinance;Verordnung zum Schutz von Übertragungsnetzen;ÜNSchutzV;https://www.gesetze-im-internet.de/_nschutzv/BJNR006900012.html
+57;Ordinance;Erste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes;1. BImSchV;https://www.gesetze-im-internet.de/bimschv_1_2010/BJNR003800010.html
+58;Ordinance;Biomassestrom-Nachhaltigkeitsverordnung;BioSt-NachV;https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html
+59;Ordinance;Biomasseverordnung ;BiomasseV;https://www.gesetze-im-internet.de/biomassev/BJNR123400001.html
+60;Ordinance;Erneuerbare-Energien-Verordnung;EEV;https://www.gesetze-im-internet.de/ausglmechv_2015/BJNR014610015.html
+61;Ordinance;Systemdienstleistungsverordnung ;SDLWindV;https://www.gesetze-im-internet.de/sdlwindv/BJNR173400009.html
+62;Ordinance;Grenzüberschreitende-Erneuerbare-Energien-Verordnung;GEEV;https://www.gesetze-im-internet.de/geev_2017/BJNR310210017.html
+63;Ordinance;Verordnung über Heizkostenabrechnung ;HeizkostenV;https://www.gesetze-im-internet.de/heizkostenv/BJNR002610981.html
+64;Ordinance;EVPG-Verordnung;EVPGV;https://www.gesetze-im-internet.de/evpgv/BJNR322110013.html
+65;Ordinance;Endlagervorausleistungsverordnung ;EndlagerVIV;https://www.gesetze-im-internet.de/endlagervlv/BJNR005620982.html
+66;Ordinance;Energiewirtschaftskostenverordnung ;EnWGKostV;https://www.gesetze-im-internet.de/enwgkostv/BJNR054000006.html
+67;Ordinance;Gasgerätekostenerstattungsverordnung ;GasGKErstV;https://www.gesetze-im-internet.de/gasgkerstv/BJNR193600017.html
+68;Ordinance;Allgemeine Bedingungen für die Versorgung mit Fernwärme;AVBFernwärmeV;https://www.gesetze-im-internet.de/avbfernw_rmev/BJNR007420980.html

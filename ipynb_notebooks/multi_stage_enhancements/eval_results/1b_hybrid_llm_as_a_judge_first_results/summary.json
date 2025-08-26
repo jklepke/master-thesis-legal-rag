@@ -1,0 +1,135 @@
+{
+  "overall": {
+    "Relevance": {
+      "mean": 4.695,
+      "std": 0.503,
+      "min": 2,
+      "max": 5,
+      "percent": 93.9
+    },
+    "Factual Accuracy": {
+      "mean": 4.415,
+      "std": 0.612,
+      "min": 1,
+      "max": 5,
+      "percent": 88.3
+    },
+    "Answer Alignment": {
+      "mean": 3.91,
+      "std": 0.703,
+      "min": 1,
+      "max": 5,
+      "percent": 78.2
+    }
+  },
+  "by_question_context": {
+    "Detailed dependency analysis": {
+      "count": 40,
+      "Relevance": {
+        "mean": 4.5,
+        "std": 0.506,
+        "percent": 90.0
+      },
+      "Factual Accuracy": {
+        "mean": 4.25,
+        "std": 0.494,
+        "percent": 85.0
+      },
+      "Answer Alignment": {
+        "mean": 3.65,
+        "std": 0.7,
+        "percent": 73.0
+      }
+    },
+    "Detailed paragraph analysis": {
+      "count": 50,
+      "Relevance": {
+        "mean": 4.96,
+        "std": 0.198,
+        "percent": 99.2
+      },
+      "Factual Accuracy": {
+        "mean": 4.66,
+        "std": 0.479,
+        "percent": 93.2
+      },
+      "Answer Alignment": {
+        "mean": 4.5,
+        "std": 0.544,
+        "percent": 90.0
+      }
+    },
+    "Document Comparison": {
+      "count": 16,
+      "Relevance": {
+        "mean": 4.938,
+        "std": 0.25,
+        "percent": 98.75
+      },
+      "Factual Accuracy": {
+        "mean": 4.438,
+        "std": 0.512,
+        "percent": 88.75
+      },
+      "Answer Alignment": {
+        "mean": 4.062,
+        "std": 0.25,
+        "percent": 81.25
+      }
+    },
+    "Frequently-Asked-Questions (FAQs)": {
+      "count": 16,
+      "Relevance": {
+        "mean": 4.188,
+        "std": 0.834,
+        "percent": 83.75
+      },
+      "Factual Accuracy": {
+        "mean": 3.812,
+        "std": 0.981,
+        "percent": 76.25
+      },
+      "Answer Alignment": {
+        "mean": 3.188,
+        "std": 0.981,
+        "percent": 63.75
+      }
+    },
+    "High-level dependency analysis ": {
+      "count": 10,
+      "Relevance": {
+        "mean": 4.0,
+        "std": 0.0,
+        "percent": 80.0
+      },
+      "Factual Accuracy": {
+        "mean": 3.7,
+        "std": 0.483,
+        "percent": 74.0
+      },
+      "Answer Alignment": {
+        "mean": 3.0,
+        "std": 0.0,
+        "percent": 60.0
+      }
+    },
+    "High-level summary": {
+      "count": 68,
+      "Relevance": {
+        "mean": 4.779,
+        "std": 0.418,
+        "percent": 95.588
+      },
+      "Factual Accuracy": {
+        "mean": 4.574,
+        "std": 0.498,
+        "percent": 91.471
+      },
+      "Answer Alignment": {
+        "mean": 3.897,
+        "std": 0.428,
+        "percent": 77.941
+      }
+    }
+  }
+}

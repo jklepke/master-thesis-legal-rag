@@ -1,0 +1,2 @@
+model,mean_recall_at_k,mean_reciprocal_rank,mean_average_precision,context_precision_ragas_with_reference_NonLLM
+fully_optimized_rag_pipeline_vector,0.809,0.97,0.795,0.9471

@@ -1,0 +1,2 @@
+model,mean_bleu,mean_meteor,mean_rouge1,mean_rouge2,mean_rougeL,mean_bert_precision,mean_bert_recall,mean_bert_f1,mean_answer_correctness
+optimal_chunking_rag_256_0_4b770b44,0.1448,0.4062,0.464,0.2437,0.3274,0.7526,0.7912,0.7702,0.6576

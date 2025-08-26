@@ -1,0 +1,86 @@
+[
+    {
+        "query_id": 1,
+        "query": "Was regelt das Elektromobilitätsgesetz (EmoG) und bis wann ist es gültig?",
+        "ground_truth": "Das Elektromobilitätsgesetz (EmoG) regelt die Bevorrechtigung der Verwendung elektrisch betriebener Fahrzeuge und ist bis zum 31. Dezember 2026 gültig.",
+        "ground_truth_chunk_contexts": [
+            "Elektromobilitätsgesetz  (EmoG) - MENTIONS -> Artikel 2 Absatz 34 des Gesetzes vom 20. Dezember 2022, Elektromobilitätsgesetz  (EmoG) - MENTIONS -> Gesetz zur Bevorrechtigung der Verwendung elektrisch betriebener Fahrzeuge, Elektromobilitätsgesetz  (EmoG) - MENTIONS -> 05.06.2015, Elektromobilitätsgesetz  (EmoG) - MENTIONS -> EmoG, Elektromobilitätsgesetz  (EmoG) - MENTIONS -> Artikel 26 Absatz 2 der Verordnung (EU) Nr. 1025/2012, Elektromobilitätsgesetz  (EmoG) - MENTIONS -> 31.12.2026, Elektromobilitätsgesetz  (EmoG) - MENTIONS -> Richtlinie 98/34/EG, EmoG - HAS_TITLE -> Gesetz zur Bevorrechtigung der Verwendung elektrisch betriebener Fahrzeuge, EmoG - HAS_DATE -> 05.06.2015, EmoG - AMENDED_BY -> Artikel 2 Absatz 34 des Gesetzes vom 20. Dezember 2022, EmoG - EXPIRES_ON -> 31.12.2026, EmoG - NOTIFIED_UNDER -> Richtlinie 98/34/EG, Richtlinie 98/34/EG - AMENDED_BY -> Artikel 26 Absatz 2 der Verordnung (EU) Nr. 1025/2012"
+        ],
+        "ground_truth_chunk_ids": [
+            "82c9b24ce253696b"
+        ],
+        "ground_truth_chunk_indices": [
+            1
+        ],
+        "ground_truth_relation_counts": [
+            13
+        ],
+        "synthesizer": "single-hop"
+    },
+    {
+        "query_id": 2,
+        "query": "Welche Fristen gelten für das Elektromobilitätsgesetz (EmoG) in Bezug auf die Ladeinfrastruktur und bis wann läuft es aus?",
+        "ground_truth": "Das Elektromobilitätsgesetz (EmoG) tritt am Tag nach der Verkündung in Kraft und läuft am 31. Dezember 2026 aus.",
+        "ground_truth_chunk_contexts": [
+            "Ladeinfrastruktur - RELATED_TO -> Ladeverhalten, Umweltkriterien - PROVIDED_BY -> Gesetz, Gesetz - ENTERS_INTO_FORCE -> Tag nach der Verkündung, Gesetz - EXPIRES_ON -> 31. Dezember 2026, Elektromobilitätsgesetz  (EmoG) - MENTIONS -> Bericht, Elektromobilitätsgesetz  (EmoG) - MENTIONS -> Gesetz, Elektromobilitätsgesetz  (EmoG) - MENTIONS -> Tag nach der Verkündung, Elektromobilitätsgesetz  (EmoG) - MENTIONS -> 31. Dezember 2026, Elektromobilitätsgesetz  (EmoG) - MENTIONS -> Ladeinfrastruktur, Elektromobilitätsgesetz  (EmoG) - MENTIONS -> Ladeverhalten, Elektromobilitätsgesetz  (EmoG) - MENTIONS -> elektrisch betriebener Fahrzeuge, Elektromobilitätsgesetz  (EmoG) - MENTIONS -> Umweltkriterien, elektrisch betriebener Fahrzeuge - SUBJECT_OF -> Bericht"
+        ],
+        "ground_truth_chunk_ids": [
+            "cce62884423ae967"
+        ],
+        "ground_truth_chunk_indices": [
+            8
+        ],
+        "ground_truth_relation_counts": [
+            13
+        ],
+        "synthesizer": "single-hop"
+    },
+    {
+        "query_id": 3,
+        "query": "Welche Rolle spielen die Marktgebietsverantwortlichen gemäß der Gassicherungsverordnung (GasSV) im Verhältnis zu den Bilanzkreisverantwortlichen und den Betreibern von Fernleitungs- und Gasverteilernetzen?",
+        "ground_truth": "Die Marktgebietsverantwortlichen überwachen die Bilanzkreisverantwortlichen und sind gemäß der Gassicherungsverordnung (GasSV) in der Pflicht, die Betreiber von Fernleitungs- und Gasverteilernetzen zu koordinieren und sicherzustellen, dass diese ihren Anforderungen nachkommen.",
+        "ground_truth_chunk_contexts": [
+            "Marktgebietsverantwortliche - PROVIDES -> digitale Plattform, Bilanzkreisverantwortlichen - DEFINED_BY -> § 2 Nummer 5 der Gasnetzzugangsverordnung, Gassicherungsverordnung  (GasSV) - MENTIONS -> Marktgebietsverantwortlichen, Gassicherungsverordnung  (GasSV) - MENTIONS -> Betreiber von Fernleitungsnetzen, Gassicherungsverordnung  (GasSV) - MENTIONS -> Betreiber von Gasverteilernetzen, Gassicherungsverordnung  (GasSV) - MENTIONS -> Delegierte Verordnung (EU) 2022/517, Gassicherungsverordnung  (GasSV) - MENTIONS -> Verordnung (EU) 2017/1938, Gassicherungsverordnung  (GasSV) - MENTIONS -> Bilanzkreisverantwortlichen, Gassicherungsverordnung  (GasSV) - MENTIONS -> Marktgebietsverantwortliche, Gassicherungsverordnung  (GasSV) - MENTIONS -> Verordnung (EU) Nr. 994/2010, Marktgebietsverantwortliche - OVERSEES -> Bilanzkreisverantwortlichen, Betreiber von Fernleitungsnetzen - REQUIRED_TO -> Marktgebietsverantwortlichen, Betreiber von Gasverteilernetzen - REQUIRED_TO -> Marktgebietsverantwortlichen, Verordnung (EU) 2017/1938 - AMENDS -> Verordnung (EU) Nr. 994/2010, Delegierte Verordnung (EU) 2022/517 - AMENDS -> Verordnung (EU) 2017/1938"
+        ],
+        "ground_truth_chunk_ids": [
+            "1fe0f28271ddb1a7"
+        ],
+        "ground_truth_chunk_indices": [
+            13
+        ],
+        "ground_truth_relation_counts": [
+            15
+        ],
+        "synthesizer": "single-hop"
+    },
+    {
+        "query_id": 4,
+        "query": "Welche Pflichten haben Plattformteilnehmer gemäß der Gassicherungsverordnung (GasSV) in Bezug auf die Registrierung und Informationsbereitstellung, um die Abwicklung von Maßnahmen nach dem Energiesicherungsgesetz sicherzustellen, und welche Rolle spielt die Bundesnetzagentur dabei?",
+        "ground_truth": "Plattformteilnehmer sind verpflichtet, sich auf der digitalen Plattform zu registrieren, um die Abwicklung von Maßnahmen nach § 1 und von Solidaritätsmaßnahmen nach § 2a des Energiesicherungsgesetzes zu ermöglichen. Des Weiteren müssen sie Informationen bereitstellen, die von der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen angefordert werden können. Die Bundesnetzagentur hat das Mandat, die Einhaltung der Meldepflichten zu überwachen und kann Bußgeldverfahren einleiten, wenn Verstöße nicht innerhalb eines festgelegten Zeitraums behoben werden.",
+        "ground_truth_chunk_contexts": [
+            "Gassicherungsverordnung  (GasSV) - MENTIONS -> Bilanzkreisverantwortlichen, Gassicherungsverordnung  (GasSV) - MENTIONS -> digitale Plattform, Gassicherungsverordnung  (GasSV) - MENTIONS -> Abwicklung von Maßnahmen nach § 1 und von Solidaritätsmaßnahmen nach § 2a des Energiesicherungsgesetzes, Gassicherungsverordnung  (GasSV) - MENTIONS -> Endverbraucher, Gassicherungsverordnung  (GasSV) - MENTIONS -> Marktgebietsverantwortliche, Gassicherungsverordnung  (GasSV) - MENTIONS -> registrieren auf der Plattform, Gassicherungsverordnung  (GasSV) - MENTIONS -> § 2 Nummer 5 der Gasnetzzugangsverordnung, Gassicherungsverordnung  (GasSV) - MENTIONS -> Plattformteilnehmer, Gassicherungsverordnung  (GasSV) - MENTIONS -> Anschlussnutzer von Marktlokationen mit einer technischen Anschlusskapazität in Höhe von mindestens 10 Megawattstunden pro Stunde, digitale Plattform - SERVES_PURPOSE -> Abwicklung von Maßnahmen nach § 1 und von Solidaritätsmaßnahmen nach § 2a des Energiesicherungsgesetzes, Endverbraucher - DEFINED_BY -> Anschlussnutzer von Marktlokationen mit einer technischen Anschlusskapazität in Höhe von mindestens 10 Megawattstunden pro Stunde",
+            "Plattformteilnehmer - OBLIGATED_TO -> registrieren auf der Plattform, Gassicherungsverordnung  (GasSV) - MENTIONS -> Energiesicherungsgesetz, Gassicherungsverordnung  (GasSV) - MENTIONS -> Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen, Gassicherungsverordnung  (GasSV) - MENTIONS -> Bundesnetzagentur, Gassicherungsverordnung  (GasSV) - MENTIONS -> Gas, Gassicherungsverordnung  (GasSV) - MENTIONS -> Solidaritätsmaßnahmen, Gassicherungsverordnung  (GasSV) - MENTIONS -> Mitgliedstaat der Europäischen Union, Gassicherungsverordnung  (GasSV) - MENTIONS -> Informationen, Gassicherungsverordnung  (GasSV) - MENTIONS -> Solidarität, Gassicherungsverordnung  (GasSV) - MENTIONS -> Artikel 13 der Verordnung (EU) 2017/1938, Gassicherungsverordnung  (GasSV) - MENTIONS -> Plattformteilnehmer, Gassicherungsverordnung  (GasSV) - MENTIONS -> Plattform, Gassicherungsverordnung  (GasSV) - MENTIONS -> Kunden, Kunden - PROTECTED_BY -> Solidarität, Mitgliedstaat der Europäischen Union - SUBMITS_OFFERS_FOR -> Gas, Plattformteilnehmer - OBLIGATED_TO_PROVIDE -> Informationen, Solidaritätsmaßnahmen - REGULATED_BY -> Artikel 13 der Verordnung (EU) 2017/1938",
+            "Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen - REQUESTS_INFORMATION_FROM -> Plattform, Gassicherungsverordnung  (GasSV) - MENTIONS -> Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen, Gassicherungsverordnung  (GasSV) - MENTIONS -> Verstoß nicht innerhalb eines Monats nach dem 5. April 2023 behoben wurde, Gassicherungsverordnung  (GasSV) - MENTIONS -> Bußgeldverfahren, Gassicherungsverordnung  (GasSV) - MENTIONS -> Meldungen, Gassicherungsverordnung  (GasSV) - MENTIONS -> Unternehmen und Betriebe, Gassicherungsverordnung  (GasSV) - MENTIONS -> Meldepflichten, Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen - HAS_MANDATE -> Meldepflichten, Unternehmen und Betriebe - OBLIGATED_TO -> Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen, Unternehmen und Betriebe - MUST_REPORT -> Meldungen, Bußgeldverfahren - CAN_BE_INITIATED_IF -> Verstoß nicht innerhalb eines Monats nach dem 5. April 2023 behoben wurde",
+            "Energiesicherungsgesetz - REQUIRES_INFORMATION_FOR -> Bundesnetzagentur, Gassicherungsverordnung  (GasSV) - MENTIONS -> 26. April 1982, Gassicherungsverordnung  (GasSV) - MENTIONS -> Bundesministerium für Wirtschaft und Klimaschutz, Gassicherungsverordnung  (GasSV) - MENTIONS -> § 2a, Gassicherungsverordnung  (GasSV) - MENTIONS -> BGBl. I S. 517, Gassicherungsverordnung  (GasSV) - MENTIONS -> Gassicherungsverordnung, Gassicherungsverordnung  (GasSV) - MENTIONS -> Energiesicherungsgesetz, Gassicherungsverordnung  (GasSV) - MENTIONS -> § 3 Absatz 6 Satz 1 Nummer 2, Bundesministerium für Wirtschaft und Klimaschutz - ISSUES_NOTIFICATION -> Energiesicherungsgesetz, Energiesicherungsgesetz - HAS_SECTION -> § 2a, Energiesicherungsgesetz - HAS_SECTION -> § 3 Absatz 6 Satz 1 Nummer 2, Gassicherungsverordnung - HAS_DATE -> 26. April 1982, Gassicherungsverordnung - HAS_REFERENCE -> BGBl. I S. 517"
+        ],
+        "ground_truth_chunk_ids": [
+            "fcd884338ab6f1e3",
+            "c15a1c24f75bdd6e",
+            "7f23ce2bf873695d",
+            "0180f37b7717de61"
+        ],
+        "ground_truth_chunk_indices": [
+            12,
+            14,
+            15,
+            18
+        ],
+        "ground_truth_relation_counts": [
+            11,
+            17,
+            11,
+            13
+        ],
+        "synthesizer": "multi-hop-adjacent"
+    }
+]

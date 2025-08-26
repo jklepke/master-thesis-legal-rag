@@ -1,0 +1,135 @@
+{
+  "overall": {
+    "Relevance": {
+      "mean": 4.71,
+      "std": 0.545,
+      "min": 1,
+      "max": 5,
+      "percent": 94.2
+    },
+    "Factual Accuracy": {
+      "mean": 4.49,
+      "std": 0.642,
+      "min": 1,
+      "max": 5,
+      "percent": 89.8
+    },
+    "Answer Alignment": {
+      "mean": 3.92,
+      "std": 0.732,
+      "min": 1,
+      "max": 5,
+      "percent": 78.4
+    }
+  },
+  "by_question_context": {
+    "Detailed dependency analysis": {
+      "count": 40,
+      "Relevance": {
+        "mean": 4.6,
+        "std": 0.545,
+        "percent": 92.0
+      },
+      "Factual Accuracy": {
+        "mean": 4.25,
+        "std": 0.67,
+        "percent": 85.0
+      },
+      "Answer Alignment": {
+        "mean": 3.75,
+        "std": 0.87,
+        "percent": 75.0
+      }
+    },
+    "Detailed paragraph analysis": {
+      "count": 50,
+      "Relevance": {
+        "mean": 4.98,
+        "std": 0.141,
+        "percent": 99.6
+      },
+      "Factual Accuracy": {
+        "mean": 4.76,
+        "std": 0.431,
+        "percent": 95.2
+      },
+      "Answer Alignment": {
+        "mean": 4.54,
+        "std": 0.542,
+        "percent": 90.8
+      }
+    },
+    "Document Comparison": {
+      "count": 16,
+      "Relevance": {
+        "mean": 4.938,
+        "std": 0.25,
+        "percent": 98.75
+      },
+      "Factual Accuracy": {
+        "mean": 4.5,
+        "std": 0.516,
+        "percent": 90.0
+      },
+      "Answer Alignment": {
+        "mean": 4.0,
+        "std": 0.0,
+        "percent": 80.0
+      }
+    },
+    "Frequently-Asked-Questions (FAQs)": {
+      "count": 16,
+      "Relevance": {
+        "mean": 3.938,
+        "std": 0.998,
+        "percent": 78.75
+      },
+      "Factual Accuracy": {
+        "mean": 3.688,
+        "std": 1.014,
+        "percent": 73.75
+      },
+      "Answer Alignment": {
+        "mean": 3.125,
+        "std": 0.957,
+        "percent": 62.5
+      }
+    },
+    "High-level dependency analysis ": {
+      "count": 10,
+      "Relevance": {
+        "mean": 4.1,
+        "std": 0.316,
+        "percent": 82.0
+      },
+      "Factual Accuracy": {
+        "mean": 4.1,
+        "std": 0.316,
+        "percent": 82.0
+      },
+      "Answer Alignment": {
+        "mean": 3.2,
+        "std": 0.422,
+        "percent": 64.0
+      }
+    },
+    "High-level summary": {
+      "count": 68,
+      "Relevance": {
+        "mean": 4.794,
+        "std": 0.407,
+        "percent": 95.882
+      },
+      "Factual Accuracy": {
+        "mean": 4.676,
+        "std": 0.471,
+        "percent": 93.529
+      },
+      "Answer Alignment": {
+        "mean": 3.838,
+        "std": 0.409,
+        "percent": 76.765
+      }
+    }
+  }
+}

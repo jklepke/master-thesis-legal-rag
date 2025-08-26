@@ -1,0 +1,2 @@
+model,mean_recall_at_k,mean_reciprocal_rank,mean_average_precision,context_precision_ragas_with_reference_NonLLM,context_recall_ragas_NonLLM
+optimal_retrieval_5_Rerank_Hybrid_BM25_Dense_chroma_chunksize1024_overlap128_c800ccc6_method,0.7077,0.697,0.5301,0.6752,0.7277

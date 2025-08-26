@@ -1,0 +1,2 @@
+model,mean_bleu,mean_meteor,mean_rouge1,mean_rouge2,mean_rougeL,mean_bert_precision,mean_bert_recall,mean_bert_f1,mean_answer_correctness
+optimal_post_retrieval_reranking_8_reranking_colbert,0.1515,0.3971,0.4852,0.249,0.3315,0.767,0.7936,0.7791,0.6938

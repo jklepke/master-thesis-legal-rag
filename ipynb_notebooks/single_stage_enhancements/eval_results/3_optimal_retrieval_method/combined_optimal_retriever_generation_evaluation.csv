@@ -1,0 +1,13 @@
+model,mean_bleu,mean_meteor,mean_rouge1,mean_rouge2,mean_rougeL,mean_bert_precision,mean_bert_recall,mean_bert_f1,mean_answer_correctness
+optimal_retrieval_10_MMR_chroma_chunksize1024_overlap128_c800ccc6_method,0.1431,0.3609,0.4571,0.2289,0.3132,0.7562,0.7805,0.767,0.6974
+optimal_retrieval_11_Hybrid_MMR_BM25_chroma_chunksize1024_overlap128_c800ccc6_method,0.1602,0.415,0.4955,0.2644,0.3404,0.7668,0.7957,0.7798,0.7468
+optimal_retrieval_12_Hybrid_MMR_TF-IDF_chroma_chunksize1024_overlap128_c800ccc6_method,0.1554,0.399,0.4892,0.2602,0.3398,0.7685,0.7946,0.7803,0.7155
+optimal_retrieval_1_Dense_chroma_chunksize1024_overlap128_c800ccc6_method,0.1525,0.4041,0.4861,0.2585,0.33,0.7609,0.7953,0.7766,0.7037
+optimal_retrieval_2_TF-IDF_chroma_chunksize1024_overlap128_c800ccc6_method,0.1487,0.3845,0.4639,0.2412,0.3185,0.7543,0.7848,0.7682,0.6624
+optimal_retrieval_3_BM25_chroma_chunksize1024_overlap128_c800ccc6_method,0.1542,0.3904,0.4797,0.2512,0.3253,0.7582,0.7888,0.7721,0.692
+optimal_retrieval_4_Rerank_Hybrid_TF-IDF_Dense_chroma_chunksize1024_overlap128_c800ccc6_method,0.1588,0.4044,0.4934,0.258,0.3296,0.7678,0.7958,0.7806,0.7037
+optimal_retrieval_5_Rerank_Hybrid_BM25_Dense_chroma_chunksize1024_overlap128_c800ccc6_method,0.1509,0.3832,0.482,0.248,0.3262,0.7638,0.7924,0.777,0.6843
+optimal_retrieval_6_Multi_Query_chroma_chunksize1024_overlap128_c800ccc6_method,0.1484,0.3792,0.4759,0.2429,0.3202,0.7616,0.7894,0.7741,0.6866
+optimal_retrieval_7_Hybrid_Multi_Query_chroma_chunksize1024_overlap128_c800ccc6_method,0.1506,0.386,0.4796,0.2476,0.3253,0.7627,0.7913,0.7756,0.694
+optimal_retrieval_8_HyDE_chroma_chunksize1024_overlap128_c800ccc6_method,0.1442,0.3617,0.4687,0.2362,0.3147,0.7533,0.7841,0.7674,0.685
+optimal_retrieval_9_Hybrid_HyDE_chroma_chunksize1024_overlap128_c800ccc6_method,0.16,0.3979,0.4859,0.2644,0.3334,0.762,0.7949,0.777,0.6891

@@ -1,0 +1,2 @@
+model,mean_bleu,mean_meteor,mean_rouge1,mean_rouge2,mean_rougeL,mean_bert_precision,mean_bert_recall,mean_bert_f1,mean_answer_correctness
+baseline_rag_1024_128,0.1508,0.3934,0.4843,0.2487,0.3266,0.761,0.793,0.7756,0.7175

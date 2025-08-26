@@ -1,0 +1,2 @@
+model,mean_recall_at_k,mean_reciprocal_rank,mean_average_precision,context_precision_ragas_with_reference_NonLLM
+fully_optimized_rag_hybrid,0.748,0.8967,0.7029,0.8738

@@ -1,0 +1,2 @@
+question_context,mean_bleu,mean_meteor,mean_answer_correctness,mean_response_relevancy,mean_faithfulness
+undefined,0.1508,0.3934,0.7301,0.8469,0.8967
